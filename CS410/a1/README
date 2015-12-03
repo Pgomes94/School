@@ -1,0 +1,20 @@
+Patrick Gomes
+BU CS 410 
+Assignment 1
+
+To run:
+make
+./finds -p pathname [-f c|h|S] [-l] -s s
+
+fill in appropriate flags
+
+Notes about my assignment:
+
+No my_printf(), i use the normal printf
+May fail on really long lines due to using the getline() call
+
+Everything else is implemented and works!
+
+To clean up:
+
+make clean

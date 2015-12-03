@@ -1,0 +1,25 @@
+Patrick Gomes
+pgomes94@bu.edu
+U02663517
+CS 410 Assignment 0
+
+To run, run the following commands:
+export LD_LIBRARY_PATH=./
+make 
+
+to test the programs run:
+./getsections objsect.o
+./getsyms objsect.o
+./getsections_dl objsect.o RTLD_LAZY
+./getsections_dl objsect.o RTLD_NOW
+./getsyms_dl objsect.o RTLD_LAZY
+./getsyms_dl objsect.o RTLD_NOW
+
+This will write all the stats (with headers for each call) into stats, view with:
+cat stats
+NOTE: sorry for all the extra zeroes at the start of the actual numbers, was having trouble implementing it a different way due to troubles with the strlen() function (possibly broken on csa2?...)
+
+to clean out all generated files (except the stats file which should be manually removed with rm stats) run:
+make clean
+
+Stats file created on linux machine Duey in the CS undergrad lab.
