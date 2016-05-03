@@ -1,0 +1,114 @@
+\documentclass{article}
+\usepackage{amsmath,amsthm,amsfonts}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{decorations.text,calc}
+
+
+\setlength{\textheight}{8.5in}
+\setlength{\evensidemargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\topmargin}{-0.5in}
+\setlength{\textwidth}{6.5in}
+
+
+\newcommand{\handout}[6]{
+   \renewcommand{\thepage}{#1-\arabic{page}}
+   \noindent
+   \begin{center}
+      \vbox{
+    \hbox to \textwidth { #2 \hfill #3 }
+       \vspace{4mm}
+       \hbox to \textwidth { {\Large \hfill #4  \hfill} }
+       \vspace{4mm}
+       \hbox to \textwidth { { #5 \hfill #6} }
+      }
+   \hrulefill
+   \end{center}
+   \vspace*{4mm}
+}
+
+\begin{document}
+
+\handout{}{CS 512: Formal Methods}{Spring 2016}{Assignment 2: Background to SAT/SMT Solvers}{Instructor: Assaf Kfoury}{Author: Patrick Gomes}
+
+\section{Problem 1}
+$| | \ : \ \mathcal{T} \to \mathbb{N} $
+\begin{align*}
+| t | = 
+\begin{cases}
+	1 + | Lt | + | Rt | \ \ \ \ if \ \ t = < Lt, Rt > \\
+	0\ \ \ \ \ \  otherwise\\
+\end{cases}
+\end{align*}
+$height \ : \ \mathcal{T} \to \mathbb{N} $
+\begin{align*}
+heigh(t) = 
+\begin{cases}
+	max(height(Lt), height(Rt)) + 1 \ \ \ \ if \ \ t = < Lt, Rt >\\
+	0 \ \ \ \ \ \ otherwise\\
+\end{cases}
+\end{align*}
+
+\section{Problem 2}
+(a)\\ \\
+Poset:
+\begin{align*}
+	\text{Division within the natural numbers has the Reflexive, Anti-symmetric and Transitive properties.}
+\end{align*}
+Least Upper Bound:
+\begin{align*}
+	\text{Least Common Multiple of a,b $\in \mathbb{N}$ -\{0\}	 returns the smallest number, c, such that both  a $\unlhd$ c}\\  
+	\text{and b $\unlhd$ c. This is the smallest multiple that both numbers divide, so $\lor$ (lcm) is the Least Upper Bound.}
+\end{align*}
+Greatest Lower Bound:
+\begin{align*}
+	\text{Greatest Common Divisor of a,b $\in \mathbb{N}$ - \{0\} returns the largest number, c, such that both c $\unlhd$ a and c $\unlhd$ b}\\
+	\text{This is the largest number that divides both numbers, so $\land$ (gcd) is the Greatest Lower Bound.}
+\end{align*}
+
+Thus $\mathcal{A}$ satisfies all the properties of a lattice.\\ 
+
+(b)
+\text{$\mathcal{A}$ is a distributive latice. Proof:} \\
+\text{Any number can be represented as the product of primes (prime factorization theorem)}\\  
+\text{Represent a, b and c as the product of all primes (1 $\dots$ n) raised to a power.}\\
+\text{Example: a = ($p_1^\alpha, \dots, p_n^\alpha$) where each $\alpha$ represents the number of times that prime appears in a's prime factorization}\\
+\text{Repeat the same for b and c.}\\
+\text{Represent lcm ($\lor$) as the max function and gcd ($\land$) as the min function}\\
+\text{Proving a $\land$ (b $\lor$ c) = (a $\lor$ b) $\land$ (a $\lor$ c) :}\\
+\text{a $\land$ (b $\lor$ c) = $p_1^{min\{\alpha, max\{\beta, \gamma\}\}} \dots p_n^{min\{\alpha, max\{\beta, \gamma\}\}}$ }\\
+\text{(a $\lor$ b) $\land$ (a $\lor$ c) = $p_1^{max\{min\{\alpha, \beta\}, min\{\alpha, \gamma\}\}} \dots p_n^{max\{min\{\alpha, \beta\}, min\{\alpha, \gamma\}\}} $}\\
+\text{Any ordering of $\alpha, \beta, \gamma$ will result in the same output for both equations (not shown to save space).}\\
+\text{The same strategy and proof will satisfy the other constraint of: a $\lor$ (b $\land$ c) = (a $\lor$ b) $\land$ (a $\lor$ c)}\\
+
+\section{Problem 3}
+Proof by induction: 
+\text{Base Case (1 Connective):}\\
+\text{$\neg p = \neg p$}\\
+\text{$\neg (p \lor q) = \neg p \land q$} \\
+\text{$\neg (p \land q) = \neg p \lor q$} \\ \\
+\text{Induction Step:}\\
+\text{A WFF $\phi$ with n+1 connectives can be represented in one of the following forms: }\\
+\begin{equation*}
+	\begin{cases}
+		\text{$\neg \phi$}\\
+		\text{$\phi \lor \phi$}\\
+		\text{$\phi \land \phi$}\\
+	\end{cases}\\ 
+\end{equation*}
+\text{The last 2 cases are valid in NNF. The first case is proved through De Morgan's.}\\
+$\neg (\phi \land \phi) \equiv \neg \phi \lor \neg \phi$ \text{The left hand side has 4 terms. The right hand side has 5. 5 $<$ 1.5 * 4}\\
+\text {The same situation happens with $\lor$ instead of $\land$}. 
+
+
+\section{Problem 4}
+\text{Extending the HORN Clause will cause the HORN algorithm to say that certain formulas} \\
+\text{are satisfiable even if they aren't.}\\
+\text{Here is one such example:}\\
+$(\top \to p) \land (\top \to \neg p)$\\
+\text{This is a valid HORN Formula consisting of two HORN clauses.}\\
+\text{The algorithm will assign true to both p and $\neg$ p, which can't be true.}\\
+\text{Therefore, adding $\neg$ to HORN Clauses will break the algorithm.}\\
+
+\end{document}

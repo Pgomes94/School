@@ -1,0 +1,92 @@
+\documentclass{article}
+\usepackage{amsmath,amsthm,amsfonts, amssymb}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{decorations.text,calc}
+
+
+\setlength{\textheight}{8.5in}
+\setlength{\evensidemargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\topmargin}{-0.5in}
+\setlength{\textwidth}{6.5in}
+
+\usepackage{prooftree}
+\usepackage{boxproof}
+\usepackage{parskip}
+
+\newcommand{\handout}[6]{
+   \renewcommand{\thepage}{#1-\arabic{page}}
+   \noindent
+   \begin{center}
+      \vbox{
+    \hbox to \textwidth { #2 \hfill #3 }
+       \vspace{4mm}
+       \hbox to \textwidth { {\Large \hfill #4  \hfill} }
+       \vspace{4mm}
+       \hbox to \textwidth { { #5 \hfill #6} }
+      }
+   \hrulefill
+   \end{center}
+   \vspace*{4mm}
+}
+\begin{document}
+\handout{}{CS 512: Formal Methods}{Spring 2016}{Assignment 6: Linear Temporal Logic}{Instructor: Assaf Kfoury}{Author: Patrick Gomes}
+\section{Problem 1}
+a) \\
+\begin{align*}
+	\varphi_1(x) \triangleq (1 < x)\ \land \forall y (\exists z (y \times z = x) \to (y=1 \lor y=x))\\
+	\varphi_2(m,n) \triangleq (1 < m) \land (1 < n) \land \forall y (\exists z(y \times z=m) \to (\neg \exists v (y \times v = n)\\
+	\varphi_3(X) \triangleq \forall x (X(x) \to \exists y(y \times (1+1) = x)\\
+	\varphi_4(X) \triangleq \forall x (X(x) \to (x=1 \lor \exists y (X(y) \land (x = y * (1+1))))
+\end{align*}
+
+\section{Problem 2}
+\begin{align*}
+	\text {Formula: $\neg$p U (F r $\lor$ G $\neg$q $\to$ q W $\neg$r)}\\
+	\text{Subformulas:}\\
+	p \\
+	\neg p \\
+	r\\
+	F\ r\\
+	q\\
+	\neg q\\
+	\text{G $\neg$ q}\\
+	\text{F r $\lor$ G $\neg$ q}\\
+	\neg r\\
+	\text{q W $\neg$ r}\\
+	\text{F r $\lor$ G $\neg$ q $\to$ q W $\neg$ r}\\
+	\text{$\neg$ p U F r $\lor$ G $\neg$ q $\to$ q W $\neg$ r}	\\
+\end{align*}
+
+\section{Problem 3}
+a) G\ a\\
+$\pi$ = $(q_3,q_4)^i$\\
+$\mathcal{M}, q_3 \nvDash \phi$ \text{A counter example: $\pi$ = $q_3,q_2$. $q_2$ is $\neg a$}
+
+b) a\ U\ b\\
+$\pi$ = $q_3,q_2$\\
+$\mathcal{M}, q_3 \nvDash \phi$ \text{A counter example: $\pi$ = $q_3,q_1$. $q_1$ is $\neg a$ but b is not true.}
+
+c) a\ U\ X($a \land \neg b$)\\
+$\forall i \geq	 1\ \pi^i$ = $q_3,q_4,q_3$\\
+$\mathcal{M}, q_3 \nvDash \phi$ \text{A counter example: $\pi$ = $q_3,q_2$. $q_2$ is $\neg a$ and there is no way to get to $q_3$ and satisfy the next clause. }
+
+d) X $\neg b\ \land$\ G($\neg a \lor \neg b$)\\
+$\pi$ = $q_3,q_1,q_2^i$\\
+$\mathcal{M}, q_3 \nvDash \phi$ \text{A counter example: $\pi$ = $q_3,q_4$. $q_4$ does not satisfy the next clause}\\
+
+e) X (a $\land$ b) $\land$ F($\neg a \land \neg b$) \\
+$\pi$ = $q_3,q_4,q_3,q_1$\\
+$\mathcal{M}, q_3 \nvDash \phi$ \text{A counter example: $\pi$ = $q_3,q_2$. $q_2$ does not satisfy the next clause.}
+
+\section{Problem 4}
+\begin{align*}
+	\pi \vDash (X \varphi) U (X \psi) \ \ \text{iff (By expanding definition of U)}\\
+	\pi \vDash (\exists i \geq 1) (\pi^i \vDash X\psi \land (\forall j < i) (\pi^j \vDash X\varphi)) \ \ \text{iff (By removal of X and representing next state, not current.)}\\
+	\pi^2 \vDash (\exists i \geq 1) (\pi^{i+1} \vDash \psi \land (\forall j < i) (\pi^{j+1} \vDash \varphi)) \ \ \text{iff (By condensing definiton of U)}\\
+	\pi^2 \vDash \varphi U \psi \ \ \text{iff (By reintroducing X to represent current state.)}\\
+	\pi \vDash X (\varphi U \psi)\\
+\end{align*}
+
+\end{document}

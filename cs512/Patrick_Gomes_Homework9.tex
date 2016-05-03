@@ -1,0 +1,100 @@
+\documentclass{article}
+\usepackage{amsmath,amsthm,amsfonts, amssymb}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{decorations.text,calc}
+
+\setlength{\textheight}{8.5in}
+\setlength{\evensidemargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\topmargin}{-0.5in}
+\setlength{\textwidth}{6.5in}
+
+\usepackage{prooftree}
+\usepackage{boxproof}
+\usepackage{parskip}
+
+\newcommand{\handout}[6]{
+   \renewcommand{\thepage}{#1-\arabic{page}}
+   \noindent
+   \begin{center}
+      \vbox{
+    \hbox to \textwidth { #2 \hfill #3 }
+       \vspace{4mm}
+       \hbox to \textwidth { {\Large \hfill #4  \hfill} }
+       \vspace{4mm}
+       \hbox to \textwidth { { #5 \hfill #6} }
+      }
+   \hrulefill
+   \end{center}
+   \vspace*{4mm}
+}
+\begin{document}
+\handout{}{CS 512: Formal Methods}{Spring 2016}{Assignment 9: Modeling with CTL}{Instructor: Assaf Kfoury}{Author: Patrick Gomes}
+\section{Problem 1}
+e) Yes it is satisfiable with a $\delta$ of 0.001, the answer is x = y = 0.0008217490086014628 given by dReal
+\\f) No it is no longer satisfiable.
+\\g) If you allow a $\delta$ of 0.2 then the solution is satisfiable. dReal has given back: x = 0.3622065017492991 and y = 0.3543384320284063 which are within our delta bounds.
+
+\section{Problem 2}
+Defining 'right' to be equivalent to i + 1 unless i = 5 in which case right is i = 1.\\ \\
+a) $AG\ \neg (w_1 \land w_2 \land w_3 \land w_4 \land w_5)$
+\\ \text{From now onwards, it is never the case that all philosophers are waiting.}\\
+\\b) $AG (AF e_1 \land AF e_2 \land AF e_3 \land AF e_4 \land AF e_5)$
+\\ \text{From now onwards, all philosophers will eventually eat.}\\
+\\b) $AG (AF e_1 \land AF e_2 \land AF e_3 \land AF e_4 \land AF e_5)$
+\\ \text{From now onwards, all philosophers will eventually eat (i.e. not starve to death).}\\
+
+d) $AG( (e_1 \to AF e_2) \land (e_2 \to AF e_3) \land (e_3 \to AF e_4) \land (e_4 \to AF e_5) \land (e_5 \to AF e_1) $
+\\ \text{If a philosopher can eat, then at some point in the future the philosopher to his right will be able to eat.}\\
+
+e)\ $AG (AF e_1 \lor AF e_2 \lor AF e_3 \lor AF e_4 \lor AF e_5)$
+\\ \text{From now onwards, some philosopher will be able to eat in the future.}\\ 
+
+f)\ $AG (AF e_1 \land AF e_2 \land AF e_3 \land AF e_4 \land AF e_5)$ 
+\\ \text{From now onwards, all philosophers will inevitably eat in the future.}\\
+
+g)\ $AG ((e_1 \to \neg (e_2 \land e_5)) \land  (e_2 \to \neg (e_1 \land e_3)) \land  (e_3 \to \neg (e_2 \land e_4)) \land  (e_4 \to \neg (e_3 \land e_5)) \land  (e_5 \to \neg (e_4 \land e_1))) $
+\\ \text{From now onwards, if a philosopher is eating, the philosophers to his left and right can't be eating.}\\
+
+h)\ $AG (e_1 \lor e_2 \lor e_3 \lor e_4 \lor e_5)$
+\\ \text{From now onwards, at least one philosopher is always eating.}\\
+
+\section{Problem 3}
+a)\\
+All available states:
+\begin{align*}
+	s_0 - (f,f,f,f,f)\\
+	s_1 - (t,f,f,f,f)\\
+	s_2 - (t,f,t,f,f)\\
+	s_3 - (t,f,f,t,f)\\
+	s_4 - (f,t,f,f,f)\\
+	s_5 - (f,t,f,t,f)\\
+	s_6 - (f,t,f,f,t)\\
+	s_7 - (f,f,t,f,f)\\
+	s_8 - (f,f,t,f,t)\\
+	s_9 - (f,f,f,t,f)\\
+	s_{10} - (f,f,f,f,t)\\
+\end{align*}
+State transitions for each state:
+\begin{align*}
+	s_0 -> \text{all states}\\
+	s_1 -> \{s_0, s_4, s_5, s_6, s_7, s_8, s_9, s_{10}\}\\
+	s_2 -> \{s_0, s_4, s_5, s_6, s_9, s_{10}\}\\
+	s_3 -> \{s_0, s_4, s_6, s_7, s_8, s_9, s_{10}\}\\
+	s_4 -> \{s_0, s_1, s_2, s_3, s_7, s_8, s_9, s_{10}\}\\
+	s_5 -> \{s_0, s_1, s_2, s_7, s_8, s_9, s_{10}\}\\
+	s_6 -> \{s_0, s_1, s_2, s_3, s_7, s_9\}\\
+	s_7 -> \{s_0, s_1, s_3, s_4, s_5, s_6, s_9, s_{10}\}\\
+	s_8 -> \{s_0, s_1, s_3, s_4, s_5, s_9\}\\
+	s_9 -> \{s_0, s_1, s_2, s_4, s_6, s_7, s_8, s_{10}\}\\
+	s_{10} -> \{s_0, s_1, s_2, s_3, s_4, s_5, s_7, s_9\}
+\end{align*}
+b)
+The first CTL is not satisfied because the path $s_0, s_3$ violates it.\\
+The second CTL is not satisfied because the path$s_0, s_1$ violates it. \\
+The third CTL is satisfied!
+\\ \\c)
+All you need to do is add an intermediate set of states such that after eating you go to a state where your value for f is true and then it resets back to waiting to eat.
+\end{document}

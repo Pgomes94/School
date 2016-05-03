@@ -1,0 +1,181 @@
+\documentclass[12pt,leqno,fleqn]{article}
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for rotated page geometry
+%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{amssymb}
+
+\usepackage{prooftree}
+\usepackage{boxproof}
+\usepackage{parskip}
+
+\newcommand{\Intro}[1]{{#1}{\textrm{i}}}
+\newcommand{\Elim}[1]{{#1}{\textrm{e}}}
+
+\title{CS 512, Spring 2016: Assignment 1\\Propositional Logic}
+\author{Patrick Gomes}
+\date{January 29, 2016}	% Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+\section{Problem 1}
+
+a) $P \to Q, P \to \neg Q \vdash \neg P$
+\begin{proofbox}
+	\label{a1}\: P \to Q \= \textrm{premise} \\
+	\label{a2}\: P \to \neg Q \= \textrm{premise} \\
+	\[
+		\label{a3}\: P \= \textrm{assume} \\
+		\label{a4}\: Q \= \Elim{\to}\ \ \ref{a1},\ref{a3}\\
+		\label{a5}\: \neg Q \= \Elim{\to}\ \ \ref{a2},\ref{a3}\\
+		\label{a6}\: \bot \= \Elim{\neg}\ \ \ref{a4},\ref{a5}\\
+	\]
+	\label{a7}\: \neg P \= \Intro{\neg}\\
+\end{proofbox}
+
+b) $P \to (Q \to R), P, \neg R \vdash \neg Q$
+\begin{proofbox}
+	\label{b1}\: P \to (Q \to R) \= \textrm{premise} \\
+	\label{b2}\: P \= \textrm{premise} \\
+	\label{b3}\: \neg R \= \textrm{premise} \\
+	\label{b4}\: Q \to R \= \Elim{\to}\ \ \ref{b1},\ref{b2}\\
+	\label{b5}\: \neg Q \= \textrm{MT \ref{b3},\ref{b4}}\\
+\end{proofbox}
+
+\section{Problem 2}
+a) $\neg P \to \neg Q \vdash Q \to P$\\
+\begin{proofbox}
+	\label{c1}\: \neg P \to \neg Q \= \textrm{premise}\\
+	\[
+		\label{c2}\: Q \= \textrm{assume}\\
+		\label{c3}\: \neg \neg Q \= \Elim{\neg{\neg{}}}\ \ \ref{c2}\\
+		\label{c4}\: \neg \neg P \= \textrm{MT \ref{c1},\ref{c3}}\\
+		\label{c5}\: P \= \Elim{\neg{\neg{}}}\ \ \ref{c4}\\
+	\]
+	\label{c6}\: Q \to P \= \Intro{\to}
+\end{proofbox}
+
+b) $\neg P \lor \neg Q \vdash \neg (P \land Q)$\\
+\begin{proofbox}
+	\label{d1}\: \neg P \lor \neg Q \= \textrm{premise}\\
+	\[
+		\label{d2}\: \neg P \= \textrm{assume}\\
+		\[
+			\label{d3}\: P \land Q \= \textrm{assume}\\
+			\label{d4}\: P \= \Elim{\land}\ \ \ref{d3}\\
+			\label{d5}\: \bot \= \Elim{\neg}\ \ \ref{d2},\ref{d4}\\
+		\]
+		\label{d6}\: \neg (P \land Q) \= \Intro{\neg}\ \ \ref{d3}-\ref{d5}\\
+	\]
+	\[
+		\label{d7}\: \neg Q \= \textrm{assume}\\
+		\[
+			\label{d8}\: P \land Q \= \textrm{assume}\\
+			\label{d9}\: Q \= \Elim{\land}\ \ \ref{d8}\\
+			\label{d10}\: \bot \= \Elim{\neg}\ \ \ref{d7},\ref{d9}\\
+		\]
+		\label{d11}\: \neg (P \land Q) \= \Intro{\neg}\ \ \ref{d8}-\ref{d10}\\
+	\]
+	\label{d12}\: \neg (P \land Q) \= \Elim{\lor}\ \ \ref{d1},\ref{d2}-\ref{d6},\ref{d7}-\ref{d11}\\
+\end{proofbox}
+
+c) $\neg P, P \lor Q \vdash Q$\\
+\begin{proofbox}
+	\label{e1}\: \neg P \= \textrm{premise}\\
+	\label{e2}\: P \lor Q \= \textrm{premise}\\
+	\[
+		\label{e3}\: \neg Q \= \textrm{assume}\\
+		\[
+			\label{e4}\: P \= \textrm{assume}\\
+			\label{e5}\: \bot \= \Elim{\neg}\ \ \ref{e1},\ref{e4}\\
+		\]
+		\[
+			\label{e6}\: Q \= \textrm{assume}\\
+			\label{e7}\: \bot \= \Elim{\neg}\ \ \ref{e3},\ref{e6}\\
+		\]
+		\label{e8}\: \bot \= \Elim{\neg}\ \ \ref{e3}-\ref{e7}\\
+	\]
+	\label{e9}\: Q \= \Intro{\neg}\\
+\end{proofbox}
+
+d) $P \lor Q, \neg Q \lor R \vdash P \lor R$
+\begin{proofbox}
+	\label{f1}\: P \lor Q \= \textrm{premise}\\
+	\label{f2}\: \neg Q \lor R \= \textrm{premise}\\
+	\[
+		\label{f3}\: P \= \textrm{assume}\\
+		\label{f4}\: P \lor R \= \Intro{\lor}_1\ \ \ref{f3}\\
+	\]
+	\[
+		\label{f5}\: Q \= \textrm{assume}\\
+		\[
+			\label{f6}\: \neg Q \= \textrm{assume}\\
+			\label{f7}\: \bot \= \Elim{\neg}\ \ \ref{f5},\ref{f6}\\
+			\label{f8}\: P \lor R \= \Elim{\bot}\ \ \ref{f7}\\
+		\]
+		\[
+			\label{f9}\: R \= \textrm{assume}\\
+			\label{f10}\: P \lor R \= \Intro{\lor}_2\ \ \ref{f9}\\
+		\]
+		\label{f11}\: P \lor R \= \Elim{\lor}\ \ \ref{f6}-\ref{f8},\ref{f9}-\ref{f10}\\
+	\]
+	\label{f12}\: P \lor R \= \Elim{\lor}\ \ \ref{f1},\ref{f2},\ref{f3}-\ref{f4},\ref{f5}-\ref{f11}\\
+\end{proofbox}
+
+\section{Problem 3}
+c is the number of binary connectives.
+n is the number of negation connectives.
+s is the number of propositional atoms or variables.
+$\ell$ is the length of $\varphi$, not counting paraenthesis.\\
+s = c + 1\\
+n = $\ell$ - c - s = $\ell$ - c - (c + 1) = $\ell$ - 2c - 1
+\section{Problem 4}
+
+Base Case (1 term): \\
+$\phi \equiv p$ \\
+$\phi^* \equiv \neg p $\\
+therefore: $\phi^* \equiv \neg \phi$\\
+
+Defining $\phi^*$:\\
+if $\phi \equiv \psi \lor \psi \equiv \phi^* \equiv \psi^* \land \psi^*$ \\ 
+if $\phi \equiv \psi \land \psi \equiv \phi^* \equiv \psi^* \lor \psi^*$ \\ 
+if $\phi \equiv \psi \equiv \phi^* \equiv \neg \psi^*$ \\ 
+
+Induction Step: \\
+Assume $\phi$ has more than 1 term and for all wff's $\psi$ with less terms than $\phi$ that $\psi^* = \neg \psi$\\
+if $\phi$ is of the form $\psi \lor \psi$ then $\phi^* \equiv \psi^* \land \psi^* \equiv \neg \psi \land \neg \psi \equiv \neg (\psi \lor \psi) \equiv \neg \phi$ \\
+if $\phi$ is of the form $\psi \land \psi$ then $\phi^* \equiv \psi^* \lor \psi^* \equiv \neg \psi \lor \neg \psi \equiv \neg (\psi \land \psi) \equiv \neg \phi$ \\
+if $\phi$ is of the form $\neg \psi$ then $\phi^* \equiv \neg \psi^* \equiv \neg \neg \psi \equiv \neg \phi$ \\
+
+Thus for any $\phi$, $\phi^* \equiv \neg \phi$.\\
+
+\section{Problem 5}
+\subsection{a)}
+\{$\neg, \land$\}: $\phi \lor \phi \equiv \neg (\phi \land \phi)$, $\phi \to \phi \equiv \neg \phi \lor \phi \equiv \neg \neg \phi \land \neg \phi$ Anything with $\lor\  or \to$ can be represented by $\neg\  and\  \land$ as shown.
+
+\{$\neg, \to$\}: $\neg \phi \to \phi \equiv \phi \lor \phi$, which means using $\neg$ and $\to$ you can represent $\lor$, and the set \{$\neg, \lor$\} is adequate as proved in the book.
+
+\{$\neg, \bot$\}: $\neg \phi \equiv \phi \to \bot$ which means using $\neg$ and $\bot$ you can represent $\to$  and \{$\neg, \to$\} is adequate as proved above.
+\subsection{b)}
+If C doesn't contain $\neg \ or \bot$ then C $\subseteq$ \{$\land, \lor, \to$\}. There is no way to represent $\neg$ P for a formula with only P and the connectives in C, this C isn't adequate without $\neg \ or \bot$
+\subsection{c)}
+Truth Table for variables P and Q with the connectives \{$\neg, \leftrightarrow$\}\\
+P \ \ Q \ \ $\neg$P \ \ $\neg$Q \ \ P$\leftrightarrow$Q \ \ $\neg$P$\leftrightarrow$Q \ \ P$\leftrightarrow \neg$Q \ \ $\neg$P$\leftrightarrow \neg$Q\\
+T \ \ T \ \ \ F \ \ \ \ \ F \ \ \ \ \ T  \ \ \ \ \ \ \ \ \ F \ \ \ \ \ \ \ \ F \ \ \ \ \ \ \ \ \ \ \ \ \ T\\
+T \ \ F \ \ \ F \ \ \ \ \ T \ \ \ \ \ F  \ \ \ \ \ \ \ \ \ T \ \ \ \ \ \ \ \ T \ \ \ \ \ \ \ \ \ \ \ \ \ F\\
+F \ \ T \ \ \ T \ \ \ \ \ F \ \ \ \ \ F  \ \ \ \ \ \ \ \ \ T \ \ \ \ \ \ \ \ T \ \ \ \ \ \ \ \ \ \ \ \ \ F\\
+F \ \ F \ \ \ T \ \ \ \ \ T \ \ \ \ \ T  \ \ \ \ \ \ \ \ \ F \ \ \ \ \ \ \ \ F \ \ \ \ \ \ \ \ \ \ \ \ \ T\\
+
+In no case is it possible for an odd number of T's, which means P $\land$ Q can not be represented by only these 2 operators, so \{$\neg, \leftrightarrow$\} is not adequate.
+
+\section{Problem 6}
+Assume a formula with only 2 atoms so the possibilities are \{p, $\neg$p, q, $\neg$q\}.\\
+The \# operator doesn't care about the order of the elements so the possibilities with only 2 atoms and their negations is \#($\phi, \phi, \psi$) or \#($\phi, \neg \phi, \psi$).\\
+ \#($\phi, \phi, \psi$) $\equiv \phi$\\
+ \#($\phi, \neg \phi, \psi$) $\equiv \psi$\\
+ $\phi$ and $\psi$ are both one of the possible atoms, and their negations are also in that set. So the outcome is always equivalent to some single term.
+Thus, for example, it's impossible to represent p $\land$ q with only \{$\neg$, \#\}\\.
+
+\end{document}  

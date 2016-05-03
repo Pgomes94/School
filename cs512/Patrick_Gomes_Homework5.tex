@@ -1,0 +1,94 @@
+\documentclass{article}
+\usepackage{amsmath,amsthm,amsfonts, amssymb}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{decorations.text,calc}
+
+
+\setlength{\textheight}{8.5in}
+\setlength{\evensidemargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\topmargin}{-0.5in}
+\setlength{\textwidth}{6.5in}
+
+\usepackage{prooftree}
+\usepackage{boxproof}
+\usepackage{parskip}
+
+\newcommand{\handout}[6]{
+   \renewcommand{\thepage}{#1-\arabic{page}}
+   \noindent
+   \begin{center}
+      \vbox{
+    \hbox to \textwidth { #2 \hfill #3 }
+       \vspace{4mm}
+       \hbox to \textwidth { {\Large \hfill #4  \hfill} }
+       \vspace{4mm}
+       \hbox to \textwidth { { #5 \hfill #6} }
+      }
+   \hrulefill
+   \end{center}
+   \vspace*{4mm}
+}
+\begin{document}
+\handout{}{CS 512: Formal Methods}{Spring 2016}{Assignment 5: Formal Modeling in First-Order Logic}{Instructor: Assaf Kfoury}{Author: Patrick Gomes}
+\section{Problem 1}
+\begin{align*}
+	\varphi \triangleq \exists y (y \to x) \to \neg \forall z (z \to x) \lor x\\
+	\varphi \triangleq \exists y (y \to x) \to \exists z \neg(z \to x) \lor x\\
+	\varphi \triangleq \exists y \exists z ((y \to x ) \to \neg (z \to x) \lor x)
+\end{align*}
+
+\section{Problem 2}
+1)
+\begin{proofbox}
+	\[
+		\label{a1}\: \forall x \varphi(x,f(x)) \= \textrm{assume} \\
+		\[
+			\label{a2}\: x_0 \= \textrm{fresh} \\
+			\label{a3}\: \varphi(x_0,f(x_0)) \= \forall \ e\ \ \ref{a1},\ref{a2}\\
+			\label{a4}\: \exists y \varphi(x_0,y) \= \exists \ i\ \ \ref{a3}\\
+		\]
+		\label{a5}\: \forall x \exists y \varphi(x,y) \= \forall \ i \ \ \ref{a4}\\
+	\]
+	\label{a6}\: \forall x \varphi(x,f(x)) \to \forall x \exists y \varphi(x,y) \= \to i \ \ \ref{a1}-\ref{a5}\\
+\end{proofbox}
+
+2)\\
+\begin{align*}
+	Disproving: \forall \exists \varphi(x,y) \to \forall x \varphi(x,f(x))
+\end{align*}
+\text{let x, y $\in \mathbb{N}$, $\varphi$(x,y) be equivalent to x $<$ y and f(x) be equivalent to x-1}\\
+\text{Obviously for any natural number there exists a natural number smaller than it so the left hand side is true.}\\
+\text{But the right hand side will always be false as x will never be less than x - 1}
+
+\section{Problem 3}
+a)  $\forall x \forall y (S(x,y) \to S(y,x)) \to (\forall x \neg S(x,x))$\\
+this can be interpreted as reflexive $\to$ symmetric\\
+assume x, y $\in$ \{1,2\} and that you have some relation R = \{(1,2), (2,1)\}\\
+S(x,y) $\equiv$ (x,y) $\in$ R\\
+The left hand side is true because both (1,2) and (2,1) are in R, but neither (1,1) or (2,2) are in R so the right hand side will always be false.
+
+b) $\exists y ((\forall x P(x)) \to P(y))$\\
+\begin{proofbox}
+	\[
+		\label{b1}\: \forall x P(x) \= \textrm{assume}\\
+		\[
+			\label{b2}\: x_0 \= \textrm{fresh}\\
+			\label{b3}\: P(x_0) \= \forall x \ e \ \  \ref{b1}, \ref{b2}\\
+		\]
+		\label{b4}\: \exists w P(w) \= \exists w \ i \ \ \ref{b3}\\
+	\]
+	\label{b5}\: \forall x P(x) \to \exists w P(w) \= \to i \ \ \ref{b1}-\ref{b4}\\
+	\label{b6}\: \exists y ((\forall x P(x)) \ to P(y)) \= \textrm{Lemma from handout}\\
+\end{proofbox}
+
+c) $(\forall x (P(x) \to \exists y Q(y))) \to (\forall x \exists y (P(x) \to Q(y)))$\\
+This is equivalent to the lemma from handout 13 which has been proved true.\\
+
+\section{Problem 4}
+We are given in the problem that embedding a finite partial order into a total order is always possible as it can be reduced to topologically sorting a DAG, which is known to always be doable.\\
+The problem defines embedding an partial order into a total order by defining some total order sharing the same domain as the partial order with a new set of of operands such that the partial order's operand is a subset of the total order's operand. \\
+The compactness theorem states that any set of first-order sentences, including an infinite set, must satisfy the constraint that all finite subsets of it are satisfiable and consistent.\\ 
+These two combined mean that for all finite subsets of an infinite partial order, it can be embedded into some total order, thus for all infinite partial orders it can be broken into finite partial orders such that they can be embedded into some total order. \\
+\end{document}  

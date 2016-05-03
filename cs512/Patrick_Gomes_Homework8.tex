@@ -1,0 +1,77 @@
+\documentclass{article}
+\usepackage{amsmath,amsthm,amsfonts, amssymb}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{decorations.text,calc}
+
+\setlength{\textheight}{8.5in}
+\setlength{\evensidemargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\topmargin}{-0.5in}
+\setlength{\textwidth}{6.5in}
+
+\usepackage{prooftree}
+\usepackage{boxproof}
+\usepackage{parskip}
+
+\newcommand{\handout}[6]{
+   \renewcommand{\thepage}{#1-\arabic{page}}
+   \noindent
+   \begin{center}
+      \vbox{
+    \hbox to \textwidth { #2 \hfill #3 }
+       \vspace{4mm}
+       \hbox to \textwidth { {\Large \hfill #4  \hfill} }
+       \vspace{4mm}
+       \hbox to \textwidth { { #5 \hfill #6} }
+      }
+   \hrulefill
+   \end{center}
+   \vspace*{4mm}
+}
+\begin{document}
+\handout{}{CS 512: Formal Methods}{Spring 2016}{Assignment 8: LTL, CTL, Traces and Execution Paths in Transition Systems}{Instructor: Assaf Kfoury}{Author: Patrick Gomes}
+\section{Problem 1}
+a) \\
+No. Starting from $s_0 , \pi \vDash \{s_0, (s_3, s_4, s_0)^* \}$ \\
+\\
+b) \\
+Yes. There is no infinite path that does not pass a state where $\neg p$ is true at one point.\\
+\\
+c) \\
+This is also true. Starting from $s_0$ you can either go to $s_1$, which satisfies the condition (P $\land$ X P), or you go to $s_3,$ and then $s_4, s_0$ which also satisfies the condition. So there is no path that doesn't satisfy the condition at least once in the future.\\
+
+\section{Problem 2}
+a) \\
+No for the same reason as 1.a, you can go down the same path $\pi \vDash \{s_0, (s_3, s_4, s_0)^* \}$ \\
+\\
+b)\\
+\\
+Yes for the same reason as 1.b, there is no infinite path that does not pass a state where $\neg p$ is true at one point.\\
+\\
+c)\\
+No, because the $\forall$Xp will not be satisfied if you go from $s_0$ to $s_3$ because the immediate next is not also true.\\
+
+\section{Problem 3}
+As seen in problems 1.c and 2.c, directly substituting a $\forall$ will not translate LTL to CTL. The LTL formula F X p is satisfiable because there will be some future state where p is true no matter what path is taken. On the other hand, the CTL formula $\forall$ F X p is not satisfiable because from the initial state you can go to $s_3$ which is $\neg$ p and violates the forall condition.\\
+
+\section{Problem 4}
+a)\\
+Infinite loop back to start : (abb)\\
+Reaching end states : (ab)\\
+You can also reach end state $s_2$ by repeating a*\\
+Combined all together = (abb)*aba*\\
+\\
+b)\\
+Infinite loop back to start : (abb)\\
+reaching end states : (ab)\\
+continuing at state $s_2$ : a\\
+continuing at state $s_4$ : (bab)\\
+Combined all together = (abb)*ab(a + bab$)^w$\\
+\\
+c)\\
+Yes there is a path there. At some future point, p implies the next next state will be p forever. An infinite path $\pi \vDash ab(a)^w$ satisfies this condition.\\ 
+The trace for that path is pp($\neg p)^w$\\
+
+\end{document}

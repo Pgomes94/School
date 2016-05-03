@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage{amsmath,amsthm,amsfonts, amssymb}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{decorations.text,calc}
+
+\setlength{\textheight}{8.5in}
+\setlength{\evensidemargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\topmargin}{-0.5in}
+\setlength{\textwidth}{6.5in}
+
+\usepackage{prooftree}
+\usepackage{boxproof}
+\usepackage{parskip}
+
+\newcommand{\handout}[6]{
+   \renewcommand{\thepage}{#1-\arabic{page}}
+   \noindent
+   \begin{center}
+      \vbox{
+    \hbox to \textwidth { #2 \hfill #3 }
+       \vspace{4mm}
+       \hbox to \textwidth { {\Large \hfill #4  \hfill} }
+       \vspace{4mm}
+       \hbox to \textwidth { { #5 \hfill #6} }
+      }
+   \hrulefill
+   \end{center}
+   \vspace*{4mm}
+}
+\begin{document}
+\handout{}{CS 512: Formal Methods}{Spring 2016}{Assignment 10: Probabilistic Model Checking}{Instructor: Assaf Kfoury}{Author: Patrick Gomes}
+\section{Problem 1}
+Randomized Dining Philosophers Problem deadlock free with $\mathcal{P} \geq 0.9$\\ \\ 
+Deadlocks in our randomized algorithm occur only when all philosophers try to take their left fork (or right, same situation will occur) because everyone will grab their left fork, try to grab their right fork, see its not available so the state resets and repeats forever. \\ \\
+The probability of this happening once is $(0.5)^5$, assuming a fair coin flip and 5 philosophers, which is a 0.03125$\%$ chance of happening. This is already above the 90$\%$ probability we were looking for, but if we extend this to need to occur infinitely for a permanent deadlock then $(0.03125)^\mathcal{W}$ will approach 0 as $\mathcal{W}$ approaches infinity.
+\section{Problem 2}
+a) \\
+$p_1 \triangleq Pr(\mathcal{A}, s_0 \vDash \varphi_1)$\\
+1 - probabilty of $\neg \varphi_1$ \\ 
+Pr($\neg \varphi_1$) = 0.4 + 0.6*0.3 + 0.6*$(0.3)^2$ + ... = 0.4 + 0.257143 = 0.657143\\
+$p_1 \triangleq 1- 0.657143 = 0.342857\%$\\
+\\ $p_2 \triangleq Pr(\mathcal{A}, s_0 \vDash \varphi_2) = 0.6\%$\\
+Don't need to account for the 0.3$\%$ self-loop because the probability of that occurring forever is 0.\\
+The same applies to the self-loop at $s_5$\\
+\\ $p_3 \triangleq Pr(\mathcal{A}, s_0 \vDash (\varphi_1 \lor \varphi_2 ))$\\
+$p_3 \triangleq Pr(F(a \land b) \lor XFa) = 0.6\%$\\
+Don't need to account for the self-loops for the same reason as $p_2$\\
+\\ b) \\
+$\mathcal{A}, init \vDash \varphi^`_1$ has the same probability as calculated in part a, so there is only a 0.342857$\%$ chance, which is less than 0.5$\%$, thus $\mathcal{A}, init \vDash \varphi^`_1$ does not hold.\\
+\\ $\mathcal{A}, init \vDash \varphi^`_2$ has the same probability as calculated in part a, so there is a 0.6$\%$ chance, which is higher than 0.5$\%$, thus $\mathcal{A}, init \vDash \varphi^`_2$ does hold. \\
+\\ c) \\ In order to make $\mathcal{A}, init \vDash \varphi^`_3$ hold, the probability on G must at max be equal to 0.6$\%$, because its the same as the probability we calculated in part a for the same reasons.\\
+\section{Problem 3}
+This problem can be broken down into 2 parts, divided by the $\lor$ statement. \\
+The first part is satisfied in the lecture notes of Handout 24, leaving us with either path \{$\pi_1, \pi_2, \pi_3$\} or \{$\pi_1, \pi_2, \pi_4$\} of which we can use either.\\
+\\For the second part, we need to define the following lemma:\\
+$G^{>p} \varphi \equiv F^{\leq p} \neg \varphi$\\
+proof:\\
+\begin{align*}
+	G^{>p} \varphi = Pr[G \varphi] = p\\
+	Pr[\neg G \varphi] = 1 - p\\
+	\neg G \varphi \equiv F \neg \varphi so\\
+	Pr[F \neg \varphi] = 1 - p\\
+	F^{\leq 1-p} \neg \varphi
+\end{align*}
+Now we can use this to rewrite the second part as: $F^{\leq 0.2} \neg (X^{p=1} \psi \to \psi)$ which can be written as:
+\\ $F^{\leq 0.2} (X^{p=1} \psi \land \neg \psi)$\\
+Of the states which satisfy $\psi$ i.e. $s_3$ and $s_4$ only $s_4$ satisfies the above condition we need for our counterexample.\\
+The new paths with highest probability are:\\
+\begin{align*}
+	\pi^`_1 \triangleq \{s_0,s_2,s_4\} = 0.125\%
+	\pi^`_2 \triangleq \{s_0,s_1,s_2,s_4\} = 0.125\%
+\end{align*}
+Combining these two gives us a probability of 0.25, which is the minimal greater than 0.2.\\
+The union of both these sets leaves us with $\{\pi_1, \pi_2, \pi_3, \pi^`_1, \pi^`_2\}$ as one of the two possible minimal strongest counterexamples.
+\end{document}
