@@ -1,0 +1,105 @@
+# Patrick Gomes and Michael Gerakis
+# CS551 Operating Systems
+# README-1 for Memos-1
+
+Making Memos-1:
+To make memos-1, run:
+make memos-1
+
+Running Memos-1:
+run the command:
+'qemu-system-i386 -m XM -hda memos-1' where X is replaced with the size in MB for memos-1 to have available.
+
+Output analysis:
+The output of memos-1 will say that the amount of memory available is 1 MB less than actually available. This has to do with the overhead that is taken up by the low memory address of the memory map. We chose not to correct this by adding 1 MB to whatever result we got back from the 0xe801 because it isn't actually available to the user-space and incase at higher values when register bx actually has a value from the int 0x15 we don't somehow go over the specified amount. Better to list slight less available than slightly more. 
+
+Cleanup Memos-1:
+To clean memos-1, run: 
+'make clean'
+
+Creating the disk.img, exact steps taken, followed guidelines:
+qemu-img create -f raw disk.img 32760K
+
+fdisk disk.img
+
+Command (m for help): x
+
+Expert command (m for help): h
+Number of heads (1-256, default 255): 16
+
+Expert command (m for help): s
+Number of sectors (1-63, default 63): 63
+Warning: setting sector offset for DOS compatiblity
+
+Expert command (m for help): c
+Number of cylinders (1-1048576): 60
+
+Expert command (m for help): r
+
+Command (m for help): n
+Command action
+   e   extended
+   p   primary partition (1-4)
+p
+Partition number (1-4): 1
+First cylinder (1-60, default 1): 
+Using default value 1
+Last cylinder or +size or +sizeM or +sizeK (1-60, default 60): 
+Using default value 60
+
+Command (m for help): t
+Selected partition 1
+Hex code (type L to list codes): 83
+
+Command (m for help): a
+Partition number (1-4): 1
+
+Command (m for help): w
+
+$ losetup -o 32256 /dev/loop0 /path/to/c.img
+$ mke2fs /dev/loop0
+
+mke2fs 1.41.14 (22-Dec-2010)
+Filesystem label=
+OS type: Linux
+Block size=1024 (log=0)
+Fragment size=1024 (log=0)
+Stride=0 blocks, Stripe width=0 blocks
+8192 inodes, 32728 blocks
+1636 blocks (5.00%) reserved for the super user
+First data block=1
+4 block groups
+8192 blocks per group, 8192 fragments per group
+2048 inodes per group
+Superblock backups stored on blocks:
+        8193, 24577
+
+$ losetup -d /dev/loop0
+
+$ mkdir /mnt/C
+$ mount /path/to/c.img /mnt/C -text2 -o loop,offset=32256
+
+$ mkdir /mnt/C/boot
+$ mkdir /mnt/C/boot/grub
+$ cp /boot/grub/* /mnt/C/boot/grub 
+
+$ grub
+grub> device (hd0) /path/to/c.img
+
+grub> geometry (hd0) 60 16 63
+drive 0x80: C/H/S = 60/16/63, The number of sectors = 60480, c.img
+   Partition num: 0,  Filesystem type is ext2fs, partition type 0x83
+
+grub> root (hd0,0)
+
+grub> setup (hd0)
+ Checking if "/boot/grub/stage1" exists... yes
+ Checking if "/boot/grub/stage2" exists... yes
+ Checking if "/boot/grub/e2fs_stage1_5" exists... yes
+ Running "embed /boot/grub/e2fs_stage1_5 (hd0)"...  16 sectors are embedded.
+succeeded
+ Running "install /boot/grub/stage1 (hd0) (hd0)1+16 p (hd0,0)/boot/grub/stage2
+/boot/grub/grub.conf"... succeeded
+Done.
+
+grub> quit

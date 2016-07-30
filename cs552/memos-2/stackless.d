@@ -1,0 +1,1 @@
+stackless.o: stackless.c

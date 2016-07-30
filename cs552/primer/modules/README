@@ -1,0 +1,20 @@
+Patrick Gomes
+pgomes94@bu.edu
+U02663517
+
+Included in the submission:
+hellomodules - some test modules i made to practice making kernels, based on examples off the website.
+my_printk practice - practicing and playing around with the my_printk provided by Rich.
+keyboard_module - Attempt at making an interrupt driven keyboard module.
+
+Interrupt driven keyboard module. 
+To run: 
+make
+./keyboard_module_test
+
+Limitations:
+
+Code will currently always seg fault. This is because I can't check 0x64 for a key press so it just
+grabs whatever is in 0x60 which for some reason is always saying a key is being pressed/released.
+This is seen by looking at the kernel log ($ dmesg). I couldn't figure out how to fix it and stop it
+from always detecting keys being pressed.
