@@ -1,0 +1,12 @@
+Q1. (review score comparison) :         20/20
+Q2. (visualization and analysis) :      7/10 (it would be great to have a single visualization that compares star rating with 
+                                                sentiment score, frequencies are alright, but it doesn't explicity compare out scoring
+                                                function with star rating system)
+Q3. (clustering) :                      30/30 
+Q4. (cluster visualization) :           10/15 (cluster labeling missing in visualizations)
+Q5. (outlier detection) :               0/15
+Q6. (analysis) :                        10/10
+
+Late Penalty (if any) :
+
+Total :                                 77/100

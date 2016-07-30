@@ -1,0 +1,3015 @@
+Boston Harbor Hotel:Service:1:11
+Boston Harbor Hotel:Service:2:7
+Boston Harbor Hotel:Service:3:32
+Boston Harbor Hotel:Service:4:135
+Boston Harbor Hotel:Service:5:1136
+Boston Harbor Hotel:Cleanliness:1:6
+Boston Harbor Hotel:Cleanliness:2:2
+Boston Harbor Hotel:Cleanliness:3:24
+Boston Harbor Hotel:Cleanliness:4:116
+Boston Harbor Hotel:Cleanliness:5:956
+Boston Harbor Hotel:Business service (e.g., internet access):1:0
+Boston Harbor Hotel:Business service (e.g., internet access):2:1
+Boston Harbor Hotel:Business service (e.g., internet access):3:6
+Boston Harbor Hotel:Business service (e.g., internet access):4:10
+Boston Harbor Hotel:Business service (e.g., internet access):5:22
+Boston Harbor Hotel:Check in / front desk:1:1
+Boston Harbor Hotel:Check in / front desk:2:3
+Boston Harbor Hotel:Check in / front desk:3:7
+Boston Harbor Hotel:Check in / front desk:4:7
+Boston Harbor Hotel:Check in / front desk:5:44
+Boston Harbor Hotel:Value:1:16
+Boston Harbor Hotel:Value:2:19
+Boston Harbor Hotel:Value:3:150
+Boston Harbor Hotel:Value:4:385
+Boston Harbor Hotel:Value:5:527
+Boston Harbor Hotel:Sleep Quality:1:13
+Boston Harbor Hotel:Sleep Quality:2:10
+Boston Harbor Hotel:Sleep Quality:3:22
+Boston Harbor Hotel:Sleep Quality:4:131
+Boston Harbor Hotel:Sleep Quality:5:711
+Boston Harbor Hotel:Rooms:1:4
+Boston Harbor Hotel:Rooms:2:8
+Boston Harbor Hotel:Rooms:3:47
+Boston Harbor Hotel:Rooms:4:185
+Boston Harbor Hotel:Rooms:5:823
+Boston Harbor Hotel:Location:1:2
+Boston Harbor Hotel:Location:2:4
+Boston Harbor Hotel:Location:3:23
+Boston Harbor Hotel:Location:4:126
+Boston Harbor Hotel:Location:5:901
+Boston Hotel Buckminster:Service:1:50
+Boston Hotel Buckminster:Service:2:39
+Boston Hotel Buckminster:Service:3:164
+Boston Hotel Buckminster:Service:4:282
+Boston Hotel Buckminster:Service:5:301
+Boston Hotel Buckminster:Cleanliness:1:50
+Boston Hotel Buckminster:Cleanliness:2:42
+Boston Hotel Buckminster:Cleanliness:3:131
+Boston Hotel Buckminster:Cleanliness:4:240
+Boston Hotel Buckminster:Cleanliness:5:236
+Boston Hotel Buckminster:Business service (e.g., internet access):1:6
+Boston Hotel Buckminster:Business service (e.g., internet access):2:3
+Boston Hotel Buckminster:Business service (e.g., internet access):3:5
+Boston Hotel Buckminster:Business service (e.g., internet access):4:5
+Boston Hotel Buckminster:Business service (e.g., internet access):5:3
+Boston Hotel Buckminster:Check in / front desk:1:9
+Boston Hotel Buckminster:Check in / front desk:2:4
+Boston Hotel Buckminster:Check in / front desk:3:11
+Boston Hotel Buckminster:Check in / front desk:4:6
+Boston Hotel Buckminster:Check in / front desk:5:10
+Boston Hotel Buckminster:Value:1:60
+Boston Hotel Buckminster:Value:2:51
+Boston Hotel Buckminster:Value:3:132
+Boston Hotel Buckminster:Value:4:236
+Boston Hotel Buckminster:Value:5:228
+Boston Hotel Buckminster:Sleep Quality:1:28
+Boston Hotel Buckminster:Sleep Quality:2:29
+Boston Hotel Buckminster:Sleep Quality:3:109
+Boston Hotel Buckminster:Sleep Quality:4:206
+Boston Hotel Buckminster:Sleep Quality:5:171
+Boston Hotel Buckminster:Location:1:8
+Boston Hotel Buckminster:Location:2:8
+Boston Hotel Buckminster:Location:3:55
+Boston Hotel Buckminster:Location:4:197
+Boston Hotel Buckminster:Location:5:384
+Boston Hotel Buckminster:Rooms:1:76
+Boston Hotel Buckminster:Rooms:2:66
+Boston Hotel Buckminster:Rooms:3:179
+Boston Hotel Buckminster:Rooms:4:233
+Boston Hotel Buckminster:Rooms:5:141
+Boston Marriott Copley Place:Service:1:52
+Boston Marriott Copley Place:Service:2:92
+Boston Marriott Copley Place:Service:3:301
+Boston Marriott Copley Place:Service:4:726
+Boston Marriott Copley Place:Service:5:893
+Boston Marriott Copley Place:Cleanliness:1:15
+Boston Marriott Copley Place:Cleanliness:2:31
+Boston Marriott Copley Place:Cleanliness:3:163
+Boston Marriott Copley Place:Cleanliness:4:565
+Boston Marriott Copley Place:Cleanliness:5:927
+Boston Marriott Copley Place:Business service (e.g., internet access):1:4
+Boston Marriott Copley Place:Business service (e.g., internet access):2:12
+Boston Marriott Copley Place:Business service (e.g., internet access):3:31
+Boston Marriott Copley Place:Business service (e.g., internet access):4:25
+Boston Marriott Copley Place:Business service (e.g., internet access):5:22
+Boston Marriott Copley Place:Check in / front desk:1:2
+Boston Marriott Copley Place:Check in / front desk:2:8
+Boston Marriott Copley Place:Check in / front desk:3:27
+Boston Marriott Copley Place:Check in / front desk:4:48
+Boston Marriott Copley Place:Check in / front desk:5:67
+Boston Marriott Copley Place:Value:1:73
+Boston Marriott Copley Place:Value:2:118
+Boston Marriott Copley Place:Value:3:519
+Boston Marriott Copley Place:Value:4:606
+Boston Marriott Copley Place:Value:5:415
+Boston Marriott Copley Place:Sleep Quality:1:31
+Boston Marriott Copley Place:Sleep Quality:2:50
+Boston Marriott Copley Place:Sleep Quality:3:159
+Boston Marriott Copley Place:Sleep Quality:4:432
+Boston Marriott Copley Place:Sleep Quality:5:623
+Boston Marriott Copley Place:Rooms:1:19
+Boston Marriott Copley Place:Rooms:2:77
+Boston Marriott Copley Place:Rooms:3:323
+Boston Marriott Copley Place:Rooms:4:633
+Boston Marriott Copley Place:Rooms:5:601
+Boston Marriott Copley Place:Location:1:2
+Boston Marriott Copley Place:Location:2:9
+Boston Marriott Copley Place:Location:3:40
+Boston Marriott Copley Place:Location:4:344
+Boston Marriott Copley Place:Location:5:1239
+Boston Marriott Long Wharf:Service:1:33
+Boston Marriott Long Wharf:Service:2:36
+Boston Marriott Long Wharf:Service:3:129
+Boston Marriott Long Wharf:Service:4:371
+Boston Marriott Long Wharf:Service:5:828
+Boston Marriott Long Wharf:Cleanliness:1:15
+Boston Marriott Long Wharf:Cleanliness:2:17
+Boston Marriott Long Wharf:Cleanliness:3:79
+Boston Marriott Long Wharf:Cleanliness:4:287
+Boston Marriott Long Wharf:Cleanliness:5:707
+Boston Marriott Long Wharf:Business service (e.g., internet access):1:2
+Boston Marriott Long Wharf:Business service (e.g., internet access):2:1
+Boston Marriott Long Wharf:Business service (e.g., internet access):3:12
+Boston Marriott Long Wharf:Business service (e.g., internet access):4:9
+Boston Marriott Long Wharf:Business service (e.g., internet access):5:6
+Boston Marriott Long Wharf:Check in / front desk:1:4
+Boston Marriott Long Wharf:Check in / front desk:2:5
+Boston Marriott Long Wharf:Check in / front desk:3:15
+Boston Marriott Long Wharf:Check in / front desk:4:15
+Boston Marriott Long Wharf:Check in / front desk:5:17
+Boston Marriott Long Wharf:Value:1:38
+Boston Marriott Long Wharf:Value:2:74
+Boston Marriott Long Wharf:Value:3:299
+Boston Marriott Long Wharf:Value:4:397
+Boston Marriott Long Wharf:Value:5:295
+Boston Marriott Long Wharf:Sleep Quality:1:25
+Boston Marriott Long Wharf:Sleep Quality:2:27
+Boston Marriott Long Wharf:Sleep Quality:3:108
+Boston Marriott Long Wharf:Sleep Quality:4:281
+Boston Marriott Long Wharf:Sleep Quality:5:486
+Boston Marriott Long Wharf:Location:1:3
+Boston Marriott Long Wharf:Location:2:1
+Boston Marriott Long Wharf:Location:3:13
+Boston Marriott Long Wharf:Location:4:107
+Boston Marriott Long Wharf:Location:5:930
+Boston Marriott Long Wharf:Rooms:1:18
+Boston Marriott Long Wharf:Rooms:2:26
+Boston Marriott Long Wharf:Rooms:3:151
+Boston Marriott Long Wharf:Rooms:4:418
+Boston Marriott Long Wharf:Rooms:5:456
+Courtyard by Marriott Boston Copley Square:Service:1:11
+Courtyard by Marriott Boston Copley Square:Service:2:11
+Courtyard by Marriott Boston Copley Square:Service:3:56
+Courtyard by Marriott Boston Copley Square:Service:4:180
+Courtyard by Marriott Boston Copley Square:Service:5:942
+Courtyard by Marriott Boston Copley Square:Cleanliness:1:3
+Courtyard by Marriott Boston Copley Square:Cleanliness:2:7
+Courtyard by Marriott Boston Copley Square:Cleanliness:3:36
+Courtyard by Marriott Boston Copley Square:Cleanliness:4:177
+Courtyard by Marriott Boston Copley Square:Cleanliness:5:667
+Courtyard by Marriott Boston Copley Square:Business service (e.g., internet access):1:0
+Courtyard by Marriott Boston Copley Square:Business service (e.g., internet access):2:1
+Courtyard by Marriott Boston Copley Square:Business service (e.g., internet access):3:6
+Courtyard by Marriott Boston Copley Square:Business service (e.g., internet access):4:6
+Courtyard by Marriott Boston Copley Square:Business service (e.g., internet access):5:16
+Courtyard by Marriott Boston Copley Square:Check in / front desk:1:3
+Courtyard by Marriott Boston Copley Square:Check in / front desk:2:1
+Courtyard by Marriott Boston Copley Square:Check in / front desk:3:6
+Courtyard by Marriott Boston Copley Square:Check in / front desk:4:9
+Courtyard by Marriott Boston Copley Square:Check in / front desk:5:29
+Courtyard by Marriott Boston Copley Square:Value:1:12
+Courtyard by Marriott Boston Copley Square:Value:2:22
+Courtyard by Marriott Boston Copley Square:Value:3:106
+Courtyard by Marriott Boston Copley Square:Value:4:281
+Courtyard by Marriott Boston Copley Square:Value:5:474
+Courtyard by Marriott Boston Copley Square:Sleep Quality:1:9
+Courtyard by Marriott Boston Copley Square:Sleep Quality:2:10
+Courtyard by Marriott Boston Copley Square:Sleep Quality:3:32
+Courtyard by Marriott Boston Copley Square:Sleep Quality:4:188
+Courtyard by Marriott Boston Copley Square:Sleep Quality:5:472
+Courtyard by Marriott Boston Copley Square:Location:1:1
+Courtyard by Marriott Boston Copley Square:Location:2:0
+Courtyard by Marriott Boston Copley Square:Location:3:14
+Courtyard by Marriott Boston Copley Square:Location:4:96
+Courtyard by Marriott Boston Copley Square:Location:5:712
+Courtyard by Marriott Boston Copley Square:Rooms:1:6
+Courtyard by Marriott Boston Copley Square:Rooms:2:9
+Courtyard by Marriott Boston Copley Square:Rooms:3:67
+Courtyard by Marriott Boston Copley Square:Rooms:4:243
+Courtyard by Marriott Boston Copley Square:Rooms:5:493
+DoubleTree Club by Hilton Hotel Boston Bayside:Service:1:41
+DoubleTree Club by Hilton Hotel Boston Bayside:Service:2:59
+DoubleTree Club by Hilton Hotel Boston Bayside:Service:3:172
+DoubleTree Club by Hilton Hotel Boston Bayside:Service:4:312
+DoubleTree Club by Hilton Hotel Boston Bayside:Service:5:466
+DoubleTree Club by Hilton Hotel Boston Bayside:Cleanliness:1:16
+DoubleTree Club by Hilton Hotel Boston Bayside:Cleanliness:2:34
+DoubleTree Club by Hilton Hotel Boston Bayside:Cleanliness:3:144
+DoubleTree Club by Hilton Hotel Boston Bayside:Cleanliness:4:298
+DoubleTree Club by Hilton Hotel Boston Bayside:Cleanliness:5:441
+DoubleTree Club by Hilton Hotel Boston Bayside:Business service (e.g., internet access):1:2
+DoubleTree Club by Hilton Hotel Boston Bayside:Business service (e.g., internet access):2:6
+DoubleTree Club by Hilton Hotel Boston Bayside:Business service (e.g., internet access):3:12
+DoubleTree Club by Hilton Hotel Boston Bayside:Business service (e.g., internet access):4:9
+DoubleTree Club by Hilton Hotel Boston Bayside:Business service (e.g., internet access):5:10
+DoubleTree Club by Hilton Hotel Boston Bayside:Check in / front desk:1:1
+DoubleTree Club by Hilton Hotel Boston Bayside:Check in / front desk:2:6
+DoubleTree Club by Hilton Hotel Boston Bayside:Check in / front desk:3:7
+DoubleTree Club by Hilton Hotel Boston Bayside:Check in / front desk:4:19
+DoubleTree Club by Hilton Hotel Boston Bayside:Check in / front desk:5:18
+DoubleTree Club by Hilton Hotel Boston Bayside:Value:1:46
+DoubleTree Club by Hilton Hotel Boston Bayside:Value:2:76
+DoubleTree Club by Hilton Hotel Boston Bayside:Value:3:223
+DoubleTree Club by Hilton Hotel Boston Bayside:Value:4:274
+DoubleTree Club by Hilton Hotel Boston Bayside:Value:5:298
+DoubleTree Club by Hilton Hotel Boston Bayside:Sleep Quality:1:21
+DoubleTree Club by Hilton Hotel Boston Bayside:Sleep Quality:2:36
+DoubleTree Club by Hilton Hotel Boston Bayside:Sleep Quality:3:132
+DoubleTree Club by Hilton Hotel Boston Bayside:Sleep Quality:4:247
+DoubleTree Club by Hilton Hotel Boston Bayside:Sleep Quality:5:324
+DoubleTree Club by Hilton Hotel Boston Bayside:Location:1:47
+DoubleTree Club by Hilton Hotel Boston Bayside:Location:2:96
+DoubleTree Club by Hilton Hotel Boston Bayside:Location:3:227
+DoubleTree Club by Hilton Hotel Boston Bayside:Location:4:301
+DoubleTree Club by Hilton Hotel Boston Bayside:Location:5:215
+DoubleTree Club by Hilton Hotel Boston Bayside:Rooms:1:15
+DoubleTree Club by Hilton Hotel Boston Bayside:Rooms:2:47
+DoubleTree Club by Hilton Hotel Boston Bayside:Rooms:3:210
+DoubleTree Club by Hilton Hotel Boston Bayside:Rooms:4:292
+DoubleTree Club by Hilton Hotel Boston Bayside:Rooms:5:319
+Embassy Suites by Hilton Boston - at Logan Airport:Service:1:52
+Embassy Suites by Hilton Boston - at Logan Airport:Service:2:66
+Embassy Suites by Hilton Boston - at Logan Airport:Service:3:194
+Embassy Suites by Hilton Boston - at Logan Airport:Service:4:455
+Embassy Suites by Hilton Boston - at Logan Airport:Service:5:701
+Embassy Suites by Hilton Boston - at Logan Airport:Cleanliness:1:15
+Embassy Suites by Hilton Boston - at Logan Airport:Cleanliness:2:40
+Embassy Suites by Hilton Boston - at Logan Airport:Cleanliness:3:129
+Embassy Suites by Hilton Boston - at Logan Airport:Cleanliness:4:420
+Embassy Suites by Hilton Boston - at Logan Airport:Cleanliness:5:668
+Embassy Suites by Hilton Boston - at Logan Airport:Business service (e.g., internet access):1:3
+Embassy Suites by Hilton Boston - at Logan Airport:Business service (e.g., internet access):2:10
+Embassy Suites by Hilton Boston - at Logan Airport:Business service (e.g., internet access):3:8
+Embassy Suites by Hilton Boston - at Logan Airport:Business service (e.g., internet access):4:17
+Embassy Suites by Hilton Boston - at Logan Airport:Business service (e.g., internet access):5:13
+Embassy Suites by Hilton Boston - at Logan Airport:Check in / front desk:1:6
+Embassy Suites by Hilton Boston - at Logan Airport:Check in / front desk:2:10
+Embassy Suites by Hilton Boston - at Logan Airport:Check in / front desk:3:12
+Embassy Suites by Hilton Boston - at Logan Airport:Check in / front desk:4:21
+Embassy Suites by Hilton Boston - at Logan Airport:Check in / front desk:5:21
+Embassy Suites by Hilton Boston - at Logan Airport:Value:1:49
+Embassy Suites by Hilton Boston - at Logan Airport:Value:2:79
+Embassy Suites by Hilton Boston - at Logan Airport:Value:3:268
+Embassy Suites by Hilton Boston - at Logan Airport:Value:4:393
+Embassy Suites by Hilton Boston - at Logan Airport:Value:5:474
+Embassy Suites by Hilton Boston - at Logan Airport:Sleep Quality:1:24
+Embassy Suites by Hilton Boston - at Logan Airport:Sleep Quality:2:26
+Embassy Suites by Hilton Boston - at Logan Airport:Sleep Quality:3:138
+Embassy Suites by Hilton Boston - at Logan Airport:Sleep Quality:4:323
+Embassy Suites by Hilton Boston - at Logan Airport:Sleep Quality:5:529
+Embassy Suites by Hilton Boston - at Logan Airport:Rooms:1:15
+Embassy Suites by Hilton Boston - at Logan Airport:Rooms:2:48
+Embassy Suites by Hilton Boston - at Logan Airport:Rooms:3:184
+Embassy Suites by Hilton Boston - at Logan Airport:Rooms:4:407
+Embassy Suites by Hilton Boston - at Logan Airport:Rooms:5:561
+Embassy Suites by Hilton Boston - at Logan Airport:Location:1:18
+Embassy Suites by Hilton Boston - at Logan Airport:Location:2:45
+Embassy Suites by Hilton Boston - at Logan Airport:Location:3:164
+Embassy Suites by Hilton Boston - at Logan Airport:Location:4:402
+Embassy Suites by Hilton Boston - at Logan Airport:Location:5:561
+enVision Hotel Boston:Service:1:2
+enVision Hotel Boston:Service:2:5
+enVision Hotel Boston:Service:3:15
+enVision Hotel Boston:Service:4:60
+enVision Hotel Boston:Service:5:325
+enVision Hotel Boston:Cleanliness:1:0
+enVision Hotel Boston:Cleanliness:2:0
+enVision Hotel Boston:Cleanliness:3:7
+enVision Hotel Boston:Cleanliness:4:32
+enVision Hotel Boston:Cleanliness:5:260
+enVision Hotel Boston:Value:1:2
+enVision Hotel Boston:Value:2:4
+enVision Hotel Boston:Value:3:19
+enVision Hotel Boston:Value:4:58
+enVision Hotel Boston:Value:5:219
+enVision Hotel Boston:Sleep Quality:1:4
+enVision Hotel Boston:Sleep Quality:2:4
+enVision Hotel Boston:Sleep Quality:3:15
+enVision Hotel Boston:Sleep Quality:4:65
+enVision Hotel Boston:Sleep Quality:5:193
+enVision Hotel Boston:Rooms:1:0
+enVision Hotel Boston:Rooms:2:2
+enVision Hotel Boston:Rooms:3:13
+enVision Hotel Boston:Rooms:4:71
+enVision Hotel Boston:Rooms:5:212
+enVision Hotel Boston:Location:1:3
+enVision Hotel Boston:Location:2:5
+enVision Hotel Boston:Location:3:61
+enVision Hotel Boston:Location:4:106
+enVision Hotel Boston:Location:5:125
+Fairmont Copley Plaza, Boston:Service:1:37
+Fairmont Copley Plaza, Boston:Service:2:71
+Fairmont Copley Plaza, Boston:Service:3:141
+Fairmont Copley Plaza, Boston:Service:4:324
+Fairmont Copley Plaza, Boston:Service:5:1255
+Fairmont Copley Plaza, Boston:Cleanliness:1:19
+Fairmont Copley Plaza, Boston:Cleanliness:2:34
+Fairmont Copley Plaza, Boston:Cleanliness:3:90
+Fairmont Copley Plaza, Boston:Cleanliness:4:321
+Fairmont Copley Plaza, Boston:Cleanliness:5:1048
+Fairmont Copley Plaza, Boston:Business service (e.g., internet access):1:8
+Fairmont Copley Plaza, Boston:Business service (e.g., internet access):2:5
+Fairmont Copley Plaza, Boston:Business service (e.g., internet access):3:9
+Fairmont Copley Plaza, Boston:Business service (e.g., internet access):4:15
+Fairmont Copley Plaza, Boston:Business service (e.g., internet access):5:30
+Fairmont Copley Plaza, Boston:Check in / front desk:1:3
+Fairmont Copley Plaza, Boston:Check in / front desk:2:5
+Fairmont Copley Plaza, Boston:Check in / front desk:3:13
+Fairmont Copley Plaza, Boston:Check in / front desk:4:32
+Fairmont Copley Plaza, Boston:Check in / front desk:5:62
+Fairmont Copley Plaza, Boston:Value:1:69
+Fairmont Copley Plaza, Boston:Value:2:98
+Fairmont Copley Plaza, Boston:Value:3:296
+Fairmont Copley Plaza, Boston:Value:4:533
+Fairmont Copley Plaza, Boston:Value:5:530
+Fairmont Copley Plaza, Boston:Sleep Quality:1:18
+Fairmont Copley Plaza, Boston:Sleep Quality:2:36
+Fairmont Copley Plaza, Boston:Sleep Quality:3:107
+Fairmont Copley Plaza, Boston:Sleep Quality:4:281
+Fairmont Copley Plaza, Boston:Sleep Quality:5:773
+Fairmont Copley Plaza, Boston:Rooms:1:25
+Fairmont Copley Plaza, Boston:Rooms:2:74
+Fairmont Copley Plaza, Boston:Rooms:3:167
+Fairmont Copley Plaza, Boston:Rooms:4:419
+Fairmont Copley Plaza, Boston:Rooms:5:780
+Fairmont Copley Plaza, Boston:Location:1:3
+Fairmont Copley Plaza, Boston:Location:2:4
+Fairmont Copley Plaza, Boston:Location:3:21
+Fairmont Copley Plaza, Boston:Location:4:153
+Fairmont Copley Plaza, Boston:Location:5:1263
+Harborside Inn:Service:1:40
+Harborside Inn:Service:2:39
+Harborside Inn:Service:3:163
+Harborside Inn:Service:4:333
+Harborside Inn:Service:5:425
+Harborside Inn:Cleanliness:1:9
+Harborside Inn:Cleanliness:2:15
+Harborside Inn:Cleanliness:3:75
+Harborside Inn:Cleanliness:4:257
+Harborside Inn:Cleanliness:5:523
+Harborside Inn:Business service (e.g., internet access):1:4
+Harborside Inn:Business service (e.g., internet access):2:4
+Harborside Inn:Business service (e.g., internet access):3:22
+Harborside Inn:Business service (e.g., internet access):4:18
+Harborside Inn:Business service (e.g., internet access):5:22
+Harborside Inn:Check in / front desk:1:3
+Harborside Inn:Check in / front desk:2:6
+Harborside Inn:Check in / front desk:3:21
+Harborside Inn:Check in / front desk:4:25
+Harborside Inn:Check in / front desk:5:39
+Harborside Inn:Value:1:34
+Harborside Inn:Value:2:41
+Harborside Inn:Value:3:128
+Harborside Inn:Value:4:295
+Harborside Inn:Value:5:392
+Harborside Inn:Sleep Quality:1:14
+Harborside Inn:Sleep Quality:2:21
+Harborside Inn:Sleep Quality:3:70
+Harborside Inn:Sleep Quality:4:219
+Harborside Inn:Sleep Quality:5:313
+Harborside Inn:Location:1:4
+Harborside Inn:Location:2:1
+Harborside Inn:Location:3:14
+Harborside Inn:Location:4:100
+Harborside Inn:Location:5:696
+Harborside Inn:Rooms:1:17
+Harborside Inn:Rooms:2:30
+Harborside Inn:Rooms:3:123
+Harborside Inn:Rooms:4:354
+Harborside Inn:Rooms:5:327
+Hilton Boston Downtown / Faneuil Hall:Service:1:39
+Hilton Boston Downtown / Faneuil Hall:Service:2:45
+Hilton Boston Downtown / Faneuil Hall:Service:3:140
+Hilton Boston Downtown / Faneuil Hall:Service:4:333
+Hilton Boston Downtown / Faneuil Hall:Service:5:530
+Hilton Boston Downtown / Faneuil Hall:Cleanliness:1:8
+Hilton Boston Downtown / Faneuil Hall:Cleanliness:2:16
+Hilton Boston Downtown / Faneuil Hall:Cleanliness:3:86
+Hilton Boston Downtown / Faneuil Hall:Cleanliness:4:284
+Hilton Boston Downtown / Faneuil Hall:Cleanliness:5:463
+Hilton Boston Downtown / Faneuil Hall:Value:1:35
+Hilton Boston Downtown / Faneuil Hall:Value:2:71
+Hilton Boston Downtown / Faneuil Hall:Value:3:232
+Hilton Boston Downtown / Faneuil Hall:Value:4:319
+Hilton Boston Downtown / Faneuil Hall:Value:5:201
+Hilton Boston Downtown / Faneuil Hall:Sleep Quality:1:21
+Hilton Boston Downtown / Faneuil Hall:Sleep Quality:2:33
+Hilton Boston Downtown / Faneuil Hall:Sleep Quality:3:110
+Hilton Boston Downtown / Faneuil Hall:Sleep Quality:4:268
+Hilton Boston Downtown / Faneuil Hall:Sleep Quality:5:372
+Hilton Boston Downtown / Faneuil Hall:Rooms:1:18
+Hilton Boston Downtown / Faneuil Hall:Rooms:2:44
+Hilton Boston Downtown / Faneuil Hall:Rooms:3:153
+Hilton Boston Downtown / Faneuil Hall:Rooms:4:294
+Hilton Boston Downtown / Faneuil Hall:Rooms:5:354
+Hilton Boston Downtown / Faneuil Hall:Location:1:0
+Hilton Boston Downtown / Faneuil Hall:Location:2:10
+Hilton Boston Downtown / Faneuil Hall:Location:3:44
+Hilton Boston Downtown / Faneuil Hall:Location:4:210
+Hilton Boston Downtown / Faneuil Hall:Location:5:617
+Holiday Inn Express Boston:Service:1:21
+Holiday Inn Express Boston:Service:2:30
+Holiday Inn Express Boston:Service:3:81
+Holiday Inn Express Boston:Service:4:178
+Holiday Inn Express Boston:Service:5:245
+Holiday Inn Express Boston:Cleanliness:1:10
+Holiday Inn Express Boston:Cleanliness:2:16
+Holiday Inn Express Boston:Cleanliness:3:66
+Holiday Inn Express Boston:Cleanliness:4:202
+Holiday Inn Express Boston:Cleanliness:5:182
+Holiday Inn Express Boston:Business service (e.g., internet access):1:1
+Holiday Inn Express Boston:Business service (e.g., internet access):2:2
+Holiday Inn Express Boston:Business service (e.g., internet access):3:6
+Holiday Inn Express Boston:Business service (e.g., internet access):4:7
+Holiday Inn Express Boston:Business service (e.g., internet access):5:16
+Holiday Inn Express Boston:Check in / front desk:1:2
+Holiday Inn Express Boston:Check in / front desk:2:3
+Holiday Inn Express Boston:Check in / front desk:3:9
+Holiday Inn Express Boston:Check in / front desk:4:3
+Holiday Inn Express Boston:Check in / front desk:5:21
+Holiday Inn Express Boston:Value:1:25
+Holiday Inn Express Boston:Value:2:30
+Holiday Inn Express Boston:Value:3:81
+Holiday Inn Express Boston:Value:4:172
+Holiday Inn Express Boston:Value:5:179
+Holiday Inn Express Boston:Sleep Quality:1:9
+Holiday Inn Express Boston:Sleep Quality:2:18
+Holiday Inn Express Boston:Sleep Quality:3:61
+Holiday Inn Express Boston:Sleep Quality:4:126
+Holiday Inn Express Boston:Sleep Quality:5:125
+Holiday Inn Express Boston:Rooms:1:12
+Holiday Inn Express Boston:Rooms:2:24
+Holiday Inn Express Boston:Rooms:3:109
+Holiday Inn Express Boston:Rooms:4:207
+Holiday Inn Express Boston:Rooms:5:105
+Holiday Inn Express Boston:Location:1:12
+Holiday Inn Express Boston:Location:2:48
+Holiday Inn Express Boston:Location:3:119
+Holiday Inn Express Boston:Location:4:165
+Holiday Inn Express Boston:Location:5:96
+Hotel Commonwealth:Service:1:24
+Hotel Commonwealth:Service:2:27
+Hotel Commonwealth:Service:3:69
+Hotel Commonwealth:Service:4:319
+Hotel Commonwealth:Service:5:2807
+Hotel Commonwealth:Cleanliness:1:5
+Hotel Commonwealth:Cleanliness:2:7
+Hotel Commonwealth:Cleanliness:3:28
+Hotel Commonwealth:Cleanliness:4:251
+Hotel Commonwealth:Cleanliness:5:2437
+Hotel Commonwealth:Business service (e.g., internet access):1:0
+Hotel Commonwealth:Business service (e.g., internet access):2:1
+Hotel Commonwealth:Business service (e.g., internet access):3:5
+Hotel Commonwealth:Business service (e.g., internet access):4:9
+Hotel Commonwealth:Business service (e.g., internet access):5:36
+Hotel Commonwealth:Check in / front desk:1:1
+Hotel Commonwealth:Check in / front desk:2:4
+Hotel Commonwealth:Check in / front desk:3:7
+Hotel Commonwealth:Check in / front desk:4:8
+Hotel Commonwealth:Check in / front desk:5:53
+Hotel Commonwealth:Value:1:18
+Hotel Commonwealth:Value:2:57
+Hotel Commonwealth:Value:3:257
+Hotel Commonwealth:Value:4:852
+Hotel Commonwealth:Value:5:1539
+Hotel Commonwealth:Sleep Quality:1:12
+Hotel Commonwealth:Sleep Quality:2:12
+Hotel Commonwealth:Sleep Quality:3:84
+Hotel Commonwealth:Sleep Quality:4:341
+Hotel Commonwealth:Sleep Quality:5:1926
+Hotel Commonwealth:Rooms:1:4
+Hotel Commonwealth:Rooms:2:15
+Hotel Commonwealth:Rooms:3:65
+Hotel Commonwealth:Rooms:4:351
+Hotel Commonwealth:Rooms:5:2159
+Hotel Commonwealth:Location:1:5
+Hotel Commonwealth:Location:2:8
+Hotel Commonwealth:Location:3:83
+Hotel Commonwealth:Location:4:380
+Hotel Commonwealth:Location:5:2037
+Hyatt Regency Boston Harbor:Service:1:33
+Hyatt Regency Boston Harbor:Service:2:57
+Hyatt Regency Boston Harbor:Service:3:144
+Hyatt Regency Boston Harbor:Service:4:344
+Hyatt Regency Boston Harbor:Service:5:865
+Hyatt Regency Boston Harbor:Cleanliness:1:9
+Hyatt Regency Boston Harbor:Cleanliness:2:23
+Hyatt Regency Boston Harbor:Cleanliness:3:91
+Hyatt Regency Boston Harbor:Cleanliness:4:339
+Hyatt Regency Boston Harbor:Cleanliness:5:787
+Hyatt Regency Boston Harbor:Business service (e.g., internet access):1:3
+Hyatt Regency Boston Harbor:Business service (e.g., internet access):2:8
+Hyatt Regency Boston Harbor:Business service (e.g., internet access):3:11
+Hyatt Regency Boston Harbor:Business service (e.g., internet access):4:8
+Hyatt Regency Boston Harbor:Business service (e.g., internet access):5:4
+Hyatt Regency Boston Harbor:Check in / front desk:1:2
+Hyatt Regency Boston Harbor:Check in / front desk:2:5
+Hyatt Regency Boston Harbor:Check in / front desk:3:16
+Hyatt Regency Boston Harbor:Check in / front desk:4:11
+Hyatt Regency Boston Harbor:Check in / front desk:5:34
+Hyatt Regency Boston Harbor:Value:1:49
+Hyatt Regency Boston Harbor:Value:2:89
+Hyatt Regency Boston Harbor:Value:3:267
+Hyatt Regency Boston Harbor:Value:4:405
+Hyatt Regency Boston Harbor:Value:5:432
+Hyatt Regency Boston Harbor:Sleep Quality:1:29
+Hyatt Regency Boston Harbor:Sleep Quality:2:38
+Hyatt Regency Boston Harbor:Sleep Quality:3:92
+Hyatt Regency Boston Harbor:Sleep Quality:4:282
+Hyatt Regency Boston Harbor:Sleep Quality:5:600
+Hyatt Regency Boston Harbor:Location:1:12
+Hyatt Regency Boston Harbor:Location:2:41
+Hyatt Regency Boston Harbor:Location:3:119
+Hyatt Regency Boston Harbor:Location:4:309
+Hyatt Regency Boston Harbor:Location:5:684
+Hyatt Regency Boston Harbor:Rooms:1:11
+Hyatt Regency Boston Harbor:Rooms:2:41
+Hyatt Regency Boston Harbor:Rooms:3:145
+Hyatt Regency Boston Harbor:Rooms:4:389
+Hyatt Regency Boston Harbor:Rooms:5:608
+InterContinental Boston:Service:1:84
+InterContinental Boston:Service:2:69
+InterContinental Boston:Service:3:149
+InterContinental Boston:Service:4:438
+InterContinental Boston:Service:5:1487
+InterContinental Boston:Cleanliness:1:7
+InterContinental Boston:Cleanliness:2:12
+InterContinental Boston:Cleanliness:3:62
+InterContinental Boston:Cleanliness:4:277
+InterContinental Boston:Cleanliness:5:1412
+InterContinental Boston:Business service (e.g., internet access):1:7
+InterContinental Boston:Business service (e.g., internet access):2:9
+InterContinental Boston:Business service (e.g., internet access):3:23
+InterContinental Boston:Business service (e.g., internet access):4:19
+InterContinental Boston:Business service (e.g., internet access):5:52
+InterContinental Boston:Check in / front desk:1:13
+InterContinental Boston:Check in / front desk:2:11
+InterContinental Boston:Check in / front desk:3:28
+InterContinental Boston:Check in / front desk:4:32
+InterContinental Boston:Check in / front desk:5:91
+InterContinental Boston:Value:1:54
+InterContinental Boston:Value:2:84
+InterContinental Boston:Value:3:306
+InterContinental Boston:Value:4:601
+InterContinental Boston:Value:5:709
+InterContinental Boston:Sleep Quality:1:32
+InterContinental Boston:Sleep Quality:2:32
+InterContinental Boston:Sleep Quality:3:90
+InterContinental Boston:Sleep Quality:4:312
+InterContinental Boston:Sleep Quality:5:918
+InterContinental Boston:Location:1:4
+InterContinental Boston:Location:2:19
+InterContinental Boston:Location:3:111
+InterContinental Boston:Location:4:440
+InterContinental Boston:Location:5:1152
+InterContinental Boston:Rooms:1:10
+InterContinental Boston:Rooms:2:24
+InterContinental Boston:Rooms:3:86
+InterContinental Boston:Rooms:4:378
+InterContinental Boston:Rooms:5:1183
+Lenox Hotel:Service:1:26
+Lenox Hotel:Service:2:28
+Lenox Hotel:Service:3:75
+Lenox Hotel:Service:4:282
+Lenox Hotel:Service:5:2138
+Lenox Hotel:Cleanliness:1:7
+Lenox Hotel:Cleanliness:2:15
+Lenox Hotel:Cleanliness:3:69
+Lenox Hotel:Cleanliness:4:325
+Lenox Hotel:Cleanliness:5:1846
+Lenox Hotel:Business service (e.g., internet access):1:1
+Lenox Hotel:Business service (e.g., internet access):2:5
+Lenox Hotel:Business service (e.g., internet access):3:13
+Lenox Hotel:Business service (e.g., internet access):4:27
+Lenox Hotel:Business service (e.g., internet access):5:66
+Lenox Hotel:Check in / front desk:1:5
+Lenox Hotel:Check in / front desk:2:2
+Lenox Hotel:Check in / front desk:3:9
+Lenox Hotel:Check in / front desk:4:26
+Lenox Hotel:Check in / front desk:5:111
+Lenox Hotel:Value:1:21
+Lenox Hotel:Value:2:48
+Lenox Hotel:Value:3:222
+Lenox Hotel:Value:4:726
+Lenox Hotel:Value:5:1229
+Lenox Hotel:Sleep Quality:1:19
+Lenox Hotel:Sleep Quality:2:21
+Lenox Hotel:Sleep Quality:3:103
+Lenox Hotel:Sleep Quality:4:376
+Lenox Hotel:Sleep Quality:5:1231
+Lenox Hotel:Location:1:5
+Lenox Hotel:Location:2:4
+Lenox Hotel:Location:3:14
+Lenox Hotel:Location:4:162
+Lenox Hotel:Location:5:1910
+Lenox Hotel:Rooms:1:15
+Lenox Hotel:Rooms:2:39
+Lenox Hotel:Rooms:3:128
+Lenox Hotel:Rooms:4:609
+Lenox Hotel:Rooms:5:1328
+Loews Boston Hotel:Service:1:8
+Loews Boston Hotel:Service:2:10
+Loews Boston Hotel:Service:3:54
+Loews Boston Hotel:Service:4:173
+Loews Boston Hotel:Service:5:656
+Loews Boston Hotel:Cleanliness:1:0
+Loews Boston Hotel:Cleanliness:2:7
+Loews Boston Hotel:Cleanliness:3:29
+Loews Boston Hotel:Cleanliness:4:132
+Loews Boston Hotel:Cleanliness:5:510
+Loews Boston Hotel:Value:1:7
+Loews Boston Hotel:Value:2:30
+Loews Boston Hotel:Value:3:95
+Loews Boston Hotel:Value:4:256
+Loews Boston Hotel:Value:5:282
+Loews Boston Hotel:Sleep Quality:1:7
+Loews Boston Hotel:Sleep Quality:2:10
+Loews Boston Hotel:Sleep Quality:3:46
+Loews Boston Hotel:Sleep Quality:4:133
+Loews Boston Hotel:Sleep Quality:5:414
+Loews Boston Hotel:Location:1:0
+Loews Boston Hotel:Location:2:3
+Loews Boston Hotel:Location:3:17
+Loews Boston Hotel:Location:4:139
+Loews Boston Hotel:Location:5:521
+Loews Boston Hotel:Rooms:1:3
+Loews Boston Hotel:Rooms:2:12
+Loews Boston Hotel:Rooms:3:69
+Loews Boston Hotel:Rooms:4:207
+Loews Boston Hotel:Rooms:5:389
+Nine Zero Hotel - a Kimpton Hotel:Service:1:24
+Nine Zero Hotel - a Kimpton Hotel:Service:2:24
+Nine Zero Hotel - a Kimpton Hotel:Service:3:102
+Nine Zero Hotel - a Kimpton Hotel:Service:4:356
+Nine Zero Hotel - a Kimpton Hotel:Service:5:1384
+Nine Zero Hotel - a Kimpton Hotel:Cleanliness:1:8
+Nine Zero Hotel - a Kimpton Hotel:Cleanliness:2:13
+Nine Zero Hotel - a Kimpton Hotel:Cleanliness:3:57
+Nine Zero Hotel - a Kimpton Hotel:Cleanliness:4:316
+Nine Zero Hotel - a Kimpton Hotel:Cleanliness:5:1179
+Nine Zero Hotel - a Kimpton Hotel:Business service (e.g., internet access):1:3
+Nine Zero Hotel - a Kimpton Hotel:Business service (e.g., internet access):2:4
+Nine Zero Hotel - a Kimpton Hotel:Business service (e.g., internet access):3:14
+Nine Zero Hotel - a Kimpton Hotel:Business service (e.g., internet access):4:18
+Nine Zero Hotel - a Kimpton Hotel:Business service (e.g., internet access):5:50
+Nine Zero Hotel - a Kimpton Hotel:Check in / front desk:1:3
+Nine Zero Hotel - a Kimpton Hotel:Check in / front desk:2:4
+Nine Zero Hotel - a Kimpton Hotel:Check in / front desk:3:13
+Nine Zero Hotel - a Kimpton Hotel:Check in / front desk:4:21
+Nine Zero Hotel - a Kimpton Hotel:Check in / front desk:5:86
+Nine Zero Hotel - a Kimpton Hotel:Value:1:26
+Nine Zero Hotel - a Kimpton Hotel:Value:2:46
+Nine Zero Hotel - a Kimpton Hotel:Value:3:219
+Nine Zero Hotel - a Kimpton Hotel:Value:4:629
+Nine Zero Hotel - a Kimpton Hotel:Value:5:655
+Nine Zero Hotel - a Kimpton Hotel:Sleep Quality:1:10
+Nine Zero Hotel - a Kimpton Hotel:Sleep Quality:2:14
+Nine Zero Hotel - a Kimpton Hotel:Sleep Quality:3:65
+Nine Zero Hotel - a Kimpton Hotel:Sleep Quality:4:298
+Nine Zero Hotel - a Kimpton Hotel:Sleep Quality:5:841
+Nine Zero Hotel - a Kimpton Hotel:Rooms:1:10
+Nine Zero Hotel - a Kimpton Hotel:Rooms:2:19
+Nine Zero Hotel - a Kimpton Hotel:Rooms:3:104
+Nine Zero Hotel - a Kimpton Hotel:Rooms:4:466
+Nine Zero Hotel - a Kimpton Hotel:Rooms:5:899
+Nine Zero Hotel - a Kimpton Hotel:Location:1:7
+Nine Zero Hotel - a Kimpton Hotel:Location:2:3
+Nine Zero Hotel - a Kimpton Hotel:Location:3:24
+Nine Zero Hotel - a Kimpton Hotel:Location:4:178
+Nine Zero Hotel - a Kimpton Hotel:Location:5:1307
+Residence Inn Boston Back Bay / Fenway:Service:1:13
+Residence Inn Boston Back Bay / Fenway:Service:2:8
+Residence Inn Boston Back Bay / Fenway:Service:3:24
+Residence Inn Boston Back Bay / Fenway:Service:4:125
+Residence Inn Boston Back Bay / Fenway:Service:5:590
+Residence Inn Boston Back Bay / Fenway:Cleanliness:1:2
+Residence Inn Boston Back Bay / Fenway:Cleanliness:2:1
+Residence Inn Boston Back Bay / Fenway:Cleanliness:3:10
+Residence Inn Boston Back Bay / Fenway:Cleanliness:4:82
+Residence Inn Boston Back Bay / Fenway:Cleanliness:5:466
+Residence Inn Boston Back Bay / Fenway:Value:1:5
+Residence Inn Boston Back Bay / Fenway:Value:2:20
+Residence Inn Boston Back Bay / Fenway:Value:3:82
+Residence Inn Boston Back Bay / Fenway:Value:4:194
+Residence Inn Boston Back Bay / Fenway:Value:5:281
+Residence Inn Boston Back Bay / Fenway:Sleep Quality:1:4
+Residence Inn Boston Back Bay / Fenway:Sleep Quality:2:7
+Residence Inn Boston Back Bay / Fenway:Sleep Quality:3:30
+Residence Inn Boston Back Bay / Fenway:Sleep Quality:4:109
+Residence Inn Boston Back Bay / Fenway:Sleep Quality:5:327
+Residence Inn Boston Back Bay / Fenway:Rooms:1:4
+Residence Inn Boston Back Bay / Fenway:Rooms:2:4
+Residence Inn Boston Back Bay / Fenway:Rooms:3:31
+Residence Inn Boston Back Bay / Fenway:Rooms:4:126
+Residence Inn Boston Back Bay / Fenway:Rooms:5:394
+Residence Inn Boston Back Bay / Fenway:Location:1:1
+Residence Inn Boston Back Bay / Fenway:Location:2:4
+Residence Inn Boston Back Bay / Fenway:Location:3:16
+Residence Inn Boston Back Bay / Fenway:Location:4:89
+Residence Inn Boston Back Bay / Fenway:Location:5:462
+Revere Hotel Boston Common:Service:1:39
+Revere Hotel Boston Common:Service:2:47
+Revere Hotel Boston Common:Service:3:155
+Revere Hotel Boston Common:Service:4:491
+Revere Hotel Boston Common:Service:5:1403
+Revere Hotel Boston Common:Cleanliness:1:13
+Revere Hotel Boston Common:Cleanliness:2:23
+Revere Hotel Boston Common:Cleanliness:3:95
+Revere Hotel Boston Common:Cleanliness:4:368
+Revere Hotel Boston Common:Cleanliness:5:1191
+Revere Hotel Boston Common:Value:1:27
+Revere Hotel Boston Common:Value:2:66
+Revere Hotel Boston Common:Value:3:261
+Revere Hotel Boston Common:Value:4:584
+Revere Hotel Boston Common:Value:5:728
+Revere Hotel Boston Common:Sleep Quality:1:20
+Revere Hotel Boston Common:Sleep Quality:2:45
+Revere Hotel Boston Common:Sleep Quality:3:132
+Revere Hotel Boston Common:Sleep Quality:4:361
+Revere Hotel Boston Common:Sleep Quality:5:906
+Revere Hotel Boston Common:Location:1:3
+Revere Hotel Boston Common:Location:2:4
+Revere Hotel Boston Common:Location:3:47
+Revere Hotel Boston Common:Location:4:341
+Revere Hotel Boston Common:Location:5:1287
+Revere Hotel Boston Common:Rooms:1:7
+Revere Hotel Boston Common:Rooms:2:22
+Revere Hotel Boston Common:Rooms:3:135
+Revere Hotel Boston Common:Rooms:4:464
+Revere Hotel Boston Common:Rooms:5:1009
+Seaport Boston Hotel:Service:1:38
+Seaport Boston Hotel:Service:2:28
+Seaport Boston Hotel:Service:3:87
+Seaport Boston Hotel:Service:4:436
+Seaport Boston Hotel:Service:5:2594
+Seaport Boston Hotel:Cleanliness:1:5
+Seaport Boston Hotel:Cleanliness:2:12
+Seaport Boston Hotel:Cleanliness:3:63
+Seaport Boston Hotel:Cleanliness:4:304
+Seaport Boston Hotel:Cleanliness:5:2426
+Seaport Boston Hotel:Business service (e.g., internet access):1:0
+Seaport Boston Hotel:Business service (e.g., internet access):2:3
+Seaport Boston Hotel:Business service (e.g., internet access):3:4
+Seaport Boston Hotel:Business service (e.g., internet access):4:11
+Seaport Boston Hotel:Business service (e.g., internet access):5:38
+Seaport Boston Hotel:Check in / front desk:1:1
+Seaport Boston Hotel:Check in / front desk:2:5
+Seaport Boston Hotel:Check in / front desk:3:4
+Seaport Boston Hotel:Check in / front desk:4:16
+Seaport Boston Hotel:Check in / front desk:5:41
+Seaport Boston Hotel:Value:1:35
+Seaport Boston Hotel:Value:2:61
+Seaport Boston Hotel:Value:3:328
+Seaport Boston Hotel:Value:4:888
+Seaport Boston Hotel:Value:5:1475
+Seaport Boston Hotel:Sleep Quality:1:17
+Seaport Boston Hotel:Sleep Quality:2:14
+Seaport Boston Hotel:Sleep Quality:3:95
+Seaport Boston Hotel:Sleep Quality:4:419
+Seaport Boston Hotel:Sleep Quality:5:1950
+Seaport Boston Hotel:Location:1:10
+Seaport Boston Hotel:Location:2:33
+Seaport Boston Hotel:Location:3:170
+Seaport Boston Hotel:Location:4:610
+Seaport Boston Hotel:Location:5:1927
+Seaport Boston Hotel:Rooms:1:12
+Seaport Boston Hotel:Rooms:2:26
+Seaport Boston Hotel:Rooms:3:128
+Seaport Boston Hotel:Rooms:4:515
+Seaport Boston Hotel:Rooms:5:2064
+Sheraton Boston Hotel:Service:1:31
+Sheraton Boston Hotel:Service:2:34
+Sheraton Boston Hotel:Service:3:119
+Sheraton Boston Hotel:Service:4:272
+Sheraton Boston Hotel:Service:5:458
+Sheraton Boston Hotel:Cleanliness:1:6
+Sheraton Boston Hotel:Cleanliness:2:10
+Sheraton Boston Hotel:Cleanliness:3:42
+Sheraton Boston Hotel:Cleanliness:4:129
+Sheraton Boston Hotel:Cleanliness:5:233
+Sheraton Boston Hotel:Value:1:17
+Sheraton Boston Hotel:Value:2:22
+Sheraton Boston Hotel:Value:3:110
+Sheraton Boston Hotel:Value:4:148
+Sheraton Boston Hotel:Value:5:136
+Sheraton Boston Hotel:Sleep Quality:1:7
+Sheraton Boston Hotel:Sleep Quality:2:9
+Sheraton Boston Hotel:Sleep Quality:3:34
+Sheraton Boston Hotel:Sleep Quality:4:146
+Sheraton Boston Hotel:Sleep Quality:5:181
+Sheraton Boston Hotel:Rooms:1:5
+Sheraton Boston Hotel:Rooms:2:15
+Sheraton Boston Hotel:Rooms:3:84
+Sheraton Boston Hotel:Rooms:4:147
+Sheraton Boston Hotel:Rooms:5:147
+Sheraton Boston Hotel:Location:1:4
+Sheraton Boston Hotel:Location:2:1
+Sheraton Boston Hotel:Location:3:14
+Sheraton Boston Hotel:Location:4:104
+Sheraton Boston Hotel:Location:5:270
+Taj Boston:Service:1:61
+Taj Boston:Service:2:49
+Taj Boston:Service:3:136
+Taj Boston:Service:4:291
+Taj Boston:Service:5:784
+Taj Boston:Cleanliness:1:24
+Taj Boston:Cleanliness:2:35
+Taj Boston:Cleanliness:3:84
+Taj Boston:Cleanliness:4:269
+Taj Boston:Cleanliness:5:653
+Taj Boston:Business service (e.g., internet access):1:0
+Taj Boston:Business service (e.g., internet access):2:3
+Taj Boston:Business service (e.g., internet access):3:9
+Taj Boston:Business service (e.g., internet access):4:8
+Taj Boston:Business service (e.g., internet access):5:12
+Taj Boston:Check in / front desk:1:2
+Taj Boston:Check in / front desk:2:3
+Taj Boston:Check in / front desk:3:5
+Taj Boston:Check in / front desk:4:12
+Taj Boston:Check in / front desk:5:25
+Taj Boston:Value:1:48
+Taj Boston:Value:2:69
+Taj Boston:Value:3:211
+Taj Boston:Value:4:383
+Taj Boston:Value:5:335
+Taj Boston:Sleep Quality:1:21
+Taj Boston:Sleep Quality:2:32
+Taj Boston:Sleep Quality:3:94
+Taj Boston:Sleep Quality:4:206
+Taj Boston:Sleep Quality:5:568
+Taj Boston:Location:1:2
+Taj Boston:Location:2:0
+Taj Boston:Location:3:21
+Taj Boston:Location:4:110
+Taj Boston:Location:5:897
+Taj Boston:Rooms:1:29
+Taj Boston:Rooms:2:50
+Taj Boston:Rooms:3:142
+Taj Boston:Rooms:4:324
+Taj Boston:Rooms:5:450
+The Langham, Boston:Service:1:38
+The Langham, Boston:Service:2:24
+The Langham, Boston:Service:3:89
+The Langham, Boston:Service:4:259
+The Langham, Boston:Service:5:1044
+The Langham, Boston:Cleanliness:1:4
+The Langham, Boston:Cleanliness:2:11
+The Langham, Boston:Cleanliness:3:40
+The Langham, Boston:Cleanliness:4:225
+The Langham, Boston:Cleanliness:5:940
+The Langham, Boston:Business service (e.g., internet access):1:3
+The Langham, Boston:Business service (e.g., internet access):2:3
+The Langham, Boston:Business service (e.g., internet access):3:17
+The Langham, Boston:Business service (e.g., internet access):4:10
+The Langham, Boston:Business service (e.g., internet access):5:16
+The Langham, Boston:Check in / front desk:1:3
+The Langham, Boston:Check in / front desk:2:5
+The Langham, Boston:Check in / front desk:3:12
+The Langham, Boston:Check in / front desk:4:17
+The Langham, Boston:Check in / front desk:5:45
+The Langham, Boston:Value:1:41
+The Langham, Boston:Value:2:49
+The Langham, Boston:Value:3:199
+The Langham, Boston:Value:4:455
+The Langham, Boston:Value:5:463
+The Langham, Boston:Sleep Quality:1:16
+The Langham, Boston:Sleep Quality:2:15
+The Langham, Boston:Sleep Quality:3:55
+The Langham, Boston:Sleep Quality:4:244
+The Langham, Boston:Sleep Quality:5:654
+The Langham, Boston:Location:1:6
+The Langham, Boston:Location:2:8
+The Langham, Boston:Location:3:67
+The Langham, Boston:Location:4:275
+The Langham, Boston:Location:5:805
+The Langham, Boston:Rooms:1:17
+The Langham, Boston:Rooms:2:29
+The Langham, Boston:Rooms:3:100
+The Langham, Boston:Rooms:4:325
+The Langham, Boston:Rooms:5:703
+The Liberty Hotel:Service:1:38
+The Liberty Hotel:Service:2:27
+The Liberty Hotel:Service:3:93
+The Liberty Hotel:Service:4:190
+The Liberty Hotel:Service:5:521
+The Liberty Hotel:Cleanliness:1:12
+The Liberty Hotel:Cleanliness:2:11
+The Liberty Hotel:Cleanliness:3:47
+The Liberty Hotel:Cleanliness:4:135
+The Liberty Hotel:Cleanliness:5:405
+The Liberty Hotel:Value:1:35
+The Liberty Hotel:Value:2:38
+The Liberty Hotel:Value:3:126
+The Liberty Hotel:Value:4:203
+The Liberty Hotel:Value:5:179
+The Liberty Hotel:Sleep Quality:1:19
+The Liberty Hotel:Sleep Quality:2:20
+The Liberty Hotel:Sleep Quality:3:66
+The Liberty Hotel:Sleep Quality:4:153
+The Liberty Hotel:Sleep Quality:5:281
+The Liberty Hotel:Rooms:1:19
+The Liberty Hotel:Rooms:2:22
+The Liberty Hotel:Rooms:3:75
+The Liberty Hotel:Rooms:4:190
+The Liberty Hotel:Rooms:5:296
+The Liberty Hotel:Location:1:3
+The Liberty Hotel:Location:2:9
+The Liberty Hotel:Location:3:58
+The Liberty Hotel:Location:4:152
+The Liberty Hotel:Location:5:394
+The Midtown Hotel:Service:1:60
+The Midtown Hotel:Service:2:87
+The Midtown Hotel:Service:3:345
+The Midtown Hotel:Service:4:652
+The Midtown Hotel:Service:5:856
+The Midtown Hotel:Cleanliness:1:56
+The Midtown Hotel:Cleanliness:2:94
+The Midtown Hotel:Cleanliness:3:358
+The Midtown Hotel:Cleanliness:4:655
+The Midtown Hotel:Cleanliness:5:650
+The Midtown Hotel:Business service (e.g., internet access):1:7
+The Midtown Hotel:Business service (e.g., internet access):2:6
+The Midtown Hotel:Business service (e.g., internet access):3:19
+The Midtown Hotel:Business service (e.g., internet access):4:4
+The Midtown Hotel:Business service (e.g., internet access):5:2
+The Midtown Hotel:Check in / front desk:1:3
+The Midtown Hotel:Check in / front desk:2:0
+The Midtown Hotel:Check in / front desk:3:21
+The Midtown Hotel:Check in / front desk:4:30
+The Midtown Hotel:Check in / front desk:5:24
+The Midtown Hotel:Value:1:80
+The Midtown Hotel:Value:2:126
+The Midtown Hotel:Value:3:326
+The Midtown Hotel:Value:4:509
+The Midtown Hotel:Value:5:779
+The Midtown Hotel:Sleep Quality:1:66
+The Midtown Hotel:Sleep Quality:2:109
+The Midtown Hotel:Sleep Quality:3:349
+The Midtown Hotel:Sleep Quality:4:527
+The Midtown Hotel:Sleep Quality:5:572
+The Midtown Hotel:Location:1:5
+The Midtown Hotel:Location:2:24
+The Midtown Hotel:Location:3:118
+The Midtown Hotel:Location:4:466
+The Midtown Hotel:Location:5:1145
+The Midtown Hotel:Rooms:1:85
+The Midtown Hotel:Rooms:2:156
+The Midtown Hotel:Rooms:3:577
+The Midtown Hotel:Rooms:4:614
+The Midtown Hotel:Rooms:5:352
+The Westin Copley Place:Service:1:67
+The Westin Copley Place:Service:2:94
+The Westin Copley Place:Service:3:249
+The Westin Copley Place:Service:4:696
+The Westin Copley Place:Service:5:1314
+The Westin Copley Place:Cleanliness:1:31
+The Westin Copley Place:Cleanliness:2:55
+The Westin Copley Place:Cleanliness:3:152
+The Westin Copley Place:Cleanliness:4:526
+The Westin Copley Place:Cleanliness:5:1245
+The Westin Copley Place:Business service (e.g., internet access):1:5
+The Westin Copley Place:Business service (e.g., internet access):2:9
+The Westin Copley Place:Business service (e.g., internet access):3:20
+The Westin Copley Place:Business service (e.g., internet access):4:25
+The Westin Copley Place:Business service (e.g., internet access):5:27
+The Westin Copley Place:Check in / front desk:1:6
+The Westin Copley Place:Check in / front desk:2:7
+The Westin Copley Place:Check in / front desk:3:19
+The Westin Copley Place:Check in / front desk:4:31
+The Westin Copley Place:Check in / front desk:5:76
+The Westin Copley Place:Value:1:67
+The Westin Copley Place:Value:2:121
+The Westin Copley Place:Value:3:445
+The Westin Copley Place:Value:4:735
+The Westin Copley Place:Value:5:617
+The Westin Copley Place:Sleep Quality:1:18
+The Westin Copley Place:Sleep Quality:2:25
+The Westin Copley Place:Sleep Quality:3:117
+The Westin Copley Place:Sleep Quality:4:409
+The Westin Copley Place:Sleep Quality:5:1003
+The Westin Copley Place:Location:1:5
+The Westin Copley Place:Location:2:2
+The Westin Copley Place:Location:3:36
+The Westin Copley Place:Location:4:261
+The Westin Copley Place:Location:5:1548
+The Westin Copley Place:Rooms:1:24
+The Westin Copley Place:Rooms:2:55
+The Westin Copley Place:Rooms:3:233
+The Westin Copley Place:Rooms:4:635
+The Westin Copley Place:Rooms:5:974
+W Boston:Service:1:40
+W Boston:Service:2:38
+W Boston:Service:3:87
+W Boston:Service:4:192
+W Boston:Service:5:639
+W Boston:Cleanliness:1:7
+W Boston:Cleanliness:2:13
+W Boston:Cleanliness:3:57
+W Boston:Cleanliness:4:159
+W Boston:Cleanliness:5:578
+W Boston:Value:1:35
+W Boston:Value:2:62
+W Boston:Value:3:197
+W Boston:Value:4:278
+W Boston:Value:5:229
+W Boston:Sleep Quality:1:31
+W Boston:Sleep Quality:2:24
+W Boston:Sleep Quality:3:77
+W Boston:Sleep Quality:4:169
+W Boston:Sleep Quality:5:403
+W Boston:Rooms:1:14
+W Boston:Rooms:2:28
+W Boston:Rooms:3:106
+W Boston:Rooms:4:220
+W Boston:Rooms:5:406
+W Boston:Location:1:4
+W Boston:Location:2:9
+W Boston:Location:3:59
+W Boston:Location:4:208
+W Boston:Location:5:485
+XV Beacon:Service:1:14
+XV Beacon:Service:2:12
+XV Beacon:Service:3:34
+XV Beacon:Service:4:75
+XV Beacon:Service:5:667
+XV Beacon:Cleanliness:1:5
+XV Beacon:Cleanliness:2:9
+XV Beacon:Cleanliness:3:19
+XV Beacon:Cleanliness:4:62
+XV Beacon:Cleanliness:5:575
+XV Beacon:Business service (e.g., internet access):1:2
+XV Beacon:Business service (e.g., internet access):2:2
+XV Beacon:Business service (e.g., internet access):3:5
+XV Beacon:Business service (e.g., internet access):4:4
+XV Beacon:Business service (e.g., internet access):5:11
+XV Beacon:Check in / front desk:1:2
+XV Beacon:Check in / front desk:2:3
+XV Beacon:Check in / front desk:3:3
+XV Beacon:Check in / front desk:4:8
+XV Beacon:Check in / front desk:5:19
+XV Beacon:Value:1:16
+XV Beacon:Value:2:28
+XV Beacon:Value:3:84
+XV Beacon:Value:4:214
+XV Beacon:Value:5:315
+XV Beacon:Sleep Quality:1:6
+XV Beacon:Sleep Quality:2:5
+XV Beacon:Sleep Quality:3:16
+XV Beacon:Sleep Quality:4:55
+XV Beacon:Sleep Quality:5:392
+XV Beacon:Location:1:2
+XV Beacon:Location:2:3
+XV Beacon:Location:3:10
+XV Beacon:Location:4:55
+XV Beacon:Location:5:536
+XV Beacon:Rooms:1:7
+XV Beacon:Rooms:2:11
+XV Beacon:Rooms:3:25
+XV Beacon:Rooms:4:85
+XV Beacon:Rooms:5:510
+Battery Wharf Hotel, Boston Waterfront:Service:1:21
+Battery Wharf Hotel, Boston Waterfront:Service:2:32
+Battery Wharf Hotel, Boston Waterfront:Service:3:56
+Battery Wharf Hotel, Boston Waterfront:Service:4:155
+Battery Wharf Hotel, Boston Waterfront:Service:5:634
+Battery Wharf Hotel, Boston Waterfront:Cleanliness:1:3
+Battery Wharf Hotel, Boston Waterfront:Cleanliness:2:5
+Battery Wharf Hotel, Boston Waterfront:Cleanliness:3:35
+Battery Wharf Hotel, Boston Waterfront:Cleanliness:4:113
+Battery Wharf Hotel, Boston Waterfront:Cleanliness:5:621
+Battery Wharf Hotel, Boston Waterfront:Value:1:15
+Battery Wharf Hotel, Boston Waterfront:Value:2:32
+Battery Wharf Hotel, Boston Waterfront:Value:3:146
+Battery Wharf Hotel, Boston Waterfront:Value:4:280
+Battery Wharf Hotel, Boston Waterfront:Value:5:290
+Battery Wharf Hotel, Boston Waterfront:Sleep Quality:1:7
+Battery Wharf Hotel, Boston Waterfront:Sleep Quality:2:10
+Battery Wharf Hotel, Boston Waterfront:Sleep Quality:3:41
+Battery Wharf Hotel, Boston Waterfront:Sleep Quality:4:140
+Battery Wharf Hotel, Boston Waterfront:Sleep Quality:5:468
+Battery Wharf Hotel, Boston Waterfront:Location:1:3
+Battery Wharf Hotel, Boston Waterfront:Location:2:9
+Battery Wharf Hotel, Boston Waterfront:Location:3:41
+Battery Wharf Hotel, Boston Waterfront:Location:4:179
+Battery Wharf Hotel, Boston Waterfront:Location:5:510
+Battery Wharf Hotel, Boston Waterfront:Rooms:1:2
+Battery Wharf Hotel, Boston Waterfront:Rooms:2:14
+Battery Wharf Hotel, Boston Waterfront:Rooms:3:52
+Battery Wharf Hotel, Boston Waterfront:Rooms:4:167
+Battery Wharf Hotel, Boston Waterfront:Rooms:5:500
+BEST WESTERN PLUS Roundhouse Suites:Service:1:34
+BEST WESTERN PLUS Roundhouse Suites:Service:2:43
+BEST WESTERN PLUS Roundhouse Suites:Service:3:117
+BEST WESTERN PLUS Roundhouse Suites:Service:4:218
+BEST WESTERN PLUS Roundhouse Suites:Service:5:388
+BEST WESTERN PLUS Roundhouse Suites:Cleanliness:1:14
+BEST WESTERN PLUS Roundhouse Suites:Cleanliness:2:21
+BEST WESTERN PLUS Roundhouse Suites:Cleanliness:3:95
+BEST WESTERN PLUS Roundhouse Suites:Cleanliness:4:268
+BEST WESTERN PLUS Roundhouse Suites:Cleanliness:5:310
+BEST WESTERN PLUS Roundhouse Suites:Business service (e.g., internet access):1:1
+BEST WESTERN PLUS Roundhouse Suites:Business service (e.g., internet access):2:2
+BEST WESTERN PLUS Roundhouse Suites:Business service (e.g., internet access):3:5
+BEST WESTERN PLUS Roundhouse Suites:Business service (e.g., internet access):4:6
+BEST WESTERN PLUS Roundhouse Suites:Business service (e.g., internet access):5:4
+BEST WESTERN PLUS Roundhouse Suites:Check in / front desk:1:4
+BEST WESTERN PLUS Roundhouse Suites:Check in / front desk:2:3
+BEST WESTERN PLUS Roundhouse Suites:Check in / front desk:3:8
+BEST WESTERN PLUS Roundhouse Suites:Check in / front desk:4:5
+BEST WESTERN PLUS Roundhouse Suites:Check in / front desk:5:5
+BEST WESTERN PLUS Roundhouse Suites:Value:1:33
+BEST WESTERN PLUS Roundhouse Suites:Value:2:56
+BEST WESTERN PLUS Roundhouse Suites:Value:3:104
+BEST WESTERN PLUS Roundhouse Suites:Value:4:229
+BEST WESTERN PLUS Roundhouse Suites:Value:5:293
+BEST WESTERN PLUS Roundhouse Suites:Sleep Quality:1:30
+BEST WESTERN PLUS Roundhouse Suites:Sleep Quality:2:39
+BEST WESTERN PLUS Roundhouse Suites:Sleep Quality:3:113
+BEST WESTERN PLUS Roundhouse Suites:Sleep Quality:4:218
+BEST WESTERN PLUS Roundhouse Suites:Sleep Quality:5:236
+BEST WESTERN PLUS Roundhouse Suites:Rooms:1:14
+BEST WESTERN PLUS Roundhouse Suites:Rooms:2:22
+BEST WESTERN PLUS Roundhouse Suites:Rooms:3:126
+BEST WESTERN PLUS Roundhouse Suites:Rooms:4:259
+BEST WESTERN PLUS Roundhouse Suites:Rooms:5:265
+BEST WESTERN PLUS Roundhouse Suites:Location:1:58
+BEST WESTERN PLUS Roundhouse Suites:Location:2:105
+BEST WESTERN PLUS Roundhouse Suites:Location:3:227
+BEST WESTERN PLUS Roundhouse Suites:Location:4:167
+BEST WESTERN PLUS Roundhouse Suites:Location:5:115
+Chandler Inn:Service:1:20
+Chandler Inn:Service:2:31
+Chandler Inn:Service:3:138
+Chandler Inn:Service:4:281
+Chandler Inn:Service:5:414
+Chandler Inn:Cleanliness:1:21
+Chandler Inn:Cleanliness:2:18
+Chandler Inn:Cleanliness:3:66
+Chandler Inn:Cleanliness:4:243
+Chandler Inn:Cleanliness:5:425
+Chandler Inn:Business service (e.g., internet access):1:4
+Chandler Inn:Business service (e.g., internet access):2:0
+Chandler Inn:Business service (e.g., internet access):3:7
+Chandler Inn:Business service (e.g., internet access):4:6
+Chandler Inn:Business service (e.g., internet access):5:2
+Chandler Inn:Check in / front desk:1:3
+Chandler Inn:Check in / front desk:2:2
+Chandler Inn:Check in / front desk:3:10
+Chandler Inn:Check in / front desk:4:5
+Chandler Inn:Check in / front desk:5:12
+Chandler Inn:Value:1:29
+Chandler Inn:Value:2:44
+Chandler Inn:Value:3:140
+Chandler Inn:Value:4:256
+Chandler Inn:Value:5:312
+Chandler Inn:Sleep Quality:1:22
+Chandler Inn:Sleep Quality:2:34
+Chandler Inn:Sleep Quality:3:122
+Chandler Inn:Sleep Quality:4:226
+Chandler Inn:Sleep Quality:5:251
+Chandler Inn:Location:1:1
+Chandler Inn:Location:2:10
+Chandler Inn:Location:3:73
+Chandler Inn:Location:4:245
+Chandler Inn:Location:5:383
+Chandler Inn:Rooms:1:31
+Chandler Inn:Rooms:2:48
+Chandler Inn:Rooms:3:167
+Chandler Inn:Rooms:4:291
+Chandler Inn:Rooms:5:175
+Charlesmark Hotel:Service:1:19
+Charlesmark Hotel:Service:2:26
+Charlesmark Hotel:Service:3:83
+Charlesmark Hotel:Service:4:208
+Charlesmark Hotel:Service:5:360
+Charlesmark Hotel:Cleanliness:1:4
+Charlesmark Hotel:Cleanliness:2:10
+Charlesmark Hotel:Cleanliness:3:47
+Charlesmark Hotel:Cleanliness:4:161
+Charlesmark Hotel:Cleanliness:5:391
+Charlesmark Hotel:Business service (e.g., internet access):1:3
+Charlesmark Hotel:Business service (e.g., internet access):2:3
+Charlesmark Hotel:Business service (e.g., internet access):3:19
+Charlesmark Hotel:Business service (e.g., internet access):4:35
+Charlesmark Hotel:Business service (e.g., internet access):5:56
+Charlesmark Hotel:Check in / front desk:1:12
+Charlesmark Hotel:Check in / front desk:2:12
+Charlesmark Hotel:Check in / front desk:3:23
+Charlesmark Hotel:Check in / front desk:4:40
+Charlesmark Hotel:Check in / front desk:5:61
+Charlesmark Hotel:Value:1:18
+Charlesmark Hotel:Value:2:25
+Charlesmark Hotel:Value:3:79
+Charlesmark Hotel:Value:4:210
+Charlesmark Hotel:Value:5:300
+Charlesmark Hotel:Sleep Quality:1:13
+Charlesmark Hotel:Sleep Quality:2:13
+Charlesmark Hotel:Sleep Quality:3:47
+Charlesmark Hotel:Sleep Quality:4:124
+Charlesmark Hotel:Sleep Quality:5:147
+Charlesmark Hotel:Location:1:1
+Charlesmark Hotel:Location:2:3
+Charlesmark Hotel:Location:3:7
+Charlesmark Hotel:Location:4:66
+Charlesmark Hotel:Location:5:445
+Charlesmark Hotel:Rooms:1:19
+Charlesmark Hotel:Rooms:2:46
+Charlesmark Hotel:Rooms:3:94
+Charlesmark Hotel:Rooms:4:256
+Charlesmark Hotel:Rooms:5:172
+Club Quarters Hotel in Boston:Service:1:50
+Club Quarters Hotel in Boston:Service:2:42
+Club Quarters Hotel in Boston:Service:3:147
+Club Quarters Hotel in Boston:Service:4:318
+Club Quarters Hotel in Boston:Service:5:574
+Club Quarters Hotel in Boston:Cleanliness:1:9
+Club Quarters Hotel in Boston:Cleanliness:2:20
+Club Quarters Hotel in Boston:Cleanliness:3:97
+Club Quarters Hotel in Boston:Cleanliness:4:265
+Club Quarters Hotel in Boston:Cleanliness:5:565
+Club Quarters Hotel in Boston:Business service (e.g., internet access):1:3
+Club Quarters Hotel in Boston:Business service (e.g., internet access):2:10
+Club Quarters Hotel in Boston:Business service (e.g., internet access):3:9
+Club Quarters Hotel in Boston:Business service (e.g., internet access):4:26
+Club Quarters Hotel in Boston:Business service (e.g., internet access):5:19
+Club Quarters Hotel in Boston:Check in / front desk:1:14
+Club Quarters Hotel in Boston:Check in / front desk:2:8
+Club Quarters Hotel in Boston:Check in / front desk:3:20
+Club Quarters Hotel in Boston:Check in / front desk:4:17
+Club Quarters Hotel in Boston:Check in / front desk:5:20
+Club Quarters Hotel in Boston:Value:1:21
+Club Quarters Hotel in Boston:Value:2:42
+Club Quarters Hotel in Boston:Value:3:168
+Club Quarters Hotel in Boston:Value:4:288
+Club Quarters Hotel in Boston:Value:5:427
+Club Quarters Hotel in Boston:Sleep Quality:1:15
+Club Quarters Hotel in Boston:Sleep Quality:2:26
+Club Quarters Hotel in Boston:Sleep Quality:3:112
+Club Quarters Hotel in Boston:Sleep Quality:4:237
+Club Quarters Hotel in Boston:Sleep Quality:5:336
+Club Quarters Hotel in Boston:Rooms:1:21
+Club Quarters Hotel in Boston:Rooms:2:35
+Club Quarters Hotel in Boston:Rooms:3:196
+Club Quarters Hotel in Boston:Rooms:4:358
+Club Quarters Hotel in Boston:Rooms:5:302
+Club Quarters Hotel in Boston:Location:1:0
+Club Quarters Hotel in Boston:Location:2:7
+Club Quarters Hotel in Boston:Location:3:44
+Club Quarters Hotel in Boston:Location:4:198
+Club Quarters Hotel in Boston:Location:5:663
+Colonnade Hotel:Service:1:53
+Colonnade Hotel:Service:2:58
+Colonnade Hotel:Service:3:157
+Colonnade Hotel:Service:4:361
+Colonnade Hotel:Service:5:1608
+Colonnade Hotel:Cleanliness:1:21
+Colonnade Hotel:Cleanliness:2:34
+Colonnade Hotel:Cleanliness:3:111
+Colonnade Hotel:Cleanliness:4:370
+Colonnade Hotel:Cleanliness:5:1309
+Colonnade Hotel:Business service (e.g., internet access):1:7
+Colonnade Hotel:Business service (e.g., internet access):2:6
+Colonnade Hotel:Business service (e.g., internet access):3:6
+Colonnade Hotel:Business service (e.g., internet access):4:7
+Colonnade Hotel:Business service (e.g., internet access):5:16
+Colonnade Hotel:Check in / front desk:1:2
+Colonnade Hotel:Check in / front desk:2:4
+Colonnade Hotel:Check in / front desk:3:18
+Colonnade Hotel:Check in / front desk:4:10
+Colonnade Hotel:Check in / front desk:5:26
+Colonnade Hotel:Value:1:53
+Colonnade Hotel:Value:2:71
+Colonnade Hotel:Value:3:261
+Colonnade Hotel:Value:4:570
+Colonnade Hotel:Value:5:903
+Colonnade Hotel:Sleep Quality:1:23
+Colonnade Hotel:Sleep Quality:2:26
+Colonnade Hotel:Sleep Quality:3:88
+Colonnade Hotel:Sleep Quality:4:331
+Colonnade Hotel:Sleep Quality:5:1072
+Colonnade Hotel:Rooms:1:30
+Colonnade Hotel:Rooms:2:38
+Colonnade Hotel:Rooms:3:153
+Colonnade Hotel:Rooms:4:487
+Colonnade Hotel:Rooms:5:1060
+Colonnade Hotel:Location:1:6
+Colonnade Hotel:Location:2:4
+Colonnade Hotel:Location:3:39
+Colonnade Hotel:Location:4:290
+Colonnade Hotel:Location:5:1406
+Copley House:Service:1:34
+Copley House:Service:2:27
+Copley House:Service:3:68
+Copley House:Service:4:136
+Copley House:Service:5:146
+Copley House:Cleanliness:1:25
+Copley House:Cleanliness:2:21
+Copley House:Cleanliness:3:61
+Copley House:Cleanliness:4:107
+Copley House:Cleanliness:5:98
+Copley House:Business service (e.g., internet access):1:5
+Copley House:Business service (e.g., internet access):2:2
+Copley House:Business service (e.g., internet access):3:2
+Copley House:Business service (e.g., internet access):4:3
+Copley House:Business service (e.g., internet access):5:5
+Copley House:Check in / front desk:1:4
+Copley House:Check in / front desk:2:2
+Copley House:Check in / front desk:3:5
+Copley House:Check in / front desk:4:7
+Copley House:Check in / front desk:5:7
+Copley House:Value:1:27
+Copley House:Value:2:23
+Copley House:Value:3:42
+Copley House:Value:4:93
+Copley House:Value:5:134
+Copley House:Sleep Quality:1:18
+Copley House:Sleep Quality:2:17
+Copley House:Sleep Quality:3:38
+Copley House:Sleep Quality:4:96
+Copley House:Sleep Quality:5:76
+Copley House:Location:1:3
+Copley House:Location:2:5
+Copley House:Location:3:21
+Copley House:Location:4:71
+Copley House:Location:5:211
+Copley House:Rooms:1:31
+Copley House:Rooms:2:29
+Copley House:Rooms:3:55
+Copley House:Rooms:4:113
+Copley House:Rooms:5:64
+Copley Square Hotel:Service:1:19
+Copley Square Hotel:Service:2:27
+Copley Square Hotel:Service:3:72
+Copley Square Hotel:Service:4:241
+Copley Square Hotel:Service:5:731
+Copley Square Hotel:Cleanliness:1:4
+Copley Square Hotel:Cleanliness:2:10
+Copley Square Hotel:Cleanliness:3:54
+Copley Square Hotel:Cleanliness:4:209
+Copley Square Hotel:Cleanliness:5:641
+Copley Square Hotel:Business service (e.g., internet access):1:0
+Copley Square Hotel:Business service (e.g., internet access):2:0
+Copley Square Hotel:Business service (e.g., internet access):3:0
+Copley Square Hotel:Business service (e.g., internet access):4:1
+Copley Square Hotel:Business service (e.g., internet access):5:1
+Copley Square Hotel:Check in / front desk:1:0
+Copley Square Hotel:Check in / front desk:2:0
+Copley Square Hotel:Check in / front desk:3:0
+Copley Square Hotel:Check in / front desk:4:1
+Copley Square Hotel:Check in / front desk:5:2
+Copley Square Hotel:Value:1:21
+Copley Square Hotel:Value:2:37
+Copley Square Hotel:Value:3:158
+Copley Square Hotel:Value:4:341
+Copley Square Hotel:Value:5:393
+Copley Square Hotel:Sleep Quality:1:21
+Copley Square Hotel:Sleep Quality:2:19
+Copley Square Hotel:Sleep Quality:3:64
+Copley Square Hotel:Sleep Quality:4:229
+Copley Square Hotel:Sleep Quality:5:464
+Copley Square Hotel:Location:1:1
+Copley Square Hotel:Location:2:2
+Copley Square Hotel:Location:3:17
+Copley Square Hotel:Location:4:113
+Copley Square Hotel:Location:5:720
+Copley Square Hotel:Rooms:1:16
+Copley Square Hotel:Rooms:2:30
+Copley Square Hotel:Rooms:3:127
+Copley Square Hotel:Rooms:4:358
+Copley Square Hotel:Rooms:5:351
+Courtyard by Marriott Boston Logan Airport:Service:1:20
+Courtyard by Marriott Boston Logan Airport:Service:2:31
+Courtyard by Marriott Boston Logan Airport:Service:3:83
+Courtyard by Marriott Boston Logan Airport:Service:4:170
+Courtyard by Marriott Boston Logan Airport:Service:5:159
+Courtyard by Marriott Boston Logan Airport:Cleanliness:1:7
+Courtyard by Marriott Boston Logan Airport:Cleanliness:2:20
+Courtyard by Marriott Boston Logan Airport:Cleanliness:3:47
+Courtyard by Marriott Boston Logan Airport:Cleanliness:4:152
+Courtyard by Marriott Boston Logan Airport:Cleanliness:5:154
+Courtyard by Marriott Boston Logan Airport:Business service (e.g., internet access):1:0
+Courtyard by Marriott Boston Logan Airport:Business service (e.g., internet access):2:0
+Courtyard by Marriott Boston Logan Airport:Business service (e.g., internet access):3:0
+Courtyard by Marriott Boston Logan Airport:Business service (e.g., internet access):4:0
+Courtyard by Marriott Boston Logan Airport:Business service (e.g., internet access):5:1
+Courtyard by Marriott Boston Logan Airport:Check in / front desk:1:0
+Courtyard by Marriott Boston Logan Airport:Check in / front desk:2:0
+Courtyard by Marriott Boston Logan Airport:Check in / front desk:3:0
+Courtyard by Marriott Boston Logan Airport:Check in / front desk:4:1
+Courtyard by Marriott Boston Logan Airport:Check in / front desk:5:0
+Courtyard by Marriott Boston Logan Airport:Value:1:23
+Courtyard by Marriott Boston Logan Airport:Value:2:38
+Courtyard by Marriott Boston Logan Airport:Value:3:111
+Courtyard by Marriott Boston Logan Airport:Value:4:121
+Courtyard by Marriott Boston Logan Airport:Value:5:83
+Courtyard by Marriott Boston Logan Airport:Sleep Quality:1:14
+Courtyard by Marriott Boston Logan Airport:Sleep Quality:2:15
+Courtyard by Marriott Boston Logan Airport:Sleep Quality:3:62
+Courtyard by Marriott Boston Logan Airport:Sleep Quality:4:126
+Courtyard by Marriott Boston Logan Airport:Sleep Quality:5:103
+Courtyard by Marriott Boston Logan Airport:Location:1:13
+Courtyard by Marriott Boston Logan Airport:Location:2:20
+Courtyard by Marriott Boston Logan Airport:Location:3:75
+Courtyard by Marriott Boston Logan Airport:Location:4:138
+Courtyard by Marriott Boston Logan Airport:Location:5:127
+Courtyard by Marriott Boston Logan Airport:Rooms:1:13
+Courtyard by Marriott Boston Logan Airport:Rooms:2:18
+Courtyard by Marriott Boston Logan Airport:Rooms:3:89
+Courtyard by Marriott Boston Logan Airport:Rooms:4:141
+Courtyard by Marriott Boston Logan Airport:Rooms:5:102
+DoubleTree by Hilton Hotel Boston - Downtown:Service:1:14
+DoubleTree by Hilton Hotel Boston - Downtown:Service:2:29
+DoubleTree by Hilton Hotel Boston - Downtown:Service:3:67
+DoubleTree by Hilton Hotel Boston - Downtown:Service:4:168
+DoubleTree by Hilton Hotel Boston - Downtown:Service:5:424
+DoubleTree by Hilton Hotel Boston - Downtown:Cleanliness:1:2
+DoubleTree by Hilton Hotel Boston - Downtown:Cleanliness:2:6
+DoubleTree by Hilton Hotel Boston - Downtown:Cleanliness:3:26
+DoubleTree by Hilton Hotel Boston - Downtown:Cleanliness:4:110
+DoubleTree by Hilton Hotel Boston - Downtown:Cleanliness:5:334
+DoubleTree by Hilton Hotel Boston - Downtown:Value:1:14
+DoubleTree by Hilton Hotel Boston - Downtown:Value:2:25
+DoubleTree by Hilton Hotel Boston - Downtown:Value:3:93
+DoubleTree by Hilton Hotel Boston - Downtown:Value:4:171
+DoubleTree by Hilton Hotel Boston - Downtown:Value:5:176
+DoubleTree by Hilton Hotel Boston - Downtown:Sleep Quality:1:9
+DoubleTree by Hilton Hotel Boston - Downtown:Sleep Quality:2:13
+DoubleTree by Hilton Hotel Boston - Downtown:Sleep Quality:3:42
+DoubleTree by Hilton Hotel Boston - Downtown:Sleep Quality:4:137
+DoubleTree by Hilton Hotel Boston - Downtown:Sleep Quality:5:259
+DoubleTree by Hilton Hotel Boston - Downtown:Location:1:5
+DoubleTree by Hilton Hotel Boston - Downtown:Location:2:5
+DoubleTree by Hilton Hotel Boston - Downtown:Location:3:55
+DoubleTree by Hilton Hotel Boston - Downtown:Location:4:151
+DoubleTree by Hilton Hotel Boston - Downtown:Location:5:274
+DoubleTree by Hilton Hotel Boston - Downtown:Rooms:1:5
+DoubleTree by Hilton Hotel Boston - Downtown:Rooms:2:10
+DoubleTree by Hilton Hotel Boston - Downtown:Rooms:3:43
+DoubleTree by Hilton Hotel Boston - Downtown:Rooms:4:155
+DoubleTree by Hilton Hotel Boston - Downtown:Rooms:5:260
+DoubleTree Suites by Hilton Boston-Cambridge:Service:1:31
+DoubleTree Suites by Hilton Boston-Cambridge:Service:2:47
+DoubleTree Suites by Hilton Boston-Cambridge:Service:3:134
+DoubleTree Suites by Hilton Boston-Cambridge:Service:4:315
+DoubleTree Suites by Hilton Boston-Cambridge:Service:5:620
+DoubleTree Suites by Hilton Boston-Cambridge:Cleanliness:1:16
+DoubleTree Suites by Hilton Boston-Cambridge:Cleanliness:2:24
+DoubleTree Suites by Hilton Boston-Cambridge:Cleanliness:3:98
+DoubleTree Suites by Hilton Boston-Cambridge:Cleanliness:4:315
+DoubleTree Suites by Hilton Boston-Cambridge:Cleanliness:5:572
+DoubleTree Suites by Hilton Boston-Cambridge:Business service (e.g., internet access):1:3
+DoubleTree Suites by Hilton Boston-Cambridge:Business service (e.g., internet access):2:2
+DoubleTree Suites by Hilton Boston-Cambridge:Business service (e.g., internet access):3:10
+DoubleTree Suites by Hilton Boston-Cambridge:Business service (e.g., internet access):4:20
+DoubleTree Suites by Hilton Boston-Cambridge:Business service (e.g., internet access):5:23
+DoubleTree Suites by Hilton Boston-Cambridge:Check in / front desk:1:2
+DoubleTree Suites by Hilton Boston-Cambridge:Check in / front desk:2:4
+DoubleTree Suites by Hilton Boston-Cambridge:Check in / front desk:3:9
+DoubleTree Suites by Hilton Boston-Cambridge:Check in / front desk:4:25
+DoubleTree Suites by Hilton Boston-Cambridge:Check in / front desk:5:37
+DoubleTree Suites by Hilton Boston-Cambridge:Value:1:35
+DoubleTree Suites by Hilton Boston-Cambridge:Value:2:66
+DoubleTree Suites by Hilton Boston-Cambridge:Value:3:213
+DoubleTree Suites by Hilton Boston-Cambridge:Value:4:346
+DoubleTree Suites by Hilton Boston-Cambridge:Value:5:368
+DoubleTree Suites by Hilton Boston-Cambridge:Sleep Quality:1:32
+DoubleTree Suites by Hilton Boston-Cambridge:Sleep Quality:2:31
+DoubleTree Suites by Hilton Boston-Cambridge:Sleep Quality:3:97
+DoubleTree Suites by Hilton Boston-Cambridge:Sleep Quality:4:275
+DoubleTree Suites by Hilton Boston-Cambridge:Sleep Quality:5:438
+DoubleTree Suites by Hilton Boston-Cambridge:Rooms:1:18
+DoubleTree Suites by Hilton Boston-Cambridge:Rooms:2:37
+DoubleTree Suites by Hilton Boston-Cambridge:Rooms:3:124
+DoubleTree Suites by Hilton Boston-Cambridge:Rooms:4:340
+DoubleTree Suites by Hilton Boston-Cambridge:Rooms:5:504
+DoubleTree Suites by Hilton Boston-Cambridge:Location:1:19
+DoubleTree Suites by Hilton Boston-Cambridge:Location:2:79
+DoubleTree Suites by Hilton Boston-Cambridge:Location:3:217
+DoubleTree Suites by Hilton Boston-Cambridge:Location:4:332
+DoubleTree Suites by Hilton Boston-Cambridge:Location:5:342
+Eliot Hotel:Service:1:20
+Eliot Hotel:Service:2:18
+Eliot Hotel:Service:3:64
+Eliot Hotel:Service:4:130
+Eliot Hotel:Service:5:609
+Eliot Hotel:Cleanliness:1:10
+Eliot Hotel:Cleanliness:2:8
+Eliot Hotel:Cleanliness:3:39
+Eliot Hotel:Cleanliness:4:137
+Eliot Hotel:Cleanliness:5:443
+Eliot Hotel:Business service (e.g., internet access):1:3
+Eliot Hotel:Business service (e.g., internet access):2:3
+Eliot Hotel:Business service (e.g., internet access):3:7
+Eliot Hotel:Business service (e.g., internet access):4:10
+Eliot Hotel:Business service (e.g., internet access):5:8
+Eliot Hotel:Check in / front desk:1:3
+Eliot Hotel:Check in / front desk:2:5
+Eliot Hotel:Check in / front desk:3:3
+Eliot Hotel:Check in / front desk:4:5
+Eliot Hotel:Check in / front desk:5:32
+Eliot Hotel:Value:1:23
+Eliot Hotel:Value:2:35
+Eliot Hotel:Value:3:109
+Eliot Hotel:Value:4:224
+Eliot Hotel:Value:5:260
+Eliot Hotel:Sleep Quality:1:8
+Eliot Hotel:Sleep Quality:2:8
+Eliot Hotel:Sleep Quality:3:44
+Eliot Hotel:Sleep Quality:4:108
+Eliot Hotel:Sleep Quality:5:330
+Eliot Hotel:Rooms:1:12
+Eliot Hotel:Rooms:2:23
+Eliot Hotel:Rooms:3:64
+Eliot Hotel:Rooms:4:142
+Eliot Hotel:Rooms:5:372
+Eliot Hotel:Location:1:2
+Eliot Hotel:Location:2:3
+Eliot Hotel:Location:3:19
+Eliot Hotel:Location:4:106
+Eliot Hotel:Location:5:471
+Four Seasons Hotel Boston:Service:1:19
+Four Seasons Hotel Boston:Service:2:17
+Four Seasons Hotel Boston:Service:3:31
+Four Seasons Hotel Boston:Service:4:77
+Four Seasons Hotel Boston:Service:5:1016
+Four Seasons Hotel Boston:Cleanliness:1:4
+Four Seasons Hotel Boston:Cleanliness:2:4
+Four Seasons Hotel Boston:Cleanliness:3:18
+Four Seasons Hotel Boston:Cleanliness:4:80
+Four Seasons Hotel Boston:Cleanliness:5:840
+Four Seasons Hotel Boston:Business service (e.g., internet access):1:3
+Four Seasons Hotel Boston:Business service (e.g., internet access):2:1
+Four Seasons Hotel Boston:Business service (e.g., internet access):3:9
+Four Seasons Hotel Boston:Business service (e.g., internet access):4:7
+Four Seasons Hotel Boston:Business service (e.g., internet access):5:14
+Four Seasons Hotel Boston:Check in / front desk:1:4
+Four Seasons Hotel Boston:Check in / front desk:2:2
+Four Seasons Hotel Boston:Check in / front desk:3:1
+Four Seasons Hotel Boston:Check in / front desk:4:9
+Four Seasons Hotel Boston:Check in / front desk:5:28
+Four Seasons Hotel Boston:Value:1:25
+Four Seasons Hotel Boston:Value:2:27
+Four Seasons Hotel Boston:Value:3:145
+Four Seasons Hotel Boston:Value:4:312
+Four Seasons Hotel Boston:Value:5:429
+Four Seasons Hotel Boston:Sleep Quality:1:5
+Four Seasons Hotel Boston:Sleep Quality:2:4
+Four Seasons Hotel Boston:Sleep Quality:3:22
+Four Seasons Hotel Boston:Sleep Quality:4:100
+Four Seasons Hotel Boston:Sleep Quality:5:697
+Four Seasons Hotel Boston:Location:1:2
+Four Seasons Hotel Boston:Location:2:2
+Four Seasons Hotel Boston:Location:3:12
+Four Seasons Hotel Boston:Location:4:54
+Four Seasons Hotel Boston:Location:5:829
+Four Seasons Hotel Boston:Rooms:1:6
+Four Seasons Hotel Boston:Rooms:2:15
+Four Seasons Hotel Boston:Rooms:3:56
+Four Seasons Hotel Boston:Rooms:4:164
+Four Seasons Hotel Boston:Rooms:5:668
+Hampton Inn &amp; Suites Boston Crosstown Center:Service:1:24
+Hampton Inn &amp; Suites Boston Crosstown Center:Service:2:15
+Hampton Inn &amp; Suites Boston Crosstown Center:Service:3:80
+Hampton Inn &amp; Suites Boston Crosstown Center:Service:4:174
+Hampton Inn &amp; Suites Boston Crosstown Center:Service:5:382
+Hampton Inn &amp; Suites Boston Crosstown Center:Cleanliness:1:3
+Hampton Inn &amp; Suites Boston Crosstown Center:Cleanliness:2:10
+Hampton Inn &amp; Suites Boston Crosstown Center:Cleanliness:3:49
+Hampton Inn &amp; Suites Boston Crosstown Center:Cleanliness:4:167
+Hampton Inn &amp; Suites Boston Crosstown Center:Cleanliness:5:381
+Hampton Inn &amp; Suites Boston Crosstown Center:Business service (e.g., internet access):1:0
+Hampton Inn &amp; Suites Boston Crosstown Center:Business service (e.g., internet access):2:0
+Hampton Inn &amp; Suites Boston Crosstown Center:Business service (e.g., internet access):3:9
+Hampton Inn &amp; Suites Boston Crosstown Center:Business service (e.g., internet access):4:7
+Hampton Inn &amp; Suites Boston Crosstown Center:Business service (e.g., internet access):5:7
+Hampton Inn &amp; Suites Boston Crosstown Center:Check in / front desk:1:2
+Hampton Inn &amp; Suites Boston Crosstown Center:Check in / front desk:2:0
+Hampton Inn &amp; Suites Boston Crosstown Center:Check in / front desk:3:8
+Hampton Inn &amp; Suites Boston Crosstown Center:Check in / front desk:4:5
+Hampton Inn &amp; Suites Boston Crosstown Center:Check in / front desk:5:13
+Hampton Inn &amp; Suites Boston Crosstown Center:Value:1:26
+Hampton Inn &amp; Suites Boston Crosstown Center:Value:2:34
+Hampton Inn &amp; Suites Boston Crosstown Center:Value:3:83
+Hampton Inn &amp; Suites Boston Crosstown Center:Value:4:203
+Hampton Inn &amp; Suites Boston Crosstown Center:Value:5:269
+Hampton Inn &amp; Suites Boston Crosstown Center:Sleep Quality:1:26
+Hampton Inn &amp; Suites Boston Crosstown Center:Sleep Quality:2:23
+Hampton Inn &amp; Suites Boston Crosstown Center:Sleep Quality:3:74
+Hampton Inn &amp; Suites Boston Crosstown Center:Sleep Quality:4:158
+Hampton Inn &amp; Suites Boston Crosstown Center:Sleep Quality:5:227
+Hampton Inn &amp; Suites Boston Crosstown Center:Location:1:39
+Hampton Inn &amp; Suites Boston Crosstown Center:Location:2:69
+Hampton Inn &amp; Suites Boston Crosstown Center:Location:3:152
+Hampton Inn &amp; Suites Boston Crosstown Center:Location:4:136
+Hampton Inn &amp; Suites Boston Crosstown Center:Location:5:168
+Hampton Inn &amp; Suites Boston Crosstown Center:Rooms:1:7
+Hampton Inn &amp; Suites Boston Crosstown Center:Rooms:2:15
+Hampton Inn &amp; Suites Boston Crosstown Center:Rooms:3:73
+Hampton Inn &amp; Suites Boston Crosstown Center:Rooms:4:208
+Hampton Inn &amp; Suites Boston Crosstown Center:Rooms:5:297
+Hilton Boston Back Bay:Service:1:59
+Hilton Boston Back Bay:Service:2:90
+Hilton Boston Back Bay:Service:3:274
+Hilton Boston Back Bay:Service:4:599
+Hilton Boston Back Bay:Service:5:907
+Hilton Boston Back Bay:Cleanliness:1:14
+Hilton Boston Back Bay:Cleanliness:2:39
+Hilton Boston Back Bay:Cleanliness:3:161
+Hilton Boston Back Bay:Cleanliness:4:517
+Hilton Boston Back Bay:Cleanliness:5:853
+Hilton Boston Back Bay:Business service (e.g., internet access):1:2
+Hilton Boston Back Bay:Business service (e.g., internet access):2:3
+Hilton Boston Back Bay:Business service (e.g., internet access):3:18
+Hilton Boston Back Bay:Business service (e.g., internet access):4:19
+Hilton Boston Back Bay:Business service (e.g., internet access):5:19
+Hilton Boston Back Bay:Check in / front desk:1:3
+Hilton Boston Back Bay:Check in / front desk:2:4
+Hilton Boston Back Bay:Check in / front desk:3:24
+Hilton Boston Back Bay:Check in / front desk:4:29
+Hilton Boston Back Bay:Check in / front desk:5:41
+Hilton Boston Back Bay:Value:1:51
+Hilton Boston Back Bay:Value:2:131
+Hilton Boston Back Bay:Value:3:419
+Hilton Boston Back Bay:Value:4:577
+Hilton Boston Back Bay:Value:5:425
+Hilton Boston Back Bay:Sleep Quality:1:33
+Hilton Boston Back Bay:Sleep Quality:2:52
+Hilton Boston Back Bay:Sleep Quality:3:159
+Hilton Boston Back Bay:Sleep Quality:4:447
+Hilton Boston Back Bay:Sleep Quality:5:642
+Hilton Boston Back Bay:Rooms:1:19
+Hilton Boston Back Bay:Rooms:2:68
+Hilton Boston Back Bay:Rooms:3:276
+Hilton Boston Back Bay:Rooms:4:607
+Hilton Boston Back Bay:Rooms:5:584
+Hilton Boston Back Bay:Location:1:2
+Hilton Boston Back Bay:Location:2:8
+Hilton Boston Back Bay:Location:3:89
+Hilton Boston Back Bay:Location:4:409
+Hilton Boston Back Bay:Location:5:1033
+Hilton Boston Logan Airport:Service:1:74
+Hilton Boston Logan Airport:Service:2:111
+Hilton Boston Logan Airport:Service:3:333
+Hilton Boston Logan Airport:Service:4:717
+Hilton Boston Logan Airport:Service:5:944
+Hilton Boston Logan Airport:Cleanliness:1:19
+Hilton Boston Logan Airport:Cleanliness:2:42
+Hilton Boston Logan Airport:Cleanliness:3:160
+Hilton Boston Logan Airport:Cleanliness:4:613
+Hilton Boston Logan Airport:Cleanliness:5:997
+Hilton Boston Logan Airport:Business service (e.g., internet access):1:1
+Hilton Boston Logan Airport:Business service (e.g., internet access):2:5
+Hilton Boston Logan Airport:Business service (e.g., internet access):3:8
+Hilton Boston Logan Airport:Business service (e.g., internet access):4:31
+Hilton Boston Logan Airport:Business service (e.g., internet access):5:26
+Hilton Boston Logan Airport:Check in / front desk:1:3
+Hilton Boston Logan Airport:Check in / front desk:2:3
+Hilton Boston Logan Airport:Check in / front desk:3:10
+Hilton Boston Logan Airport:Check in / front desk:4:30
+Hilton Boston Logan Airport:Check in / front desk:5:52
+Hilton Boston Logan Airport:Value:1:72
+Hilton Boston Logan Airport:Value:2:172
+Hilton Boston Logan Airport:Value:3:554
+Hilton Boston Logan Airport:Value:4:620
+Hilton Boston Logan Airport:Value:5:404
+Hilton Boston Logan Airport:Sleep Quality:1:26
+Hilton Boston Logan Airport:Sleep Quality:2:40
+Hilton Boston Logan Airport:Sleep Quality:3:173
+Hilton Boston Logan Airport:Sleep Quality:4:504
+Hilton Boston Logan Airport:Sleep Quality:5:792
+Hilton Boston Logan Airport:Location:1:11
+Hilton Boston Logan Airport:Location:2:5
+Hilton Boston Logan Airport:Location:3:100
+Hilton Boston Logan Airport:Location:4:433
+Hilton Boston Logan Airport:Location:5:1189
+Hilton Boston Logan Airport:Rooms:1:18
+Hilton Boston Logan Airport:Rooms:2:56
+Hilton Boston Logan Airport:Rooms:3:251
+Hilton Boston Logan Airport:Rooms:4:678
+Hilton Boston Logan Airport:Rooms:5:756
+Hotel 140:Service:1:44
+Hotel 140:Service:2:51
+Hotel 140:Service:3:147
+Hotel 140:Service:4:383
+Hotel 140:Service:5:735
+Hotel 140:Cleanliness:1:22
+Hotel 140:Cleanliness:2:18
+Hotel 140:Cleanliness:3:120
+Hotel 140:Cleanliness:4:371
+Hotel 140:Cleanliness:5:660
+Hotel 140:Business service (e.g., internet access):1:4
+Hotel 140:Business service (e.g., internet access):2:5
+Hotel 140:Business service (e.g., internet access):3:8
+Hotel 140:Business service (e.g., internet access):4:4
+Hotel 140:Business service (e.g., internet access):5:3
+Hotel 140:Check in / front desk:1:2
+Hotel 140:Check in / front desk:2:5
+Hotel 140:Check in / front desk:3:5
+Hotel 140:Check in / front desk:4:6
+Hotel 140:Check in / front desk:5:13
+Hotel 140:Value:1:57
+Hotel 140:Value:2:61
+Hotel 140:Value:3:177
+Hotel 140:Value:4:366
+Hotel 140:Value:5:532
+Hotel 140:Sleep Quality:1:40
+Hotel 140:Sleep Quality:2:44
+Hotel 140:Sleep Quality:3:179
+Hotel 140:Sleep Quality:4:359
+Hotel 140:Sleep Quality:5:417
+Hotel 140:Location:1:5
+Hotel 140:Location:2:6
+Hotel 140:Location:3:28
+Hotel 140:Location:4:226
+Hotel 140:Location:5:906
+Hotel 140:Rooms:1:57
+Hotel 140:Rooms:2:82
+Hotel 140:Rooms:3:337
+Hotel 140:Rooms:4:406
+Hotel 140:Rooms:5:282
+Hyatt Regency Boston:Service:1:91
+Hyatt Regency Boston:Service:2:103
+Hyatt Regency Boston:Service:3:276
+Hyatt Regency Boston:Service:4:587
+Hyatt Regency Boston:Service:5:1171
+Hyatt Regency Boston:Cleanliness:1:30
+Hyatt Regency Boston:Cleanliness:2:51
+Hyatt Regency Boston:Cleanliness:3:216
+Hyatt Regency Boston:Cleanliness:4:595
+Hyatt Regency Boston:Cleanliness:5:1077
+Hyatt Regency Boston:Business service (e.g., internet access):1:4
+Hyatt Regency Boston:Business service (e.g., internet access):2:5
+Hyatt Regency Boston:Business service (e.g., internet access):3:26
+Hyatt Regency Boston:Business service (e.g., internet access):4:13
+Hyatt Regency Boston:Business service (e.g., internet access):5:21
+Hyatt Regency Boston:Check in / front desk:1:5
+Hyatt Regency Boston:Check in / front desk:2:7
+Hyatt Regency Boston:Check in / front desk:3:19
+Hyatt Regency Boston:Check in / front desk:4:26
+Hyatt Regency Boston:Check in / front desk:5:58
+Hyatt Regency Boston:Value:1:82
+Hyatt Regency Boston:Value:2:161
+Hyatt Regency Boston:Value:3:450
+Hyatt Regency Boston:Value:4:628
+Hyatt Regency Boston:Value:5:641
+Hyatt Regency Boston:Sleep Quality:1:47
+Hyatt Regency Boston:Sleep Quality:2:68
+Hyatt Regency Boston:Sleep Quality:3:206
+Hyatt Regency Boston:Sleep Quality:4:467
+Hyatt Regency Boston:Sleep Quality:5:819
+Hyatt Regency Boston:Rooms:1:30
+Hyatt Regency Boston:Rooms:2:86
+Hyatt Regency Boston:Rooms:3:346
+Hyatt Regency Boston:Rooms:4:638
+Hyatt Regency Boston:Rooms:5:777
+Hyatt Regency Boston:Location:1:8
+Hyatt Regency Boston:Location:2:28
+Hyatt Regency Boston:Location:3:136
+Hyatt Regency Boston:Location:4:479
+Hyatt Regency Boston:Location:5:1179
+Mandarin Oriental, Boston:Service:1:6
+Mandarin Oriental, Boston:Service:2:12
+Mandarin Oriental, Boston:Service:3:19
+Mandarin Oriental, Boston:Service:4:44
+Mandarin Oriental, Boston:Service:5:381
+Mandarin Oriental, Boston:Cleanliness:1:2
+Mandarin Oriental, Boston:Cleanliness:2:2
+Mandarin Oriental, Boston:Cleanliness:3:7
+Mandarin Oriental, Boston:Cleanliness:4:28
+Mandarin Oriental, Boston:Cleanliness:5:355
+Mandarin Oriental, Boston:Business service (e.g., internet access):1:0
+Mandarin Oriental, Boston:Business service (e.g., internet access):2:0
+Mandarin Oriental, Boston:Business service (e.g., internet access):3:0
+Mandarin Oriental, Boston:Business service (e.g., internet access):4:1
+Mandarin Oriental, Boston:Business service (e.g., internet access):5:5
+Mandarin Oriental, Boston:Check in / front desk:1:0
+Mandarin Oriental, Boston:Check in / front desk:2:0
+Mandarin Oriental, Boston:Check in / front desk:3:1
+Mandarin Oriental, Boston:Check in / front desk:4:1
+Mandarin Oriental, Boston:Check in / front desk:5:5
+Mandarin Oriental, Boston:Value:1:12
+Mandarin Oriental, Boston:Value:2:13
+Mandarin Oriental, Boston:Value:3:57
+Mandarin Oriental, Boston:Value:4:145
+Mandarin Oriental, Boston:Value:5:166
+Mandarin Oriental, Boston:Sleep Quality:1:3
+Mandarin Oriental, Boston:Sleep Quality:2:1
+Mandarin Oriental, Boston:Sleep Quality:3:16
+Mandarin Oriental, Boston:Sleep Quality:4:37
+Mandarin Oriental, Boston:Sleep Quality:5:288
+Mandarin Oriental, Boston:Rooms:1:4
+Mandarin Oriental, Boston:Rooms:2:1
+Mandarin Oriental, Boston:Rooms:3:14
+Mandarin Oriental, Boston:Rooms:4:49
+Mandarin Oriental, Boston:Rooms:5:317
+Mandarin Oriental, Boston:Location:1:1
+Mandarin Oriental, Boston:Location:2:1
+Mandarin Oriental, Boston:Location:3:3
+Mandarin Oriental, Boston:Location:4:35
+Mandarin Oriental, Boston:Location:5:348
+Marriott&#39;s Custom House:Service:1:10
+Marriott&#39;s Custom House:Service:2:5
+Marriott&#39;s Custom House:Service:3:31
+Marriott&#39;s Custom House:Service:4:109
+Marriott&#39;s Custom House:Service:5:410
+Marriott&#39;s Custom House:Cleanliness:1:1
+Marriott&#39;s Custom House:Cleanliness:2:6
+Marriott&#39;s Custom House:Cleanliness:3:22
+Marriott&#39;s Custom House:Cleanliness:4:95
+Marriott&#39;s Custom House:Cleanliness:5:364
+Marriott&#39;s Custom House:Business service (e.g., internet access):1:3
+Marriott&#39;s Custom House:Business service (e.g., internet access):2:2
+Marriott&#39;s Custom House:Business service (e.g., internet access):3:5
+Marriott&#39;s Custom House:Business service (e.g., internet access):4:5
+Marriott&#39;s Custom House:Business service (e.g., internet access):5:12
+Marriott&#39;s Custom House:Check in / front desk:1:0
+Marriott&#39;s Custom House:Check in / front desk:2:2
+Marriott&#39;s Custom House:Check in / front desk:3:3
+Marriott&#39;s Custom House:Check in / front desk:4:16
+Marriott&#39;s Custom House:Check in / front desk:5:29
+Marriott&#39;s Custom House:Value:1:12
+Marriott&#39;s Custom House:Value:2:13
+Marriott&#39;s Custom House:Value:3:50
+Marriott&#39;s Custom House:Value:4:158
+Marriott&#39;s Custom House:Value:5:234
+Marriott&#39;s Custom House:Sleep Quality:1:11
+Marriott&#39;s Custom House:Sleep Quality:2:7
+Marriott&#39;s Custom House:Sleep Quality:3:24
+Marriott&#39;s Custom House:Sleep Quality:4:80
+Marriott&#39;s Custom House:Sleep Quality:5:237
+Marriott&#39;s Custom House:Location:1:3
+Marriott&#39;s Custom House:Location:2:1
+Marriott&#39;s Custom House:Location:3:3
+Marriott&#39;s Custom House:Location:4:33
+Marriott&#39;s Custom House:Location:5:400
+Marriott&#39;s Custom House:Rooms:1:2
+Marriott&#39;s Custom House:Rooms:2:5
+Marriott&#39;s Custom House:Rooms:3:22
+Marriott&#39;s Custom House:Rooms:4:103
+Marriott&#39;s Custom House:Rooms:5:326
+Newbury Guest House:Service:1:11
+Newbury Guest House:Service:2:21
+Newbury Guest House:Service:3:79
+Newbury Guest House:Service:4:136
+Newbury Guest House:Service:5:196
+Newbury Guest House:Cleanliness:1:4
+Newbury Guest House:Cleanliness:2:12
+Newbury Guest House:Cleanliness:3:18
+Newbury Guest House:Cleanliness:4:110
+Newbury Guest House:Cleanliness:5:221
+Newbury Guest House:Business service (e.g., internet access):1:0
+Newbury Guest House:Business service (e.g., internet access):2:1
+Newbury Guest House:Business service (e.g., internet access):3:8
+Newbury Guest House:Business service (e.g., internet access):4:7
+Newbury Guest House:Business service (e.g., internet access):5:2
+Newbury Guest House:Check in / front desk:1:1
+Newbury Guest House:Check in / front desk:2:4
+Newbury Guest House:Check in / front desk:3:16
+Newbury Guest House:Check in / front desk:4:14
+Newbury Guest House:Check in / front desk:5:11
+Newbury Guest House:Value:1:11
+Newbury Guest House:Value:2:16
+Newbury Guest House:Value:3:54
+Newbury Guest House:Value:4:137
+Newbury Guest House:Value:5:156
+Newbury Guest House:Sleep Quality:1:7
+Newbury Guest House:Sleep Quality:2:10
+Newbury Guest House:Sleep Quality:3:21
+Newbury Guest House:Sleep Quality:4:81
+Newbury Guest House:Sleep Quality:5:133
+Newbury Guest House:Location:1:1
+Newbury Guest House:Location:2:2
+Newbury Guest House:Location:3:5
+Newbury Guest House:Location:4:34
+Newbury Guest House:Location:5:300
+Newbury Guest House:Rooms:1:8
+Newbury Guest House:Rooms:2:13
+Newbury Guest House:Rooms:3:53
+Newbury Guest House:Rooms:4:162
+Newbury Guest House:Rooms:5:132
+Onyx Hotel - a Kimpton Hotel:Service:1:24
+Onyx Hotel - a Kimpton Hotel:Service:2:28
+Onyx Hotel - a Kimpton Hotel:Service:3:77
+Onyx Hotel - a Kimpton Hotel:Service:4:188
+Onyx Hotel - a Kimpton Hotel:Service:5:677
+Onyx Hotel - a Kimpton Hotel:Cleanliness:1:8
+Onyx Hotel - a Kimpton Hotel:Cleanliness:2:13
+Onyx Hotel - a Kimpton Hotel:Cleanliness:3:66
+Onyx Hotel - a Kimpton Hotel:Cleanliness:4:210
+Onyx Hotel - a Kimpton Hotel:Cleanliness:5:532
+Onyx Hotel - a Kimpton Hotel:Business service (e.g., internet access):1:2
+Onyx Hotel - a Kimpton Hotel:Business service (e.g., internet access):2:4
+Onyx Hotel - a Kimpton Hotel:Business service (e.g., internet access):3:16
+Onyx Hotel - a Kimpton Hotel:Business service (e.g., internet access):4:11
+Onyx Hotel - a Kimpton Hotel:Business service (e.g., internet access):5:29
+Onyx Hotel - a Kimpton Hotel:Check in / front desk:1:3
+Onyx Hotel - a Kimpton Hotel:Check in / front desk:2:6
+Onyx Hotel - a Kimpton Hotel:Check in / front desk:3:4
+Onyx Hotel - a Kimpton Hotel:Check in / front desk:4:25
+Onyx Hotel - a Kimpton Hotel:Check in / front desk:5:56
+Onyx Hotel - a Kimpton Hotel:Value:1:34
+Onyx Hotel - a Kimpton Hotel:Value:2:56
+Onyx Hotel - a Kimpton Hotel:Value:3:146
+Onyx Hotel - a Kimpton Hotel:Value:4:292
+Onyx Hotel - a Kimpton Hotel:Value:5:295
+Onyx Hotel - a Kimpton Hotel:Sleep Quality:1:15
+Onyx Hotel - a Kimpton Hotel:Sleep Quality:2:14
+Onyx Hotel - a Kimpton Hotel:Sleep Quality:3:59
+Onyx Hotel - a Kimpton Hotel:Sleep Quality:4:172
+Onyx Hotel - a Kimpton Hotel:Sleep Quality:5:343
+Onyx Hotel - a Kimpton Hotel:Rooms:1:23
+Onyx Hotel - a Kimpton Hotel:Rooms:2:41
+Onyx Hotel - a Kimpton Hotel:Rooms:3:128
+Onyx Hotel - a Kimpton Hotel:Rooms:4:297
+Onyx Hotel - a Kimpton Hotel:Rooms:5:306
+Onyx Hotel - a Kimpton Hotel:Location:1:5
+Onyx Hotel - a Kimpton Hotel:Location:2:27
+Onyx Hotel - a Kimpton Hotel:Location:3:99
+Onyx Hotel - a Kimpton Hotel:Location:4:208
+Onyx Hotel - a Kimpton Hotel:Location:5:397
+Renaissance Boston Waterfront Hotel:Service:1:28
+Renaissance Boston Waterfront Hotel:Service:2:28
+Renaissance Boston Waterfront Hotel:Service:3:92
+Renaissance Boston Waterfront Hotel:Service:4:275
+Renaissance Boston Waterfront Hotel:Service:5:503
+Renaissance Boston Waterfront Hotel:Cleanliness:1:4
+Renaissance Boston Waterfront Hotel:Cleanliness:2:9
+Renaissance Boston Waterfront Hotel:Cleanliness:3:19
+Renaissance Boston Waterfront Hotel:Cleanliness:4:187
+Renaissance Boston Waterfront Hotel:Cleanliness:5:553
+Renaissance Boston Waterfront Hotel:Business service (e.g., internet access):1:0
+Renaissance Boston Waterfront Hotel:Business service (e.g., internet access):2:1
+Renaissance Boston Waterfront Hotel:Business service (e.g., internet access):3:12
+Renaissance Boston Waterfront Hotel:Business service (e.g., internet access):4:3
+Renaissance Boston Waterfront Hotel:Business service (e.g., internet access):5:12
+Renaissance Boston Waterfront Hotel:Check in / front desk:1:1
+Renaissance Boston Waterfront Hotel:Check in / front desk:2:3
+Renaissance Boston Waterfront Hotel:Check in / front desk:3:5
+Renaissance Boston Waterfront Hotel:Check in / front desk:4:10
+Renaissance Boston Waterfront Hotel:Check in / front desk:5:22
+Renaissance Boston Waterfront Hotel:Value:1:22
+Renaissance Boston Waterfront Hotel:Value:2:48
+Renaissance Boston Waterfront Hotel:Value:3:184
+Renaissance Boston Waterfront Hotel:Value:4:313
+Renaissance Boston Waterfront Hotel:Value:5:198
+Renaissance Boston Waterfront Hotel:Sleep Quality:1:16
+Renaissance Boston Waterfront Hotel:Sleep Quality:2:13
+Renaissance Boston Waterfront Hotel:Sleep Quality:3:66
+Renaissance Boston Waterfront Hotel:Sleep Quality:4:184
+Renaissance Boston Waterfront Hotel:Sleep Quality:5:359
+Renaissance Boston Waterfront Hotel:Rooms:1:10
+Renaissance Boston Waterfront Hotel:Rooms:2:10
+Renaissance Boston Waterfront Hotel:Rooms:3:82
+Renaissance Boston Waterfront Hotel:Rooms:4:276
+Renaissance Boston Waterfront Hotel:Rooms:5:353
+Renaissance Boston Waterfront Hotel:Location:1:13
+Renaissance Boston Waterfront Hotel:Location:2:27
+Renaissance Boston Waterfront Hotel:Location:3:149
+Renaissance Boston Waterfront Hotel:Location:4:260
+Renaissance Boston Waterfront Hotel:Location:5:285
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Service:1:8
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Service:2:8
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Service:3:38
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Service:4:127
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Service:5:393
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Cleanliness:1:4
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Cleanliness:2:5
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Cleanliness:3:22
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Cleanliness:4:122
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Cleanliness:5:286
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Business service (e.g., internet access):1:0
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Business service (e.g., internet access):2:0
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Business service (e.g., internet access):3:8
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Business service (e.g., internet access):4:6
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Business service (e.g., internet access):5:8
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Check in / front desk:1:1
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Check in / front desk:2:1
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Check in / front desk:3:5
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Check in / front desk:4:10
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Check in / front desk:5:17
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Value:1:4
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Value:2:21
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Value:3:67
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Value:4:166
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Value:5:208
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Sleep Quality:1:3
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Sleep Quality:2:9
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Sleep Quality:3:28
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Sleep Quality:4:107
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Sleep Quality:5:217
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Rooms:1:1
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Rooms:2:11
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Rooms:3:47
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Rooms:4:141
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Rooms:5:244
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Location:1:4
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Location:2:5
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Location:3:47
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Location:4:128
+Residence Inn by Marriott Boston Harbor on Tudor Wharf:Location:5:256
+The Bostonian Boston:Service:1:33
+The Bostonian Boston:Service:2:39
+The Bostonian Boston:Service:3:116
+The Bostonian Boston:Service:4:273
+The Bostonian Boston:Service:5:565
+The Bostonian Boston:Cleanliness:1:16
+The Bostonian Boston:Cleanliness:2:14
+The Bostonian Boston:Cleanliness:3:51
+The Bostonian Boston:Cleanliness:4:232
+The Bostonian Boston:Cleanliness:5:528
+The Bostonian Boston:Business service (e.g., internet access):1:4
+The Bostonian Boston:Business service (e.g., internet access):2:6
+The Bostonian Boston:Business service (e.g., internet access):3:9
+The Bostonian Boston:Business service (e.g., internet access):4:3
+The Bostonian Boston:Business service (e.g., internet access):5:8
+The Bostonian Boston:Check in / front desk:1:6
+The Bostonian Boston:Check in / front desk:2:6
+The Bostonian Boston:Check in / front desk:3:8
+The Bostonian Boston:Check in / front desk:4:22
+The Bostonian Boston:Check in / front desk:5:31
+The Bostonian Boston:Value:1:31
+The Bostonian Boston:Value:2:52
+The Bostonian Boston:Value:3:201
+The Bostonian Boston:Value:4:298
+The Bostonian Boston:Value:5:276
+The Bostonian Boston:Sleep Quality:1:16
+The Bostonian Boston:Sleep Quality:2:29
+The Bostonian Boston:Sleep Quality:3:74
+The Bostonian Boston:Sleep Quality:4:198
+The Bostonian Boston:Sleep Quality:5:334
+The Bostonian Boston:Location:1:1
+The Bostonian Boston:Location:2:4
+The Bostonian Boston:Location:3:6
+The Bostonian Boston:Location:4:90
+The Bostonian Boston:Location:5:681
+The Bostonian Boston:Rooms:1:16
+The Bostonian Boston:Rooms:2:31
+The Bostonian Boston:Rooms:3:91
+The Bostonian Boston:Rooms:4:278
+The Bostonian Boston:Rooms:5:407
+The Boxer Boston:Service:1:11
+The Boxer Boston:Service:2:15
+The Boxer Boston:Service:3:27
+The Boxer Boston:Service:4:102
+The Boxer Boston:Service:5:369
+The Boxer Boston:Cleanliness:1:2
+The Boxer Boston:Cleanliness:2:6
+The Boxer Boston:Cleanliness:3:12
+The Boxer Boston:Cleanliness:4:73
+The Boxer Boston:Cleanliness:5:245
+The Boxer Boston:Value:1:12
+The Boxer Boston:Value:2:8
+The Boxer Boston:Value:3:47
+The Boxer Boston:Value:4:98
+The Boxer Boston:Value:5:160
+The Boxer Boston:Sleep Quality:1:8
+The Boxer Boston:Sleep Quality:2:6
+The Boxer Boston:Sleep Quality:3:24
+The Boxer Boston:Sleep Quality:4:69
+The Boxer Boston:Sleep Quality:5:174
+The Boxer Boston:Location:1:2
+The Boxer Boston:Location:2:2
+The Boxer Boston:Location:3:22
+The Boxer Boston:Location:4:70
+The Boxer Boston:Location:5:218
+The Boxer Boston:Rooms:1:3
+The Boxer Boston:Rooms:2:10
+The Boxer Boston:Rooms:3:50
+The Boxer Boston:Rooms:4:124
+The Boxer Boston:Rooms:5:141
+The Inn At St Botolph:Service:1:8
+The Inn At St Botolph:Service:2:12
+The Inn At St Botolph:Service:3:39
+The Inn At St Botolph:Service:4:109
+The Inn At St Botolph:Service:5:260
+The Inn At St Botolph:Cleanliness:1:3
+The Inn At St Botolph:Cleanliness:2:5
+The Inn At St Botolph:Cleanliness:3:22
+The Inn At St Botolph:Cleanliness:4:91
+The Inn At St Botolph:Cleanliness:5:275
+The Inn At St Botolph:Business service (e.g., internet access):1:1
+The Inn At St Botolph:Business service (e.g., internet access):2:0
+The Inn At St Botolph:Business service (e.g., internet access):3:0
+The Inn At St Botolph:Business service (e.g., internet access):4:3
+The Inn At St Botolph:Business service (e.g., internet access):5:8
+The Inn At St Botolph:Check in / front desk:1:1
+The Inn At St Botolph:Check in / front desk:2:0
+The Inn At St Botolph:Check in / front desk:3:0
+The Inn At St Botolph:Check in / front desk:4:1
+The Inn At St Botolph:Check in / front desk:5:9
+The Inn At St Botolph:Value:1:4
+The Inn At St Botolph:Value:2:9
+The Inn At St Botolph:Value:3:38
+The Inn At St Botolph:Value:4:121
+The Inn At St Botolph:Value:5:229
+The Inn At St Botolph:Sleep Quality:1:5
+The Inn At St Botolph:Sleep Quality:2:5
+The Inn At St Botolph:Sleep Quality:3:17
+The Inn At St Botolph:Sleep Quality:4:85
+The Inn At St Botolph:Sleep Quality:5:177
+The Inn At St Botolph:Location:1:2
+The Inn At St Botolph:Location:2:0
+The Inn At St Botolph:Location:3:3
+The Inn At St Botolph:Location:4:47
+The Inn At St Botolph:Location:5:339
+The Inn At St Botolph:Rooms:1:4
+The Inn At St Botolph:Rooms:2:4
+The Inn At St Botolph:Rooms:3:14
+The Inn At St Botolph:Rooms:4:80
+The Inn At St Botolph:Rooms:5:283
+The Verb Hotel:Service:1:6
+The Verb Hotel:Service:2:10
+The Verb Hotel:Service:3:18
+The Verb Hotel:Service:4:72
+The Verb Hotel:Service:5:348
+The Verb Hotel:Cleanliness:1:1
+The Verb Hotel:Cleanliness:2:1
+The Verb Hotel:Cleanliness:3:8
+The Verb Hotel:Cleanliness:4:39
+The Verb Hotel:Cleanliness:5:158
+The Verb Hotel:Value:1:4
+The Verb Hotel:Value:2:4
+The Verb Hotel:Value:3:25
+The Verb Hotel:Value:4:65
+The Verb Hotel:Value:5:114
+The Verb Hotel:Sleep Quality:1:3
+The Verb Hotel:Sleep Quality:2:2
+The Verb Hotel:Sleep Quality:3:17
+The Verb Hotel:Sleep Quality:4:35
+The Verb Hotel:Sleep Quality:5:106
+The Verb Hotel:Location:1:1
+The Verb Hotel:Location:2:0
+The Verb Hotel:Location:3:17
+The Verb Hotel:Location:4:37
+The Verb Hotel:Location:5:143
+The Verb Hotel:Rooms:1:3
+The Verb Hotel:Rooms:2:1
+The Verb Hotel:Rooms:3:13
+The Verb Hotel:Rooms:4:51
+The Verb Hotel:Rooms:5:146
+The Westin Boston Waterfront:Service:1:69
+The Westin Boston Waterfront:Service:2:73
+The Westin Boston Waterfront:Service:3:222
+The Westin Boston Waterfront:Service:4:491
+The Westin Boston Waterfront:Service:5:956
+The Westin Boston Waterfront:Cleanliness:1:20
+The Westin Boston Waterfront:Cleanliness:2:32
+The Westin Boston Waterfront:Cleanliness:3:116
+The Westin Boston Waterfront:Cleanliness:4:374
+The Westin Boston Waterfront:Cleanliness:5:959
+The Westin Boston Waterfront:Business service (e.g., internet access):1:6
+The Westin Boston Waterfront:Business service (e.g., internet access):2:14
+The Westin Boston Waterfront:Business service (e.g., internet access):3:26
+The Westin Boston Waterfront:Business service (e.g., internet access):4:27
+The Westin Boston Waterfront:Business service (e.g., internet access):5:28
+The Westin Boston Waterfront:Check in / front desk:1:10
+The Westin Boston Waterfront:Check in / front desk:2:17
+The Westin Boston Waterfront:Check in / front desk:3:29
+The Westin Boston Waterfront:Check in / front desk:4:36
+The Westin Boston Waterfront:Check in / front desk:5:41
+The Westin Boston Waterfront:Value:1:71
+The Westin Boston Waterfront:Value:2:115
+The Westin Boston Waterfront:Value:3:389
+The Westin Boston Waterfront:Value:4:508
+The Westin Boston Waterfront:Value:5:407
+The Westin Boston Waterfront:Sleep Quality:1:14
+The Westin Boston Waterfront:Sleep Quality:2:27
+The Westin Boston Waterfront:Sleep Quality:3:106
+The Westin Boston Waterfront:Sleep Quality:4:298
+The Westin Boston Waterfront:Sleep Quality:5:728
+The Westin Boston Waterfront:Rooms:1:21
+The Westin Boston Waterfront:Rooms:2:39
+The Westin Boston Waterfront:Rooms:3:200
+The Westin Boston Waterfront:Rooms:4:501
+The Westin Boston Waterfront:Rooms:5:652
+The Westin Boston Waterfront:Location:1:53
+The Westin Boston Waterfront:Location:2:145
+The Westin Boston Waterfront:Location:3:366
+The Westin Boston Waterfront:Location:4:441
+The Westin Boston Waterfront:Location:5:399
+Wyndham Boston Beacon Hill:Service:1:68
+Wyndham Boston Beacon Hill:Service:2:71
+Wyndham Boston Beacon Hill:Service:3:229
+Wyndham Boston Beacon Hill:Service:4:393
+Wyndham Boston Beacon Hill:Service:5:661
+Wyndham Boston Beacon Hill:Cleanliness:1:26
+Wyndham Boston Beacon Hill:Cleanliness:2:51
+Wyndham Boston Beacon Hill:Cleanliness:3:152
+Wyndham Boston Beacon Hill:Cleanliness:4:423
+Wyndham Boston Beacon Hill:Cleanliness:5:643
+Wyndham Boston Beacon Hill:Value:1:86
+Wyndham Boston Beacon Hill:Value:2:118
+Wyndham Boston Beacon Hill:Value:3:349
+Wyndham Boston Beacon Hill:Value:4:349
+Wyndham Boston Beacon Hill:Value:5:401
+Wyndham Boston Beacon Hill:Sleep Quality:1:31
+Wyndham Boston Beacon Hill:Sleep Quality:2:65
+Wyndham Boston Beacon Hill:Sleep Quality:3:198
+Wyndham Boston Beacon Hill:Sleep Quality:4:377
+Wyndham Boston Beacon Hill:Sleep Quality:5:578
+Wyndham Boston Beacon Hill:Rooms:1:24
+Wyndham Boston Beacon Hill:Rooms:2:56
+Wyndham Boston Beacon Hill:Rooms:3:303
+Wyndham Boston Beacon Hill:Rooms:4:412
+Wyndham Boston Beacon Hill:Rooms:5:486
+Wyndham Boston Beacon Hill:Location:1:9
+Wyndham Boston Beacon Hill:Location:2:16
+Wyndham Boston Beacon Hill:Location:3:89
+Wyndham Boston Beacon Hill:Location:4:354
+Wyndham Boston Beacon Hill:Location:5:823
+Aloft Boston Seaport:Service:1:0
+Aloft Boston Seaport:Service:2:0
+Aloft Boston Seaport:Service:3:3
+Aloft Boston Seaport:Service:4:6
+Aloft Boston Seaport:Service:5:2
+Aloft Boston Seaport:Cleanliness:1:0
+Aloft Boston Seaport:Cleanliness:2:0
+Aloft Boston Seaport:Cleanliness:3:1
+Aloft Boston Seaport:Cleanliness:4:3
+Aloft Boston Seaport:Cleanliness:5:2
+Aloft Boston Seaport:Value:1:0
+Aloft Boston Seaport:Value:2:0
+Aloft Boston Seaport:Value:3:1
+Aloft Boston Seaport:Value:4:1
+Aloft Boston Seaport:Value:5:1
+Aloft Boston Seaport:Sleep Quality:1:0
+Aloft Boston Seaport:Sleep Quality:2:0
+Aloft Boston Seaport:Sleep Quality:3:1
+Aloft Boston Seaport:Sleep Quality:4:0
+Aloft Boston Seaport:Sleep Quality:5:3
+Aloft Boston Seaport:Rooms:1:0
+Aloft Boston Seaport:Rooms:2:0
+Aloft Boston Seaport:Rooms:3:2
+Aloft Boston Seaport:Rooms:4:2
+Aloft Boston Seaport:Rooms:5:1
+Aloft Boston Seaport:Location:1:0
+Aloft Boston Seaport:Location:2:0
+Aloft Boston Seaport:Location:3:1
+Aloft Boston Seaport:Location:4:1
+Aloft Boston Seaport:Location:5:2
+Americas Best Value Inn:Service:1:4
+Americas Best Value Inn:Service:2:3
+Americas Best Value Inn:Service:3:4
+Americas Best Value Inn:Service:4:3
+Americas Best Value Inn:Service:5:0
+Americas Best Value Inn:Cleanliness:1:2
+Americas Best Value Inn:Cleanliness:2:2
+Americas Best Value Inn:Cleanliness:3:6
+Americas Best Value Inn:Cleanliness:4:3
+Americas Best Value Inn:Cleanliness:5:0
+Americas Best Value Inn:Business service (e.g., internet access):1:0
+Americas Best Value Inn:Business service (e.g., internet access):2:2
+Americas Best Value Inn:Business service (e.g., internet access):3:2
+Americas Best Value Inn:Business service (e.g., internet access):4:1
+Americas Best Value Inn:Business service (e.g., internet access):5:0
+Americas Best Value Inn:Check in / front desk:1:1
+Americas Best Value Inn:Check in / front desk:2:3
+Americas Best Value Inn:Check in / front desk:3:2
+Americas Best Value Inn:Check in / front desk:4:2
+Americas Best Value Inn:Check in / front desk:5:0
+Americas Best Value Inn:Value:1:2
+Americas Best Value Inn:Value:2:3
+Americas Best Value Inn:Value:3:5
+Americas Best Value Inn:Value:4:3
+Americas Best Value Inn:Value:5:1
+Americas Best Value Inn:Sleep Quality:1:0
+Americas Best Value Inn:Sleep Quality:2:0
+Americas Best Value Inn:Sleep Quality:3:2
+Americas Best Value Inn:Sleep Quality:4:0
+Americas Best Value Inn:Sleep Quality:5:0
+Americas Best Value Inn:Location:1:3
+Americas Best Value Inn:Location:2:1
+Americas Best Value Inn:Location:3:4
+Americas Best Value Inn:Location:4:3
+Americas Best Value Inn:Location:5:0
+Americas Best Value Inn:Rooms:1:3
+Americas Best Value Inn:Rooms:2:1
+Americas Best Value Inn:Rooms:3:7
+Americas Best Value Inn:Rooms:4:3
+Americas Best Value Inn:Rooms:5:0
+Ames Boston Hotel:Service:1:18
+Ames Boston Hotel:Service:2:33
+Ames Boston Hotel:Service:3:80
+Ames Boston Hotel:Service:4:224
+Ames Boston Hotel:Service:5:540
+Ames Boston Hotel:Cleanliness:1:8
+Ames Boston Hotel:Cleanliness:2:2
+Ames Boston Hotel:Cleanliness:3:48
+Ames Boston Hotel:Cleanliness:4:143
+Ames Boston Hotel:Cleanliness:5:554
+Ames Boston Hotel:Value:1:21
+Ames Boston Hotel:Value:2:41
+Ames Boston Hotel:Value:3:139
+Ames Boston Hotel:Value:4:259
+Ames Boston Hotel:Value:5:305
+Ames Boston Hotel:Sleep Quality:1:24
+Ames Boston Hotel:Sleep Quality:2:22
+Ames Boston Hotel:Sleep Quality:3:65
+Ames Boston Hotel:Sleep Quality:4:206
+Ames Boston Hotel:Sleep Quality:5:354
+Ames Boston Hotel:Rooms:1:5
+Ames Boston Hotel:Rooms:2:19
+Ames Boston Hotel:Rooms:3:66
+Ames Boston Hotel:Rooms:4:202
+Ames Boston Hotel:Rooms:5:409
+Ames Boston Hotel:Location:1:2
+Ames Boston Hotel:Location:2:3
+Ames Boston Hotel:Location:3:21
+Ames Boston Hotel:Location:4:111
+Ames Boston Hotel:Location:5:574
+Beacon Hill Hotel and Bistro:Service:1:2
+Beacon Hill Hotel and Bistro:Service:2:6
+Beacon Hill Hotel and Bistro:Service:3:25
+Beacon Hill Hotel and Bistro:Service:4:36
+Beacon Hill Hotel and Bistro:Service:5:78
+Beacon Hill Hotel and Bistro:Cleanliness:1:4
+Beacon Hill Hotel and Bistro:Cleanliness:2:2
+Beacon Hill Hotel and Bistro:Cleanliness:3:10
+Beacon Hill Hotel and Bistro:Cleanliness:4:30
+Beacon Hill Hotel and Bistro:Cleanliness:5:71
+Beacon Hill Hotel and Bistro:Business service (e.g., internet access):1:0
+Beacon Hill Hotel and Bistro:Business service (e.g., internet access):2:1
+Beacon Hill Hotel and Bistro:Business service (e.g., internet access):3:2
+Beacon Hill Hotel and Bistro:Business service (e.g., internet access):4:2
+Beacon Hill Hotel and Bistro:Business service (e.g., internet access):5:2
+Beacon Hill Hotel and Bistro:Check in / front desk:1:0
+Beacon Hill Hotel and Bistro:Check in / front desk:2:0
+Beacon Hill Hotel and Bistro:Check in / front desk:3:2
+Beacon Hill Hotel and Bistro:Check in / front desk:4:1
+Beacon Hill Hotel and Bistro:Check in / front desk:5:6
+Beacon Hill Hotel and Bistro:Value:1:6
+Beacon Hill Hotel and Bistro:Value:2:13
+Beacon Hill Hotel and Bistro:Value:3:25
+Beacon Hill Hotel and Bistro:Value:4:43
+Beacon Hill Hotel and Bistro:Value:5:36
+Beacon Hill Hotel and Bistro:Sleep Quality:1:3
+Beacon Hill Hotel and Bistro:Sleep Quality:2:6
+Beacon Hill Hotel and Bistro:Sleep Quality:3:15
+Beacon Hill Hotel and Bistro:Sleep Quality:4:36
+Beacon Hill Hotel and Bistro:Sleep Quality:5:32
+Beacon Hill Hotel and Bistro:Location:1:0
+Beacon Hill Hotel and Bistro:Location:2:0
+Beacon Hill Hotel and Bistro:Location:3:2
+Beacon Hill Hotel and Bistro:Location:4:18
+Beacon Hill Hotel and Bistro:Location:5:92
+Beacon Hill Hotel and Bistro:Rooms:1:4
+Beacon Hill Hotel and Bistro:Rooms:2:9
+Beacon Hill Hotel and Bistro:Rooms:3:25
+Beacon Hill Hotel and Bistro:Rooms:4:36
+Beacon Hill Hotel and Bistro:Rooms:5:40
+BEST WESTERN University Hotel Boston-Brighton:Service:1:17
+BEST WESTERN University Hotel Boston-Brighton:Service:2:28
+BEST WESTERN University Hotel Boston-Brighton:Service:3:52
+BEST WESTERN University Hotel Boston-Brighton:Service:4:133
+BEST WESTERN University Hotel Boston-Brighton:Service:5:204
+BEST WESTERN University Hotel Boston-Brighton:Cleanliness:1:21
+BEST WESTERN University Hotel Boston-Brighton:Cleanliness:2:33
+BEST WESTERN University Hotel Boston-Brighton:Cleanliness:3:59
+BEST WESTERN University Hotel Boston-Brighton:Cleanliness:4:144
+BEST WESTERN University Hotel Boston-Brighton:Cleanliness:5:138
+BEST WESTERN University Hotel Boston-Brighton:Business service (e.g., internet access):1:0
+BEST WESTERN University Hotel Boston-Brighton:Business service (e.g., internet access):2:2
+BEST WESTERN University Hotel Boston-Brighton:Business service (e.g., internet access):3:5
+BEST WESTERN University Hotel Boston-Brighton:Business service (e.g., internet access):4:2
+BEST WESTERN University Hotel Boston-Brighton:Business service (e.g., internet access):5:5
+BEST WESTERN University Hotel Boston-Brighton:Check in / front desk:1:1
+BEST WESTERN University Hotel Boston-Brighton:Check in / front desk:2:0
+BEST WESTERN University Hotel Boston-Brighton:Check in / front desk:3:5
+BEST WESTERN University Hotel Boston-Brighton:Check in / front desk:4:3
+BEST WESTERN University Hotel Boston-Brighton:Check in / front desk:5:9
+BEST WESTERN University Hotel Boston-Brighton:Value:1:28
+BEST WESTERN University Hotel Boston-Brighton:Value:2:34
+BEST WESTERN University Hotel Boston-Brighton:Value:3:72
+BEST WESTERN University Hotel Boston-Brighton:Value:4:126
+BEST WESTERN University Hotel Boston-Brighton:Value:5:131
+BEST WESTERN University Hotel Boston-Brighton:Sleep Quality:1:14
+BEST WESTERN University Hotel Boston-Brighton:Sleep Quality:2:16
+BEST WESTERN University Hotel Boston-Brighton:Sleep Quality:3:58
+BEST WESTERN University Hotel Boston-Brighton:Sleep Quality:4:120
+BEST WESTERN University Hotel Boston-Brighton:Sleep Quality:5:127
+BEST WESTERN University Hotel Boston-Brighton:Location:1:6
+BEST WESTERN University Hotel Boston-Brighton:Location:2:25
+BEST WESTERN University Hotel Boston-Brighton:Location:3:62
+BEST WESTERN University Hotel Boston-Brighton:Location:4:140
+BEST WESTERN University Hotel Boston-Brighton:Location:5:150
+BEST WESTERN University Hotel Boston-Brighton:Rooms:1:19
+BEST WESTERN University Hotel Boston-Brighton:Rooms:2:34
+BEST WESTERN University Hotel Boston-Brighton:Rooms:3:103
+BEST WESTERN University Hotel Boston-Brighton:Rooms:4:123
+BEST WESTERN University Hotel Boston-Brighton:Rooms:5:103
+Boston Park Plaza:Service:1:466
+Boston Park Plaza:Service:2:465
+Boston Park Plaza:Service:3:1052
+Boston Park Plaza:Service:4:1376
+Boston Park Plaza:Service:5:1466
+Boston Park Plaza:Cleanliness:1:256
+Boston Park Plaza:Cleanliness:2:371
+Boston Park Plaza:Cleanliness:3:986
+Boston Park Plaza:Cleanliness:4:1352
+Boston Park Plaza:Cleanliness:5:1284
+Boston Park Plaza:Business service (e.g., internet access):1:28
+Boston Park Plaza:Business service (e.g., internet access):2:27
+Boston Park Plaza:Business service (e.g., internet access):3:49
+Boston Park Plaza:Business service (e.g., internet access):4:24
+Boston Park Plaza:Business service (e.g., internet access):5:11
+Boston Park Plaza:Check in / front desk:1:27
+Boston Park Plaza:Check in / front desk:2:27
+Boston Park Plaza:Check in / front desk:3:68
+Boston Park Plaza:Check in / front desk:4:71
+Boston Park Plaza:Check in / front desk:5:69
+Boston Park Plaza:Value:1:607
+Boston Park Plaza:Value:2:618
+Boston Park Plaza:Value:3:1027
+Boston Park Plaza:Value:4:1008
+Boston Park Plaza:Value:5:940
+Boston Park Plaza:Sleep Quality:1:316
+Boston Park Plaza:Sleep Quality:2:324
+Boston Park Plaza:Sleep Quality:3:751
+Boston Park Plaza:Sleep Quality:4:992
+Boston Park Plaza:Sleep Quality:5:1029
+Boston Park Plaza:Rooms:1:536
+Boston Park Plaza:Rooms:2:697
+Boston Park Plaza:Rooms:3:1190
+Boston Park Plaza:Rooms:4:1003
+Boston Park Plaza:Rooms:5:655
+Boston Park Plaza:Location:1:19
+Boston Park Plaza:Location:2:27
+Boston Park Plaza:Location:3:215
+Boston Park Plaza:Location:4:1069
+Boston Park Plaza:Location:5:2643
+Comfort Inn - Boston:Service:1:28
+Comfort Inn - Boston:Service:2:17
+Comfort Inn - Boston:Service:3:95
+Comfort Inn - Boston:Service:4:83
+Comfort Inn - Boston:Service:5:95
+Comfort Inn - Boston:Cleanliness:1:11
+Comfort Inn - Boston:Cleanliness:2:16
+Comfort Inn - Boston:Cleanliness:3:63
+Comfort Inn - Boston:Cleanliness:4:100
+Comfort Inn - Boston:Cleanliness:5:67
+Comfort Inn - Boston:Business service (e.g., internet access):1:3
+Comfort Inn - Boston:Business service (e.g., internet access):2:3
+Comfort Inn - Boston:Business service (e.g., internet access):3:6
+Comfort Inn - Boston:Business service (e.g., internet access):4:1
+Comfort Inn - Boston:Business service (e.g., internet access):5:1
+Comfort Inn - Boston:Check in / front desk:1:0
+Comfort Inn - Boston:Check in / front desk:2:4
+Comfort Inn - Boston:Check in / front desk:3:7
+Comfort Inn - Boston:Check in / front desk:4:7
+Comfort Inn - Boston:Check in / front desk:5:2
+Comfort Inn - Boston:Value:1:28
+Comfort Inn - Boston:Value:2:29
+Comfort Inn - Boston:Value:3:64
+Comfort Inn - Boston:Value:4:72
+Comfort Inn - Boston:Value:5:66
+Comfort Inn - Boston:Sleep Quality:1:18
+Comfort Inn - Boston:Sleep Quality:2:17
+Comfort Inn - Boston:Sleep Quality:3:39
+Comfort Inn - Boston:Sleep Quality:4:76
+Comfort Inn - Boston:Sleep Quality:5:39
+Comfort Inn - Boston:Location:1:25
+Comfort Inn - Boston:Location:2:37
+Comfort Inn - Boston:Location:3:81
+Comfort Inn - Boston:Location:4:66
+Comfort Inn - Boston:Location:5:28
+Comfort Inn - Boston:Rooms:1:15
+Comfort Inn - Boston:Rooms:2:20
+Comfort Inn - Boston:Rooms:3:84
+Comfort Inn - Boston:Rooms:4:83
+Comfort Inn - Boston:Rooms:5:40
+Constitution Inn:Service:1:45
+Constitution Inn:Service:2:37
+Constitution Inn:Service:3:129
+Constitution Inn:Service:4:146
+Constitution Inn:Service:5:91
+Constitution Inn:Cleanliness:1:35
+Constitution Inn:Cleanliness:2:39
+Constitution Inn:Cleanliness:3:104
+Constitution Inn:Cleanliness:4:125
+Constitution Inn:Cleanliness:5:77
+Constitution Inn:Business service (e.g., internet access):1:0
+Constitution Inn:Business service (e.g., internet access):2:3
+Constitution Inn:Business service (e.g., internet access):3:8
+Constitution Inn:Business service (e.g., internet access):4:4
+Constitution Inn:Business service (e.g., internet access):5:3
+Constitution Inn:Check in / front desk:1:1
+Constitution Inn:Check in / front desk:2:1
+Constitution Inn:Check in / front desk:3:9
+Constitution Inn:Check in / front desk:4:7
+Constitution Inn:Check in / front desk:5:6
+Constitution Inn:Value:1:39
+Constitution Inn:Value:2:38
+Constitution Inn:Value:3:76
+Constitution Inn:Value:4:99
+Constitution Inn:Value:5:125
+Constitution Inn:Sleep Quality:1:32
+Constitution Inn:Sleep Quality:2:29
+Constitution Inn:Sleep Quality:3:87
+Constitution Inn:Sleep Quality:4:91
+Constitution Inn:Sleep Quality:5:63
+Constitution Inn:Location:1:13
+Constitution Inn:Location:2:34
+Constitution Inn:Location:3:95
+Constitution Inn:Location:4:125
+Constitution Inn:Location:5:101
+Constitution Inn:Rooms:1:38
+Constitution Inn:Rooms:2:54
+Constitution Inn:Rooms:3:129
+Constitution Inn:Rooms:4:95
+Constitution Inn:Rooms:5:36
+Courtyard Boston Downtown:Service:1:41
+Courtyard Boston Downtown:Service:2:68
+Courtyard Boston Downtown:Service:3:170
+Courtyard Boston Downtown:Service:4:274
+Courtyard Boston Downtown:Service:5:220
+Courtyard Boston Downtown:Cleanliness:1:29
+Courtyard Boston Downtown:Cleanliness:2:65
+Courtyard Boston Downtown:Cleanliness:3:177
+Courtyard Boston Downtown:Cleanliness:4:250
+Courtyard Boston Downtown:Cleanliness:5:150
+Courtyard Boston Downtown:Business service (e.g., internet access):1:2
+Courtyard Boston Downtown:Business service (e.g., internet access):2:1
+Courtyard Boston Downtown:Business service (e.g., internet access):3:15
+Courtyard Boston Downtown:Business service (e.g., internet access):4:10
+Courtyard Boston Downtown:Business service (e.g., internet access):5:4
+Courtyard Boston Downtown:Check in / front desk:1:1
+Courtyard Boston Downtown:Check in / front desk:2:1
+Courtyard Boston Downtown:Check in / front desk:3:10
+Courtyard Boston Downtown:Check in / front desk:4:19
+Courtyard Boston Downtown:Check in / front desk:5:20
+Courtyard Boston Downtown:Value:1:80
+Courtyard Boston Downtown:Value:2:109
+Courtyard Boston Downtown:Value:3:222
+Courtyard Boston Downtown:Value:4:172
+Courtyard Boston Downtown:Value:5:88
+Courtyard Boston Downtown:Sleep Quality:1:61
+Courtyard Boston Downtown:Sleep Quality:2:71
+Courtyard Boston Downtown:Sleep Quality:3:127
+Courtyard Boston Downtown:Sleep Quality:4:138
+Courtyard Boston Downtown:Sleep Quality:5:77
+Courtyard Boston Downtown:Rooms:1:89
+Courtyard Boston Downtown:Rooms:2:143
+Courtyard Boston Downtown:Rooms:3:229
+Courtyard Boston Downtown:Rooms:4:133
+Courtyard Boston Downtown:Rooms:5:52
+Courtyard Boston Downtown:Location:1:11
+Courtyard Boston Downtown:Location:2:21
+Courtyard Boston Downtown:Location:3:95
+Courtyard Boston Downtown:Location:4:233
+Courtyard Boston Downtown:Location:5:260
+Courtyard Boston-South Boston:Service:1:18
+Courtyard Boston-South Boston:Service:2:18
+Courtyard Boston-South Boston:Service:3:50
+Courtyard Boston-South Boston:Service:4:113
+Courtyard Boston-South Boston:Service:5:154
+Courtyard Boston-South Boston:Cleanliness:1:5
+Courtyard Boston-South Boston:Cleanliness:2:4
+Courtyard Boston-South Boston:Cleanliness:3:29
+Courtyard Boston-South Boston:Cleanliness:4:92
+Courtyard Boston-South Boston:Cleanliness:5:158
+Courtyard Boston-South Boston:Business service (e.g., internet access):1:1
+Courtyard Boston-South Boston:Business service (e.g., internet access):2:0
+Courtyard Boston-South Boston:Business service (e.g., internet access):3:7
+Courtyard Boston-South Boston:Business service (e.g., internet access):4:8
+Courtyard Boston-South Boston:Business service (e.g., internet access):5:26
+Courtyard Boston-South Boston:Check in / front desk:1:2
+Courtyard Boston-South Boston:Check in / front desk:2:3
+Courtyard Boston-South Boston:Check in / front desk:3:9
+Courtyard Boston-South Boston:Check in / front desk:4:14
+Courtyard Boston-South Boston:Check in / front desk:5:24
+Courtyard Boston-South Boston:Value:1:9
+Courtyard Boston-South Boston:Value:2:13
+Courtyard Boston-South Boston:Value:3:53
+Courtyard Boston-South Boston:Value:4:95
+Courtyard Boston-South Boston:Value:5:108
+Courtyard Boston-South Boston:Sleep Quality:1:7
+Courtyard Boston-South Boston:Sleep Quality:2:3
+Courtyard Boston-South Boston:Sleep Quality:3:30
+Courtyard Boston-South Boston:Sleep Quality:4:72
+Courtyard Boston-South Boston:Sleep Quality:5:97
+Courtyard Boston-South Boston:Rooms:1:3
+Courtyard Boston-South Boston:Rooms:2:6
+Courtyard Boston-South Boston:Rooms:3:33
+Courtyard Boston-South Boston:Rooms:4:105
+Courtyard Boston-South Boston:Rooms:5:121
+Courtyard Boston-South Boston:Location:1:13
+Courtyard Boston-South Boston:Location:2:26
+Courtyard Boston-South Boston:Location:3:84
+Courtyard Boston-South Boston:Location:4:100
+Courtyard Boston-South Boston:Location:5:47
+Days Hotel Boston:Service:1:40
+Days Hotel Boston:Service:2:22
+Days Hotel Boston:Service:3:70
+Days Hotel Boston:Service:4:71
+Days Hotel Boston:Service:5:33
+Days Hotel Boston:Cleanliness:1:41
+Days Hotel Boston:Cleanliness:2:31
+Days Hotel Boston:Cleanliness:3:77
+Days Hotel Boston:Cleanliness:4:52
+Days Hotel Boston:Cleanliness:5:22
+Days Hotel Boston:Business service (e.g., internet access):1:2
+Days Hotel Boston:Business service (e.g., internet access):2:2
+Days Hotel Boston:Business service (e.g., internet access):3:4
+Days Hotel Boston:Business service (e.g., internet access):4:4
+Days Hotel Boston:Business service (e.g., internet access):5:1
+Days Hotel Boston:Check in / front desk:1:2
+Days Hotel Boston:Check in / front desk:2:2
+Days Hotel Boston:Check in / front desk:3:8
+Days Hotel Boston:Check in / front desk:4:2
+Days Hotel Boston:Check in / front desk:5:3
+Days Hotel Boston:Value:1:41
+Days Hotel Boston:Value:2:35
+Days Hotel Boston:Value:3:68
+Days Hotel Boston:Value:4:52
+Days Hotel Boston:Value:5:30
+Days Hotel Boston:Sleep Quality:1:24
+Days Hotel Boston:Sleep Quality:2:30
+Days Hotel Boston:Sleep Quality:3:53
+Days Hotel Boston:Sleep Quality:4:54
+Days Hotel Boston:Sleep Quality:5:24
+Days Hotel Boston:Location:1:9
+Days Hotel Boston:Location:2:30
+Days Hotel Boston:Location:3:70
+Days Hotel Boston:Location:4:61
+Days Hotel Boston:Location:5:39
+Days Hotel Boston:Rooms:1:33
+Days Hotel Boston:Rooms:2:45
+Days Hotel Boston:Rooms:3:87
+Days Hotel Boston:Rooms:4:43
+Days Hotel Boston:Rooms:5:17
+Element Boston Seaport:Cleanliness:1:0
+Element Boston Seaport:Cleanliness:2:0
+Element Boston Seaport:Cleanliness:3:0
+Element Boston Seaport:Cleanliness:4:0
+Element Boston Seaport:Cleanliness:5:1
+Element Boston Seaport:Service:1:0
+Element Boston Seaport:Service:2:0
+Element Boston Seaport:Service:3:2
+Element Boston Seaport:Service:4:0
+Element Boston Seaport:Service:5:3
+Element Boston Seaport:Sleep Quality:1:0
+Element Boston Seaport:Sleep Quality:2:0
+Element Boston Seaport:Sleep Quality:3:0
+Element Boston Seaport:Sleep Quality:4:1
+Element Boston Seaport:Sleep Quality:5:1
+Element Boston Seaport:Rooms:1:0
+Element Boston Seaport:Rooms:2:0
+Element Boston Seaport:Rooms:3:0
+Element Boston Seaport:Rooms:4:2
+Element Boston Seaport:Rooms:5:2
+Element Boston Seaport:Value:1:0
+Element Boston Seaport:Value:2:0
+Element Boston Seaport:Value:3:1
+Element Boston Seaport:Value:4:1
+Element Boston Seaport:Value:5:1
+Hilton Garden Inn Boston Logan Airport:Service:1:1
+Hilton Garden Inn Boston Logan Airport:Service:2:4
+Hilton Garden Inn Boston Logan Airport:Service:3:8
+Hilton Garden Inn Boston Logan Airport:Service:4:18
+Hilton Garden Inn Boston Logan Airport:Service:5:148
+Hilton Garden Inn Boston Logan Airport:Cleanliness:1:0
+Hilton Garden Inn Boston Logan Airport:Cleanliness:2:0
+Hilton Garden Inn Boston Logan Airport:Cleanliness:3:2
+Hilton Garden Inn Boston Logan Airport:Cleanliness:4:10
+Hilton Garden Inn Boston Logan Airport:Cleanliness:5:101
+Hilton Garden Inn Boston Logan Airport:Value:1:0
+Hilton Garden Inn Boston Logan Airport:Value:2:1
+Hilton Garden Inn Boston Logan Airport:Value:3:11
+Hilton Garden Inn Boston Logan Airport:Value:4:19
+Hilton Garden Inn Boston Logan Airport:Value:5:73
+Hilton Garden Inn Boston Logan Airport:Sleep Quality:1:0
+Hilton Garden Inn Boston Logan Airport:Sleep Quality:2:0
+Hilton Garden Inn Boston Logan Airport:Sleep Quality:3:4
+Hilton Garden Inn Boston Logan Airport:Sleep Quality:4:18
+Hilton Garden Inn Boston Logan Airport:Sleep Quality:5:85
+Hilton Garden Inn Boston Logan Airport:Location:1:0
+Hilton Garden Inn Boston Logan Airport:Location:2:0
+Hilton Garden Inn Boston Logan Airport:Location:3:8
+Hilton Garden Inn Boston Logan Airport:Location:4:23
+Hilton Garden Inn Boston Logan Airport:Location:5:82
+Hilton Garden Inn Boston Logan Airport:Rooms:1:0
+Hilton Garden Inn Boston Logan Airport:Rooms:2:0
+Hilton Garden Inn Boston Logan Airport:Rooms:3:2
+Hilton Garden Inn Boston Logan Airport:Rooms:4:16
+Hilton Garden Inn Boston Logan Airport:Rooms:5:86
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Service:1:13
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Service:2:11
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Service:3:41
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Service:4:80
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Service:5:214
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Cleanliness:1:9
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Cleanliness:2:16
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Cleanliness:3:47
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Cleanliness:4:88
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Cleanliness:5:107
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Value:1:17
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Value:2:24
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Value:3:57
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Value:4:90
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Value:5:70
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Sleep Quality:1:18
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Sleep Quality:2:25
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Sleep Quality:3:34
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Sleep Quality:4:71
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Sleep Quality:5:70
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Rooms:1:16
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Rooms:2:21
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Rooms:3:73
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Rooms:4:87
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Rooms:5:66
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Location:1:12
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Location:2:4
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Location:3:21
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Location:4:71
+Holiday Inn Express Hotel &amp; Suites Boston Garden:Location:5:150
+Milner Hotel:Service:1:43
+Milner Hotel:Service:2:43
+Milner Hotel:Service:3:104
+Milner Hotel:Service:4:118
+Milner Hotel:Service:5:67
+Milner Hotel:Cleanliness:1:22
+Milner Hotel:Cleanliness:2:28
+Milner Hotel:Cleanliness:3:96
+Milner Hotel:Cleanliness:4:94
+Milner Hotel:Cleanliness:5:65
+Milner Hotel:Business service (e.g., internet access):1:8
+Milner Hotel:Business service (e.g., internet access):2:1
+Milner Hotel:Business service (e.g., internet access):3:4
+Milner Hotel:Business service (e.g., internet access):4:3
+Milner Hotel:Business service (e.g., internet access):5:1
+Milner Hotel:Check in / front desk:1:9
+Milner Hotel:Check in / front desk:2:4
+Milner Hotel:Check in / front desk:3:8
+Milner Hotel:Check in / front desk:4:5
+Milner Hotel:Check in / front desk:5:2
+Milner Hotel:Value:1:51
+Milner Hotel:Value:2:35
+Milner Hotel:Value:3:67
+Milner Hotel:Value:4:85
+Milner Hotel:Value:5:72
+Milner Hotel:Sleep Quality:1:24
+Milner Hotel:Sleep Quality:2:31
+Milner Hotel:Sleep Quality:3:64
+Milner Hotel:Sleep Quality:4:76
+Milner Hotel:Sleep Quality:5:38
+Milner Hotel:Rooms:1:59
+Milner Hotel:Rooms:2:59
+Milner Hotel:Rooms:3:109
+Milner Hotel:Rooms:4:63
+Milner Hotel:Rooms:5:16
+Milner Hotel:Location:1:4
+Milner Hotel:Location:2:8
+Milner Hotel:Location:3:23
+Milner Hotel:Location:4:109
+Milner Hotel:Location:5:144
+Ramada Boston:Service:1:146
+Ramada Boston:Service:2:114
+Ramada Boston:Service:3:265
+Ramada Boston:Service:4:278
+Ramada Boston:Service:5:317
+Ramada Boston:Cleanliness:1:108
+Ramada Boston:Cleanliness:2:140
+Ramada Boston:Cleanliness:3:299
+Ramada Boston:Cleanliness:4:283
+Ramada Boston:Cleanliness:5:215
+Ramada Boston:Business service (e.g., internet access):1:3
+Ramada Boston:Business service (e.g., internet access):2:5
+Ramada Boston:Business service (e.g., internet access):3:5
+Ramada Boston:Business service (e.g., internet access):4:1
+Ramada Boston:Business service (e.g., internet access):5:4
+Ramada Boston:Check in / front desk:1:4
+Ramada Boston:Check in / front desk:2:7
+Ramada Boston:Check in / front desk:3:6
+Ramada Boston:Check in / front desk:4:4
+Ramada Boston:Check in / front desk:5:5
+Ramada Boston:Value:1:145
+Ramada Boston:Value:2:175
+Ramada Boston:Value:3:248
+Ramada Boston:Value:4:253
+Ramada Boston:Value:5:224
+Ramada Boston:Sleep Quality:1:118
+Ramada Boston:Sleep Quality:2:128
+Ramada Boston:Sleep Quality:3:262
+Ramada Boston:Sleep Quality:4:246
+Ramada Boston:Sleep Quality:5:200
+Ramada Boston:Location:1:91
+Ramada Boston:Location:2:136
+Ramada Boston:Location:3:378
+Ramada Boston:Location:4:240
+Ramada Boston:Location:5:179
+Ramada Boston:Rooms:1:135
+Ramada Boston:Rooms:2:176
+Ramada Boston:Rooms:3:331
+Ramada Boston:Rooms:4:240
+Ramada Boston:Rooms:5:147
+Residence Inn Boston Downtown Seaport:Service:1:2
+Residence Inn Boston Downtown Seaport:Service:2:1
+Residence Inn Boston Downtown Seaport:Service:3:15
+Residence Inn Boston Downtown Seaport:Service:4:49
+Residence Inn Boston Downtown Seaport:Service:5:190
+Residence Inn Boston Downtown Seaport:Cleanliness:1:0
+Residence Inn Boston Downtown Seaport:Cleanliness:2:1
+Residence Inn Boston Downtown Seaport:Cleanliness:3:4
+Residence Inn Boston Downtown Seaport:Cleanliness:4:12
+Residence Inn Boston Downtown Seaport:Cleanliness:5:147
+Residence Inn Boston Downtown Seaport:Value:1:1
+Residence Inn Boston Downtown Seaport:Value:2:0
+Residence Inn Boston Downtown Seaport:Value:3:34
+Residence Inn Boston Downtown Seaport:Value:4:55
+Residence Inn Boston Downtown Seaport:Value:5:80
+Residence Inn Boston Downtown Seaport:Sleep Quality:1:3
+Residence Inn Boston Downtown Seaport:Sleep Quality:2:3
+Residence Inn Boston Downtown Seaport:Sleep Quality:3:9
+Residence Inn Boston Downtown Seaport:Sleep Quality:4:37
+Residence Inn Boston Downtown Seaport:Sleep Quality:5:105
+Residence Inn Boston Downtown Seaport:Location:1:0
+Residence Inn Boston Downtown Seaport:Location:2:1
+Residence Inn Boston Downtown Seaport:Location:3:14
+Residence Inn Boston Downtown Seaport:Location:4:39
+Residence Inn Boston Downtown Seaport:Location:5:122
+Residence Inn Boston Downtown Seaport:Rooms:1:0
+Residence Inn Boston Downtown Seaport:Rooms:2:2
+Residence Inn Boston Downtown Seaport:Rooms:3:2
+Residence Inn Boston Downtown Seaport:Rooms:4:31
+Residence Inn Boston Downtown Seaport:Rooms:5:150
+The Boston Common Hotel and Conference Center:Service:1:36
+The Boston Common Hotel and Conference Center:Service:2:47
+The Boston Common Hotel and Conference Center:Service:3:165
+The Boston Common Hotel and Conference Center:Service:4:228
+The Boston Common Hotel and Conference Center:Service:5:150
+The Boston Common Hotel and Conference Center:Cleanliness:1:50
+The Boston Common Hotel and Conference Center:Cleanliness:2:66
+The Boston Common Hotel and Conference Center:Cleanliness:3:135
+The Boston Common Hotel and Conference Center:Cleanliness:4:178
+The Boston Common Hotel and Conference Center:Cleanliness:5:87
+The Boston Common Hotel and Conference Center:Value:1:51
+The Boston Common Hotel and Conference Center:Value:2:74
+The Boston Common Hotel and Conference Center:Value:3:119
+The Boston Common Hotel and Conference Center:Value:4:135
+The Boston Common Hotel and Conference Center:Value:5:137
+The Boston Common Hotel and Conference Center:Sleep Quality:1:24
+The Boston Common Hotel and Conference Center:Sleep Quality:2:34
+The Boston Common Hotel and Conference Center:Sleep Quality:3:117
+The Boston Common Hotel and Conference Center:Sleep Quality:4:178
+The Boston Common Hotel and Conference Center:Sleep Quality:5:106
+The Boston Common Hotel and Conference Center:Rooms:1:55
+The Boston Common Hotel and Conference Center:Rooms:2:108
+The Boston Common Hotel and Conference Center:Rooms:3:212
+The Boston Common Hotel and Conference Center:Rooms:4:107
+The Boston Common Hotel and Conference Center:Rooms:5:32
+The Boston Common Hotel and Conference Center:Location:1:6
+The Boston Common Hotel and Conference Center:Location:2:3
+The Boston Common Hotel and Conference Center:Location:3:35
+The Boston Common Hotel and Conference Center:Location:4:150
+The Boston Common Hotel and Conference Center:Location:5:313
+The Envoy Hotel, Autograph Collection:Service:1:3
+The Envoy Hotel, Autograph Collection:Service:2:3
+The Envoy Hotel, Autograph Collection:Service:3:6
+The Envoy Hotel, Autograph Collection:Service:4:16
+The Envoy Hotel, Autograph Collection:Service:5:62
+The Envoy Hotel, Autograph Collection:Cleanliness:1:1
+The Envoy Hotel, Autograph Collection:Cleanliness:2:0
+The Envoy Hotel, Autograph Collection:Cleanliness:3:0
+The Envoy Hotel, Autograph Collection:Cleanliness:4:5
+The Envoy Hotel, Autograph Collection:Cleanliness:5:28
+The Envoy Hotel, Autograph Collection:Value:1:1
+The Envoy Hotel, Autograph Collection:Value:2:3
+The Envoy Hotel, Autograph Collection:Value:3:5
+The Envoy Hotel, Autograph Collection:Value:4:11
+The Envoy Hotel, Autograph Collection:Value:5:10
+The Envoy Hotel, Autograph Collection:Sleep Quality:1:1
+The Envoy Hotel, Autograph Collection:Sleep Quality:2:1
+The Envoy Hotel, Autograph Collection:Sleep Quality:3:8
+The Envoy Hotel, Autograph Collection:Sleep Quality:4:8
+The Envoy Hotel, Autograph Collection:Sleep Quality:5:21
+The Envoy Hotel, Autograph Collection:Location:1:0
+The Envoy Hotel, Autograph Collection:Location:2:1
+The Envoy Hotel, Autograph Collection:Location:3:0
+The Envoy Hotel, Autograph Collection:Location:4:13
+The Envoy Hotel, Autograph Collection:Location:5:26
+The Envoy Hotel, Autograph Collection:Rooms:1:1
+The Envoy Hotel, Autograph Collection:Rooms:2:0
+The Envoy Hotel, Autograph Collection:Rooms:3:3
+The Envoy Hotel, Autograph Collection:Rooms:4:7
+The Envoy Hotel, Autograph Collection:Rooms:5:23
+The Godfrey Hotel Boston:Service:1:0
+The Godfrey Hotel Boston:Service:2:1
+The Godfrey Hotel Boston:Service:3:4
+The Godfrey Hotel Boston:Service:4:13
+The Godfrey Hotel Boston:Service:5:111
+The Godfrey Hotel Boston:Cleanliness:1:0
+The Godfrey Hotel Boston:Cleanliness:2:0
+The Godfrey Hotel Boston:Cleanliness:3:2
+The Godfrey Hotel Boston:Cleanliness:4:5
+The Godfrey Hotel Boston:Cleanliness:5:105
+The Godfrey Hotel Boston:Value:1:0
+The Godfrey Hotel Boston:Value:2:1
+The Godfrey Hotel Boston:Value:3:9
+The Godfrey Hotel Boston:Value:4:29
+The Godfrey Hotel Boston:Value:5:72
+The Godfrey Hotel Boston:Sleep Quality:1:1
+The Godfrey Hotel Boston:Sleep Quality:2:3
+The Godfrey Hotel Boston:Sleep Quality:3:6
+The Godfrey Hotel Boston:Sleep Quality:4:7
+The Godfrey Hotel Boston:Sleep Quality:5:92
+The Godfrey Hotel Boston:Location:1:0
+The Godfrey Hotel Boston:Location:2:0
+The Godfrey Hotel Boston:Location:3:1
+The Godfrey Hotel Boston:Location:4:12
+The Godfrey Hotel Boston:Location:5:102
+The Godfrey Hotel Boston:Rooms:1:0
+The Godfrey Hotel Boston:Rooms:2:1
+The Godfrey Hotel Boston:Rooms:3:7
+The Godfrey Hotel Boston:Rooms:4:20
+The Godfrey Hotel Boston:Rooms:5:81
+The Inn at Longwood Medical:Service:1:34
+The Inn at Longwood Medical:Service:2:27
+The Inn at Longwood Medical:Service:3:89
+The Inn at Longwood Medical:Service:4:141
+The Inn at Longwood Medical:Service:5:442
+The Inn at Longwood Medical:Cleanliness:1:23
+The Inn at Longwood Medical:Cleanliness:2:28
+The Inn at Longwood Medical:Cleanliness:3:80
+The Inn at Longwood Medical:Cleanliness:4:142
+The Inn at Longwood Medical:Cleanliness:5:320
+The Inn at Longwood Medical:Business service (e.g., internet access):1:2
+The Inn at Longwood Medical:Business service (e.g., internet access):2:8
+The Inn at Longwood Medical:Business service (e.g., internet access):3:6
+The Inn at Longwood Medical:Business service (e.g., internet access):4:5
+The Inn at Longwood Medical:Business service (e.g., internet access):5:13
+The Inn at Longwood Medical:Check in / front desk:1:2
+The Inn at Longwood Medical:Check in / front desk:2:7
+The Inn at Longwood Medical:Check in / front desk:3:7
+The Inn at Longwood Medical:Check in / front desk:4:10
+The Inn at Longwood Medical:Check in / front desk:5:17
+The Inn at Longwood Medical:Value:1:42
+The Inn at Longwood Medical:Value:2:49
+The Inn at Longwood Medical:Value:3:99
+The Inn at Longwood Medical:Value:4:137
+The Inn at Longwood Medical:Value:5:258
+The Inn at Longwood Medical:Sleep Quality:1:22
+The Inn at Longwood Medical:Sleep Quality:2:23
+The Inn at Longwood Medical:Sleep Quality:3:65
+The Inn at Longwood Medical:Sleep Quality:4:108
+The Inn at Longwood Medical:Sleep Quality:5:215
+The Inn at Longwood Medical:Location:1:10
+The Inn at Longwood Medical:Location:2:4
+The Inn at Longwood Medical:Location:3:48
+The Inn at Longwood Medical:Location:4:111
+The Inn at Longwood Medical:Location:5:397
+The Inn at Longwood Medical:Rooms:1:27
+The Inn at Longwood Medical:Rooms:2:42
+The Inn at Longwood Medical:Rooms:3:108
+The Inn at Longwood Medical:Rooms:4:149
+The Inn at Longwood Medical:Rooms:5:226
+The Ritz-Carlton, Boston:Service:1:18
+The Ritz-Carlton, Boston:Service:2:25
+The Ritz-Carlton, Boston:Service:3:29
+The Ritz-Carlton, Boston:Service:4:71
+The Ritz-Carlton, Boston:Service:5:360
+The Ritz-Carlton, Boston:Cleanliness:1:4
+The Ritz-Carlton, Boston:Cleanliness:2:8
+The Ritz-Carlton, Boston:Cleanliness:3:20
+The Ritz-Carlton, Boston:Cleanliness:4:72
+The Ritz-Carlton, Boston:Cleanliness:5:323
+The Ritz-Carlton, Boston:Business service (e.g., internet access):1:1
+The Ritz-Carlton, Boston:Business service (e.g., internet access):2:4
+The Ritz-Carlton, Boston:Business service (e.g., internet access):3:3
+The Ritz-Carlton, Boston:Business service (e.g., internet access):4:4
+The Ritz-Carlton, Boston:Business service (e.g., internet access):5:19
+The Ritz-Carlton, Boston:Check in / front desk:1:3
+The Ritz-Carlton, Boston:Check in / front desk:2:2
+The Ritz-Carlton, Boston:Check in / front desk:3:4
+The Ritz-Carlton, Boston:Check in / front desk:4:12
+The Ritz-Carlton, Boston:Check in / front desk:5:19
+The Ritz-Carlton, Boston:Value:1:24
+The Ritz-Carlton, Boston:Value:2:30
+The Ritz-Carlton, Boston:Value:3:85
+The Ritz-Carlton, Boston:Value:4:145
+The Ritz-Carlton, Boston:Value:5:146
+The Ritz-Carlton, Boston:Sleep Quality:1:8
+The Ritz-Carlton, Boston:Sleep Quality:2:3
+The Ritz-Carlton, Boston:Sleep Quality:3:27
+The Ritz-Carlton, Boston:Sleep Quality:4:53
+The Ritz-Carlton, Boston:Sleep Quality:5:240
+The Ritz-Carlton, Boston:Rooms:1:11
+The Ritz-Carlton, Boston:Rooms:2:10
+The Ritz-Carlton, Boston:Rooms:3:44
+The Ritz-Carlton, Boston:Rooms:4:101
+The Ritz-Carlton, Boston:Rooms:5:238
+The Ritz-Carlton, Boston:Location:1:4
+The Ritz-Carlton, Boston:Location:2:8
+The Ritz-Carlton, Boston:Location:3:29
+The Ritz-Carlton, Boston:Location:4:85
+The Ritz-Carlton, Boston:Location:5:271

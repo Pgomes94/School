@@ -1,0 +1,11 @@
+// 1
+Contains Omni Parker House data file (25): 25
+File is in the correct format and contains (almost) all reviews (5): 5
+// 2
+Computes Average Score (5): 5
+fits a linear model to the data (10): 10
+discusses quality of model and important factors, given the regression output (5): 5
+// 3
+decides if hotels are excellent or not (5): 5
+fits a logistic model to the data (20): 0                                               // You used linear regression instead of logistic regression
+discusses quality of model and important factors, given the regression output (5): 0

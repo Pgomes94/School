@@ -1,0 +1,11 @@
+Q1: JSON object             5/5
+Q2: 1/1/2015 creation_dates 5/5
+Q3: question_dataframe.csv  10/10
+Q4: Users distance matrix   30/30
+Q5: Users plt               10/10
+Q6: Timeseries              30/30
+Q7: Timeseries plt          10/10
+
+Total:                      100/100
+
+commit 2cb727eea04537aaea763cc0266d1fe3835eae60

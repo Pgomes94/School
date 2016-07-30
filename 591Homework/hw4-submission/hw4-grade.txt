@@ -1,0 +1,12 @@
+Written report:
+Task 1: 10/10
+Task 2: 10/10
+Task 3: 5/10
+
+Kaggle:
+Rating baseline: 10/10
+Rating public/private ranking: 6/10
+Purchase baseline: 10/10
+Purchase public/private ranking: 4/10
+Helpfulness baseline: 10/10
+Helpfulness public/private ranking: 2/10
